@@ -1,0 +1,28 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "cmivqa"
+repo_name: "ro-arxiv-daily"
+show_authors: True
+show_links: True
+max_results: 200
+
+publish_readme: True
+publish_gitpage: True
+
+# file paths
+json_readme_path: './docs/ro-arxiv-daily.json'
+json_gitpage_path: './docs/ro-arxiv-daily-web.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+
+# keywords to search
+keywords:
+    "Large Language Model":
+        filters: ["LLM", "Language Model","Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Visual Language", "Prompt Learning", "Foundation Model"]
+    "Text Classification":
+        filters: ["Text Classification", "Document Classification", "Topic Modeling", "Spam Detection", "Labeling", "Supervised Learning", "Unsupervised Learning", "Neural Networks"]
+    "Dialog Systems":
+        filters: ["Dialog Systems", "Conversational AI", "Chatbots", "Virtual Assistants", "Natural Language Understanding (NLU)", "Task-oriented Dialog", "Open-domain Dialog", "Reinforcement Learning", "User Interaction"]
+    Multimodal LLM:
+        filters: ["Multimodal", "Large Language Model", "Visual Language", "Cross-modal Learning", "Multimodal Fusion", "Vision-Language Models", "Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Prompt Learning", "Foundation Model", "Image-Text Interaction"]
