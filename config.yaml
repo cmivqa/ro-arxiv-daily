@@ -24,5 +24,5 @@ keywords:
         filters: ["Text Classification", "Document Classification", "Topic Modeling", "Spam Detection", "Labeling", "Supervised Learning", "Unsupervised Learning", "Neural Networks"]
     "Dialog Systems":
         filters: ["Dialog Systems", "Conversational AI", "Chatbots", "Virtual Assistants", "Natural Language Understanding (NLU)", "Task-oriented Dialog", "Open-domain Dialog", "Reinforcement Learning", "User Interaction"]
-    Multimodal LLM:
+    "Multimodal LLM":
         filters: ["Multimodal", "Large Language Model", "Visual Language", "Cross-modal Learning", "Multimodal Fusion", "Vision-Language Models", "Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Prompt Learning", "Foundation Model", "Image-Text Interaction"]
