@@ -1,4 +1,4 @@
-## Updated on 2024.09.21
+## Updated on 2024.09.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -163,7 +163,7 @@
 |**2024-09-16**|**Playground v3: Improving Text-to-Image Alignment with Deep-Fusion Large Language Models**|Bingchen Liu et.al.|[2409.10695](http://arxiv.org/abs/2409.10695)|null|
 |**2024-09-16**|**MotIF: Motion Instruction Fine-tuning**|Minyoung Hwang et.al.|[2409.10683](http://arxiv.org/abs/2409.10683)|null|
 |**2024-09-16**|**Improving Multi-candidate Speculative Decoding**|Xiaofan Lu et.al.|[2409.10644](http://arxiv.org/abs/2409.10644)|**[link](https://github.com/JackZeng0208/DynaSD)**|
-|**2024-09-16**|**CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**|Luning Wang et.al.|[2409.10593](http://arxiv.org/abs/2409.10593)|null|
+|**2024-09-16**|**CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**|Luning Wang et.al.|[2409.10593](http://arxiv.org/abs/2409.10593)|**[link](https://github.com/wln20/CSKV)**|
 |**2024-09-15**|**Veridical Data Science for Medical Foundation Models**|Ahmed Alaa et.al.|[2409.10580](http://arxiv.org/abs/2409.10580)|null|
 |**2024-09-15**|**Recent advances in deep learning and language models for studying the microbiome**|Binghao Yan et.al.|[2409.10579](http://arxiv.org/abs/2409.10579)|null|
 |**2024-09-18**|**Language Models and Retrieval Augmented Generation for Automated Structured Data Extraction from Diagnostic Reports**|Mohamed Sobhi Jabal et.al.|[2409.10576](http://arxiv.org/abs/2409.10576)|null|
@@ -188,7 +188,7 @@
 |**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343](http://arxiv.org/abs/2409.10343)|null|
 |**2024-09-16**|**The 20 questions game to distinguish large language models**|Gurvan Richardeau et.al.|[2409.10338](http://arxiv.org/abs/2409.10338)|null|
 |**2024-09-16**|**MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294](http://arxiv.org/abs/2409.10294)|null|
-|**2024-09-18**|**ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|null|
+|**2024-09-18**|**ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|**[link](https://github.com/Jiahao-Yuan/ReflectDiffu)**|
 |**2024-09-16**|**ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code**|Jia Feng et.al.|[2409.10280](http://arxiv.org/abs/2409.10280)|null|
 |**2024-09-16**|**ES-KT-24: A Multimodal Knowledge Tracing Benchmark Dataset with Educational Game Playing Video and Synthetic Text Generation**|Dohee Kim et.al.|[2409.10244](http://arxiv.org/abs/2409.10244)|null|
 |**2024-09-16**|**Robust Bird's Eye View Segmentation by Adapting DINOv2**|Merve Rabia Barın et.al.|[2409.10228](http://arxiv.org/abs/2409.10228)|null|
@@ -283,7 +283,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|null|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20240921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
 
 ## Text Classification
 
@@ -559,7 +559,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20240921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -617,7 +617,7 @@
 |**2024-09-19**|**Instigating Cooperation among LLM Agents Using Adaptive Information Modulation**|Qiliang Chen et.al.|[2409.10372](http://arxiv.org/abs/2409.10372)|null|
 |**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343](http://arxiv.org/abs/2409.10343)|null|
 |**2024-09-16**|**Catch It! Learning to Catch in Flight with Mobile Dexterous Hands**|Yuanhang Zhang et.al.|[2409.10319](http://arxiv.org/abs/2409.10319)|null|
-|**2024-09-18**|**ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|null|
+|**2024-09-18**|**ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|**[link](https://github.com/Jiahao-Yuan/ReflectDiffu)**|
 |**2024-09-16**|**Safety-Oriented Pruning and Interpretation of Reinforcement Learning Policies**|Dennis Gross et.al.|[2409.10218](http://arxiv.org/abs/2409.10218)|null|
 |**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-16**|**Safe and Stable Closed-Loop Learning for Neural-Network-Supported Model Predictive Control**|Sebastian Hirt et.al.|[2409.10171](http://arxiv.org/abs/2409.10171)|null|
@@ -790,7 +790,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20240921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -921,7 +921,7 @@
 |**2024-09-18**|**LLMs as information warriors? Auditing how LLM-powered chatbots tackle disinformation about Russia's war in Ukraine**|Mykola Makhortykh et.al.|[2409.10697](http://arxiv.org/abs/2409.10697)|null|
 |**2024-09-16**|**Playground v3: Improving Text-to-Image Alignment with Deep-Fusion Large Language Models**|Bingchen Liu et.al.|[2409.10695](http://arxiv.org/abs/2409.10695)|null|
 |**2024-09-16**|**Improving Multi-candidate Speculative Decoding**|Xiaofan Lu et.al.|[2409.10644](http://arxiv.org/abs/2409.10644)|**[link](https://github.com/JackZeng0208/DynaSD)**|
-|**2024-09-16**|**CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**|Luning Wang et.al.|[2409.10593](http://arxiv.org/abs/2409.10593)|null|
+|**2024-09-16**|**CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**|Luning Wang et.al.|[2409.10593](http://arxiv.org/abs/2409.10593)|**[link](https://github.com/wln20/CSKV)**|
 |**2024-09-15**|**Veridical Data Science for Medical Foundation Models**|Ahmed Alaa et.al.|[2409.10580](http://arxiv.org/abs/2409.10580)|null|
 |**2024-09-15**|**Recent advances in deep learning and language models for studying the microbiome**|Binghao Yan et.al.|[2409.10579](http://arxiv.org/abs/2409.10579)|null|
 |**2024-09-18**|**Language Models and Retrieval Augmented Generation for Automated Structured Data Extraction from Diagnostic Reports**|Mohamed Sobhi Jabal et.al.|[2409.10576](http://arxiv.org/abs/2409.10576)|null|
@@ -942,7 +942,7 @@
 |**2024-09-17**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
 |**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343](http://arxiv.org/abs/2409.10343)|null|
 |**2024-09-16**|**The 20 questions game to distinguish large language models**|Gurvan Richardeau et.al.|[2409.10338](http://arxiv.org/abs/2409.10338)|null|
-|**2024-09-18**|**ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|null|
+|**2024-09-18**|**ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|**[link](https://github.com/Jiahao-Yuan/ReflectDiffu)**|
 |**2024-09-16**|**ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code**|Jia Feng et.al.|[2409.10280](http://arxiv.org/abs/2409.10280)|null|
 |**2024-09-16**|**ES-KT-24: A Multimodal Knowledge Tracing Benchmark Dataset with Educational Game Playing Video and Synthetic Text Generation**|Dohee Kim et.al.|[2409.10244](http://arxiv.org/abs/2409.10244)|null|
 |**2024-09-16**|**Robust Bird's Eye View Segmentation by Adapting DINOv2**|Merve Rabia Barın et.al.|[2409.10228](http://arxiv.org/abs/2409.10228)|null|
@@ -1053,5 +1053,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|null|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20240921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
 
