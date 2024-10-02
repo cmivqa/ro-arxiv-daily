@@ -985,7 +985,7 @@ layout: default
 |**2024-09-29**|**A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends**|Yucheng Wang et.al.|[2409.19629](http://arxiv.org/abs/2409.19629)|null|
 |**2024-09-29**|**IDEAW: Robust Neural Audio Watermarking with Invertible Dual-Embedding**|Pengcheng Li et.al.|[2409.19627](http://arxiv.org/abs/2409.19627)|null|
 |**2024-09-29**|**DropEdge not Foolproof: Effective Augmentation Method for Signed Graph Neural Networks**|Zeyu Zhang et.al.|[2409.19620](http://arxiv.org/abs/2409.19620)|null|
-|**2024-09-29**|**DuoGNN: Topology-aware Graph Neural Network with Homophily and Heterophily Interaction-Decoupling**|K. Mancini et.al.|[2409.19616](http://arxiv.org/abs/2409.19616)|null|
+|**2024-09-29**|**DuoGNN: Topology-aware Graph Neural Network with Homophily and Heterophily Interaction-Decoupling**|K. Mancini et.al.|[2409.19616](http://arxiv.org/abs/2409.19616)|**[link](https://github.com/basiralab/duognn)**|
 |**2024-09-29**|**Improved Architecture for High-resolution Piano Transcription to Efficiently Capture Acoustic Characteristics of Music Signals**|Jinyi Mi et.al.|[2409.19614](http://arxiv.org/abs/2409.19614)|null|
 |**2024-09-29**|**An Unbiased Risk Estimator for Partial Label Learning with Augmented Classes**|Jiayu Hu et.al.|[2409.19600](http://arxiv.org/abs/2409.19600)|null|
 |**2024-09-29**|**MASKDROID: Robust Android Malware Detection with Masked Graph Representations**|Jingnan Zheng et.al.|[2409.19594](http://arxiv.org/abs/2409.19594)|null|
@@ -1005,7 +1005,7 @@ layout: default
 |**2024-09-28**|**HTML-LSTM: Information Extraction from HTML Tables in Web Pages using Tree-Structured LSTM**|Kazuki Kawamura et.al.|[2409.19445](http://arxiv.org/abs/2409.19445)|null|
 |**2024-09-28**|**Simulation-based inference with the Python Package sbijax**|Simon Dirmeier et.al.|[2409.19435](http://arxiv.org/abs/2409.19435)|null|
 |**2024-09-28**|**RMLR: Extending Multinomial Logistic Regression into General Geometries**|Ziheng Chen et.al.|[2409.19433](http://arxiv.org/abs/2409.19433)|null|
-|**2024-09-28**|**MicroFlow: An Efficient Rust-Based Inference Engine for TinyML**|Matteo Carnelos et.al.|[2409.19432](http://arxiv.org/abs/2409.19432)|null|
+|**2024-09-28**|**MicroFlow: An Efficient Rust-Based Inference Engine for TinyML**|Matteo Carnelos et.al.|[2409.19432](http://arxiv.org/abs/2409.19432)|**[link](https://github.com/matteocarnelos/microflow-rs)**|
 |**2024-09-28**|**Fast Encoding and Decoding for Implicit Video Representation**|Hao Chen et.al.|[2409.19429](http://arxiv.org/abs/2409.19429)|null|
 |**2024-09-28**|**Sequential Signal Mixing Aggregation for Message Passing Graph Neural Networks**|Mitchell Keren Taraday et.al.|[2409.19414](http://arxiv.org/abs/2409.19414)|null|
 |**2024-09-28**|**Membership Privacy Evaluation in Deep Spiking Neural Networks**|Jiaxin Li et.al.|[2409.19413](http://arxiv.org/abs/2409.19413)|null|
