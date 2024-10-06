@@ -1366,7 +1366,7 @@
 |**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
 |**2024-10-02**|**Foldable SuperNets: Scalable Merging of Transformers with Different Initializations and Tasks**|Edan Kinderman et.al.|[2410.01483](http://arxiv.org/abs/2410.01483)|**[link](https://github.com/idankinderman/fs_merge)**|
 |**2024-10-02**|**One Wave to Explain Them All: A Unifying Perspective on Post-hoc Explainability**|Gabriel Kasmi et.al.|[2410.01482](http://arxiv.org/abs/2410.01482)|null|
-|**2024-10-02**|**Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process**|Xingyu Ji et.al.|[2410.01457](http://arxiv.org/abs/2410.01457)|null|
+|**2024-10-02**|**Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process**|Xingyu Ji et.al.|[2410.01457](http://arxiv.org/abs/2410.01457)|**[link](https://github.com/Erican-Ji/VGRL)**|
 |**2024-10-02**|**Ensembles provably learn equivariance through data augmentation**|Oskar Nordenfors et.al.|[2410.01452](http://arxiv.org/abs/2410.01452)|**[link](https://github.com/onordenfors/ensemble_experiment)**|
 |**2024-10-02**|**Decorrelation-based Self-Supervised Visual Representation Learning for Writer Identification**|Arkadip Maitra et.al.|[2410.01441](http://arxiv.org/abs/2410.01441)|null|
 |**2024-10-02**|**Closed-loop Long-horizon Robotic Planning via Equilibrium Sequence Modeling**|Jinghan Li et.al.|[2410.01440](http://arxiv.org/abs/2410.01440)|**[link](https://github.com/singularity0104/equilibrium-planner)**|
@@ -3056,7 +3056,7 @@
 |**2024-10-03**|**Extending Context Window of Large Language Models from a Distributional Perspective**|Yingsheng Wu et.al.|[2410.01490](http://arxiv.org/abs/2410.01490)|**[link](https://github.com/1180301012/DPRoPE)**|
 |**2024-10-02**|**A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts**|Suyu Ge et.al.|[2410.01485](http://arxiv.org/abs/2410.01485)|null|
 |**2024-10-02**|**From Reward Shaping to Q-Shaping: Achieving Unbiased Learning with LLM-Guided Knowledge**|Xiefeng Wu et.al.|[2410.01458](http://arxiv.org/abs/2410.01458)|null|
-|**2024-10-02**|**Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process**|Xingyu Ji et.al.|[2410.01457](http://arxiv.org/abs/2410.01457)|null|
+|**2024-10-02**|**Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process**|Xingyu Ji et.al.|[2410.01457](http://arxiv.org/abs/2410.01457)|**[link](https://github.com/Erican-Ji/VGRL)**|
 |**2024-10-02**|**Agent-Driven Large Language Models for Mandarin Lyric Generation**|Hong-Hsiang Liu et.al.|[2410.01450](http://arxiv.org/abs/2410.01450)|null|
 |**2024-10-02**|**Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks**|Xingxuan Li et.al.|[2410.01428](http://arxiv.org/abs/2410.01428)|null|
 |**2024-10-02**|**The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs**|Hong Li et.al.|[2410.01417](http://arxiv.org/abs/2410.01417)|null|
