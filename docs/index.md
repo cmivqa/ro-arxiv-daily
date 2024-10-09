@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.08
+## Updated on 2024.10.09
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2855,7 +2855,7 @@ layout: default
 |**2024-10-07**|**Mastering Chinese Chess AI (Xiangqi) Without Search**|Yu Chen et.al.|[2410.04865](http://arxiv.org/abs/2410.04865)|null|
 |**2024-10-07**|**Unsupervised Skill Discovery for Robotic Manipulation through Automatic Task Generation**|Paul Jansonnie et.al.|[2410.04855](http://arxiv.org/abs/2410.04855)|null|
 |**2024-10-07**|**As Simple as Fine-tuning: LLM Alignment via Bidirectional Negative Feedback Loss**|Xin Mao et.al.|[2410.04834](http://arxiv.org/abs/2410.04834)|null|
-|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|null|
+|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
 |**2024-10-07**|**Domains as Objectives: Domain-Uncertainty-Aware Policy Optimization through Explicit Multi-Domain Convex Coverage Set Learning**|Wendyam Eric Lionel Ilboudo et.al.|[2410.04719](http://arxiv.org/abs/2410.04719)|null|
 |**2024-10-07**|**Towards Measuring Goal-Directedness in AI Systems**|Dylan Xu et.al.|[2410.04683](http://arxiv.org/abs/2410.04683)|null|
 |**2024-10-07**|**A Universal Formulation for Path-Parametric Planning and Control**|Jon Arrizabalaga et.al.|[2410.04664](http://arxiv.org/abs/2410.04664)|null|

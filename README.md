@@ -1,4 +1,4 @@
-## Updated on 2024.10.08
+## Updated on 2024.10.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1572,7 +1572,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|null|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
 
 ## Text Classification
 
@@ -2845,7 +2845,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -2865,7 +2865,7 @@
 |**2024-10-07**|**Mastering Chinese Chess AI (Xiangqi) Without Search**|Yu Chen et.al.|[2410.04865](http://arxiv.org/abs/2410.04865)|null|
 |**2024-10-07**|**Unsupervised Skill Discovery for Robotic Manipulation through Automatic Task Generation**|Paul Jansonnie et.al.|[2410.04855](http://arxiv.org/abs/2410.04855)|null|
 |**2024-10-07**|**As Simple as Fine-tuning: LLM Alignment via Bidirectional Negative Feedback Loss**|Xin Mao et.al.|[2410.04834](http://arxiv.org/abs/2410.04834)|null|
-|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|null|
+|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
 |**2024-10-07**|**Domains as Objectives: Domain-Uncertainty-Aware Policy Optimization through Explicit Multi-Domain Convex Coverage Set Learning**|Wendyam Eric Lionel Ilboudo et.al.|[2410.04719](http://arxiv.org/abs/2410.04719)|null|
 |**2024-10-07**|**Towards Measuring Goal-Directedness in AI Systems**|Dylan Xu et.al.|[2410.04683](http://arxiv.org/abs/2410.04683)|null|
 |**2024-10-07**|**A Universal Formulation for Path-Parametric Planning and Control**|Jon Arrizabalaga et.al.|[2410.04664](http://arxiv.org/abs/2410.04664)|null|
@@ -3458,7 +3458,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -4822,5 +4822,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
 
