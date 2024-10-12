@@ -108,7 +108,7 @@ layout: default
 |**2024-10-10**|**News Reporter: A Multi-lingual LLM Framework for Broadcast T.V News**|Tarun Jain et.al.|[2410.07520](http://arxiv.org/abs/2410.07520)|null|
 |**2024-10-10**|**Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing**|Pengyu Xue et.al.|[2410.07516](http://arxiv.org/abs/2410.07516)|null|
 |**2024-10-10**|**Evolutionary Contrastive Distillation for Language Model Alignment**|Julian Katz-Samuels et.al.|[2410.07513](http://arxiv.org/abs/2410.07513)|null|
-|**2024-10-10**|**Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)**|Abhijit Mishra et.al.|[2410.07507](http://arxiv.org/abs/2410.07507)|null|
+|**2024-10-10**|**Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)**|Abhijit Mishra et.al.|[2410.07507](http://arxiv.org/abs/2410.07507)|**[link](https://github.com/abhijitmishra/Thought2Text)**|
 |**2024-10-10**|**CrossQuant: A Post-Training Quantization Method with Smaller Quantization Kernel for Precise Large Language Model Compression**|Wenyuan Liu et.al.|[2410.07505](http://arxiv.org/abs/2410.07505)|null|
 |**2024-10-10**|**Using LLMs to Discover Legal Factors**|Morgan Gray et.al.|[2410.07504](http://arxiv.org/abs/2410.07504)|null|
 |**2024-10-10**|**PublicHearingBR: A Brazilian Portuguese Dataset of Public Hearing Transcripts for Summarization of Long Documents**|Leandro Carísio Fernandes et.al.|[2410.07495](http://arxiv.org/abs/2410.07495)|null|
@@ -4164,7 +4164,7 @@ layout: default
 |**2024-10-10**|**News Reporter: A Multi-lingual LLM Framework for Broadcast T.V News**|Tarun Jain et.al.|[2410.07520](http://arxiv.org/abs/2410.07520)|null|
 |**2024-10-10**|**Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing**|Pengyu Xue et.al.|[2410.07516](http://arxiv.org/abs/2410.07516)|null|
 |**2024-10-10**|**Evolutionary Contrastive Distillation for Language Model Alignment**|Julian Katz-Samuels et.al.|[2410.07513](http://arxiv.org/abs/2410.07513)|null|
-|**2024-10-10**|**Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)**|Abhijit Mishra et.al.|[2410.07507](http://arxiv.org/abs/2410.07507)|null|
+|**2024-10-10**|**Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)**|Abhijit Mishra et.al.|[2410.07507](http://arxiv.org/abs/2410.07507)|**[link](https://github.com/abhijitmishra/Thought2Text)**|
 |**2024-10-10**|**CrossQuant: A Post-Training Quantization Method with Smaller Quantization Kernel for Precise Large Language Model Compression**|Wenyuan Liu et.al.|[2410.07505](http://arxiv.org/abs/2410.07505)|null|
 |**2024-10-10**|**Using LLMs to Discover Legal Factors**|Morgan Gray et.al.|[2410.07504](http://arxiv.org/abs/2410.07504)|null|
 |**2024-10-10**|**PublicHearingBR: A Brazilian Portuguese Dataset of Public Hearing Transcripts for Summarization of Long Documents**|Leandro Carísio Fernandes et.al.|[2410.07495](http://arxiv.org/abs/2410.07495)|null|
