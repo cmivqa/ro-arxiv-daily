@@ -1,4 +1,4 @@
-## Updated on 2024.10.18
+## Updated on 2024.10.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 |**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
 |**2024-10-17**|**$γ-$ MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**|Yaxin Luo et.al.|[2410.13859](http://arxiv.org/abs/2410.13859)|null|
 |**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857](http://arxiv.org/abs/2410.13857)|null|
-|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|null|
+|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|**[link](https://github.com/MING-ZCH/CII-Bench)**|
 |**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852](http://arxiv.org/abs/2410.13852)|null|
 |**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851](http://arxiv.org/abs/2410.13851)|null|
 |**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|null|
@@ -2683,7 +2683,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|null|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241019>back to top</a>)</p>
 
 ## Text Classification
 
@@ -4659,7 +4659,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241019>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -5526,7 +5526,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241019>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -5536,7 +5536,7 @@
 |**2024-10-17**|**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**|Rongyao Fang et.al.|[2410.13861](http://arxiv.org/abs/2410.13861)|**[link](https://github.com/rongyaofang/puma)**|
 |**2024-10-17**|**$γ-$ MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**|Yaxin Luo et.al.|[2410.13859](http://arxiv.org/abs/2410.13859)|null|
 |**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857](http://arxiv.org/abs/2410.13857)|null|
-|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|null|
+|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|**[link](https://github.com/MING-ZCH/CII-Bench)**|
 |**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852](http://arxiv.org/abs/2410.13852)|null|
 |**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851](http://arxiv.org/abs/2410.13851)|null|
 |**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|null|
@@ -7855,5 +7855,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241019>back to top</a>)</p>
 
