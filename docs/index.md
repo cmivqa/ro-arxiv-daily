@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.26
+## Updated on 2024.10.27
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -161,7 +161,7 @@ layout: default
 |**2024-10-23**|**Integrating Large Language Models for UAV Control in Simulated Environments: A Modular Interaction Approach**|Abhishek Phadke et.al.|[2410.17602](http://arxiv.org/abs/2410.17602)|null|
 |**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600](http://arxiv.org/abs/2410.17600)|null|
 |**2024-10-23**|**Cross-model Control: Improving Multiple Large Language Models in One-time Training**|Jiayi Wu et.al.|[2410.17599](http://arxiv.org/abs/2410.17599)|**[link](https://github.com/wujwyi/cmc)**|
-|**2024-10-23**|**MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**|Guijin Son et.al.|[2410.17578](http://arxiv.org/abs/2410.17578)|null|
+|**2024-10-23**|**MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**|Guijin Son et.al.|[2410.17578](http://arxiv.org/abs/2410.17578)|**[link](https://github.com/guijinSON/MM-Eval)**|
 |**2024-10-23**|**Securing Federated Learning Against Novel and Classic Backdoor Threats During Foundation Model Integration**|Xiaohuan Bi et.al.|[2410.17573](http://arxiv.org/abs/2410.17573)|null|
 |**2024-10-23**|**Differentially Private Learning Needs Better Model Initialization and Self-Distillation**|Ivoline C. Ngong et.al.|[2410.17566](http://arxiv.org/abs/2410.17566)|null|
 |**2024-10-23**|**CLR-Bench: Evaluating Large Language Models in College-level Reasoning**|Junnan Dong et.al.|[2410.17558](http://arxiv.org/abs/2410.17558)|null|
@@ -3344,7 +3344,7 @@ layout: default
 |**2024-10-24**|**A contrastive-learning approach for auditory attention detection**|Seyed Ali Alavi Bajestan et.al.|[2410.18395](http://arxiv.org/abs/2410.18395)|null|
 |**2024-10-23**|**Calibrating Deep Neural Network using Euclidean Distance**|Wenhao Liang et.al.|[2410.18321](http://arxiv.org/abs/2410.18321)|null|
 |**2024-10-23**|**Using Cartesian slice plots of a cosmological simulation as input of a convolutional neural network**|Guillermo Arreaga-Garcia et.al.|[2410.18320](http://arxiv.org/abs/2410.18320)|null|
-|**2024-10-23**|**Self-Supervised Learning for Time Series: A Review & Critique of FITS**|Andreas Løvendahl Eefsen et.al.|[2410.18318](http://arxiv.org/abs/2410.18318)|**[link](https://github.com/thorhojhus/ssl)**|
+|**2024-10-23**|**Self-Supervised Learning for Time Series: A Review & Critique of FITS**|Andreas Løvendahl Eefsen et.al.|[2410.18318](http://arxiv.org/abs/2410.18318)|null|
 |**2024-10-23**|**Hamiltonian Matching for Symplectic Neural Integrators**|Priscilla Canizares et.al.|[2410.18262](http://arxiv.org/abs/2410.18262)|null|
 |**2024-10-23**|**KMS states of Information Flow in Directed Brain Synaptic Networks**|El-kaïoum M. Moutuou et.al.|[2410.18222](http://arxiv.org/abs/2410.18222)|null|
 |**2024-10-23**|**Self-similar phase diagram of the Fibonacci-driven quantum Ising model**|Harald Schmid et.al.|[2410.18219](http://arxiv.org/abs/2410.18219)|null|
@@ -6810,7 +6810,7 @@ layout: default
 |**2024-10-23**|**Integrating Large Language Models for UAV Control in Simulated Environments: A Modular Interaction Approach**|Abhishek Phadke et.al.|[2410.17602](http://arxiv.org/abs/2410.17602)|null|
 |**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600](http://arxiv.org/abs/2410.17600)|null|
 |**2024-10-23**|**Cross-model Control: Improving Multiple Large Language Models in One-time Training**|Jiayi Wu et.al.|[2410.17599](http://arxiv.org/abs/2410.17599)|**[link](https://github.com/wujwyi/cmc)**|
-|**2024-10-23**|**MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**|Guijin Son et.al.|[2410.17578](http://arxiv.org/abs/2410.17578)|null|
+|**2024-10-23**|**MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**|Guijin Son et.al.|[2410.17578](http://arxiv.org/abs/2410.17578)|**[link](https://github.com/guijinSON/MM-Eval)**|
 |**2024-10-23**|**Securing Federated Learning Against Novel and Classic Backdoor Threats During Foundation Model Integration**|Xiaohuan Bi et.al.|[2410.17573](http://arxiv.org/abs/2410.17573)|null|
 |**2024-10-23**|**CLR-Bench: Evaluating Large Language Models in College-level Reasoning**|Junnan Dong et.al.|[2410.17558](http://arxiv.org/abs/2410.17558)|null|
 |**2024-10-23**|**Responsible Multilingual Large Language Models: A Survey of Development, Applications, and Societal Impact**|Junhua Liu et.al.|[2410.17532](http://arxiv.org/abs/2410.17532)|null|
