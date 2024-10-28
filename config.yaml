@@ -4,7 +4,7 @@ user_name: "cmivqa"
 repo_name: "ro-arxiv-daily"
 show_authors: True
 show_links: True
-max_results: 200
+max_results: 50
 
 publish_readme: True
 publish_gitpage: True
