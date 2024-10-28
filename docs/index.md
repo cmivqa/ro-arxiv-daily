@@ -5823,7 +5823,7 @@ layout: default
 |**2024-10-24**|**Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning**|Lachlan Mares et.al.|[2410.18462](http://arxiv.org/abs/2410.18462)|null|
 |**2024-10-24**|**SkiLD: Unsupervised Skill Discovery Guided by Factor Interactions**|Zizhao Wang et.al.|[2410.18416](http://arxiv.org/abs/2410.18416)|null|
 |**2024-10-25**|**Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks**|Lehan Wang et.al.|[2410.18387](http://arxiv.org/abs/2410.18387)|null|
-|**2024-10-23**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|null|
+|**2024-10-23**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|**[link](https://github.com/Budapest-Quantum-Computing-Group/hybrid_latent_qrl)**|
 |**2024-10-23**|**Real-Time Integrated Learning and Decision-Making for Asset Networks**|Peter Verleijsdonk et.al.|[2410.18246](http://arxiv.org/abs/2410.18246)|null|
 |**2024-10-23**|**PyTSC: A Unified Platform for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Rohit Bokade et.al.|[2410.18202](http://arxiv.org/abs/2410.18202)|**[link](https://github.com/rbokade/pytsc)**|
 |**2024-10-22**|**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**|Jingsheng Gao et.al.|[2410.18141](http://arxiv.org/abs/2410.18141)|null|
