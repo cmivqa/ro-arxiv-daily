@@ -1,4 +1,4 @@
-## Updated on 2024.11.03
+## Updated on 2024.11.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,7 +58,7 @@
 |**2024-10-31**|**Reasons and Solutions for the Decline in Model Performance after Editing**|Xiusheng Huang et.al.|[2410.23843](http://arxiv.org/abs/2410.23843)|**[link](https://github.com/nlpkeg/D4S)**|
 |**2024-10-31**|**Beyond Content Relevance: Evaluating Instruction Following in Retrieval Models**|Jianqun Zhou et.al.|[2410.23841](http://arxiv.org/abs/2410.23841)|**[link](https://github.com/EIT-NLP/InfoSearch)**|
 |**2024-10-31**|**Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts**|Xiang Deng et.al.|[2410.23836](http://arxiv.org/abs/2410.23836)|null|
-|**2024-10-31**|**FRoundation: Are Foundation Models Ready for Face Recognition?**|Tahar Chettaoui et.al.|[2410.23831](http://arxiv.org/abs/2410.23831)|null|
+|**2024-11-01**|**FRoundation: Are Foundation Models Ready for Face Recognition?**|Tahar Chettaoui et.al.|[2410.23831](http://arxiv.org/abs/2410.23831)|null|
 |**2024-10-31**|**GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages**|Amir Hossein Kargaran et.al.|[2410.23825](http://arxiv.org/abs/2410.23825)|**[link](https://github.com/cisnlp/glotcc)**|
 |**2024-10-31**|**Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding**|Jinlong He et.al.|[2410.23822](http://arxiv.org/abs/2410.23822)|null|
 |**2024-10-31**|**Weight decay induces low-rank attention layers**|Seijin Kobayashi et.al.|[2410.23819](http://arxiv.org/abs/2410.23819)|null|
@@ -3578,7 +3578,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|null|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 ## Text Classification
 
@@ -3591,16 +3591,16 @@
 |**2024-10-31**|**Understanding Optimization in Deep Learning with Central Flows**|Jeremy M. Cohen et.al.|[2410.24206](http://arxiv.org/abs/2410.24206)|null|
 |**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187](http://arxiv.org/abs/2410.24187)|**[link](https://github.com/vita-group/chasing-better-dips)**|
 |**2024-10-31**|**Entropy alternatives for equilibrium and out of equilibrium systems**|Eugenio E. Vogel et.al.|[2410.24186](http://arxiv.org/abs/2410.24186)|null|
-|**2024-10-31**|**Group Crosscoders for Mechanistic Analysis of Symmetry**|Liv Gorton et.al.|[2410.24184](http://arxiv.org/abs/2410.24184)|null|
+|**2024-11-01**|**Group Crosscoders for Mechanistic Analysis of Symmetry**|Liv Gorton et.al.|[2410.24184](http://arxiv.org/abs/2410.24184)|null|
 |**2024-10-31**|**Federated Black-Box Adaptation for Semantic Segmentation**|Jay N. Paranjape et.al.|[2410.24181](http://arxiv.org/abs/2410.24181)|null|
 |**2024-10-31**|**The Importance of Being Scalable: Improving the Speed and Accuracy of Neural Network Interatomic Potentials Across Chemical Domains**|Eric Qu et.al.|[2410.24169](http://arxiv.org/abs/2410.24169)|null|
 |**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166](http://arxiv.org/abs/2410.24166)|**[link](https://github.com/christianbresciani/nscep-spiking-NN)**|
 |**2024-10-31**|**Data-Driven Learning of Two-Stage Beamformers in Passive IRS-Assisted Systems with Inexact Oracles**|Spyridon Pougkakiotis et.al.|[2410.24154](http://arxiv.org/abs/2410.24154)|null|
-|**2024-10-31**|**Multi-environment Topic Models**|Dominic Sobhani et.al.|[2410.24126](http://arxiv.org/abs/2410.24126)|null|
+|**2024-11-01**|**Multi-environment Topic Models**|Dominic Sobhani et.al.|[2410.24126](http://arxiv.org/abs/2410.24126)|null|
 |**2024-10-31**|**Sparsh: Self-supervised touch representations for vision-based tactile sensing**|Carolina Higuera et.al.|[2410.24090](http://arxiv.org/abs/2410.24090)|null|
 |**2024-10-31**|**Self-supervised Learning for Glass Property Screening**|Meijing Chen et.al.|[2410.24083](http://arxiv.org/abs/2410.24083)|null|
 |**2024-10-31**|**Graph Learning for Numeric Planning**|Dillon Z. Chen et.al.|[2410.24080](http://arxiv.org/abs/2410.24080)|**[link](https://github.com/DillonZChen/goose)**|
-|**2024-10-31**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
+|**2024-11-01**|**Dynamical similarity analysis uniquely captures how computations develop in RNNs**|Quentin Guilhot et.al.|[2410.24070](http://arxiv.org/abs/2410.24070)|**[link](https://github.com/qglht/repal)**|
 |**2024-10-31**|**Advanced Predictive Quality Assessment for Ultrasonic Additive Manufacturing with Deep Learning Model**|Lokendra Poudel et.al.|[2410.24055](http://arxiv.org/abs/2410.24055)|null|
 |**2024-10-31**|**A Visual Case Study of the Training Dynamics in Neural Networks**|Ambroise Odonnat et.al.|[2410.24050](http://arxiv.org/abs/2410.24050)|**[link](https://github.com/facebookresearch/pal)**|
 |**2024-10-31**|**Non-linear sigma models for non-Hermitian random matrices in symmetry classes AI $^{\dagger}$ and AII$^{\dagger}$**|Anish Kulkarni et.al.|[2410.24043](http://arxiv.org/abs/2410.24043)|null|
@@ -3615,7 +3615,7 @@
 |**2024-10-31**|**DynaSplit: A Hardware-Software Co-Design Framework for Energy-Aware Inference on Edge**|Daniel May et.al.|[2410.23881](http://arxiv.org/abs/2410.23881)|null|
 |**2024-10-31**|**Collective dynamics in spiking neural networks: A systematic review**|Afifurrahman et.al.|[2410.23876](http://arxiv.org/abs/2410.23876)|null|
 |**2024-10-31**|**Noise as a Double-Edged Sword: Reinforcement Learning Exploits Randomized Defenses in Neural Networks**|Steve Bakos et.al.|[2410.23870](http://arxiv.org/abs/2410.23870)|null|
-|**2024-10-31**|**Neural Network Matrix Product Operator: A Multi-Dimensionally Integrable Machine Learning Potential**|Kentaro Hino et.al.|[2410.23858](http://arxiv.org/abs/2410.23858)|**[link](https://github.com/kenhino/pompon)**|
+|**2024-11-01**|**Neural Network Matrix Product Operator: A Multi-Dimensionally Integrable Machine Learning Potential**|Kentaro Hino et.al.|[2410.23858](http://arxiv.org/abs/2410.23858)|**[link](https://github.com/kenhino/pompon)**|
 |**2024-10-31**|**RAGraph: A General Retrieval-Augmented Graph Learning Framework**|Xinke Jiang et.al.|[2410.23855](http://arxiv.org/abs/2410.23855)|null|
 |**2024-10-31**|**Reducing Oversmoothing through Informed Weight Initialization in Graph Neural Networks**|Dimitrios Kelesis et.al.|[2410.23830](http://arxiv.org/abs/2410.23830)|null|
 |**2024-10-31**|**Weight decay induces low-rank attention layers**|Seijin Kobayashi et.al.|[2410.23819](http://arxiv.org/abs/2410.23819)|null|
@@ -6188,7 +6188,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -7358,7 +7358,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -7400,7 +7400,7 @@
 |**2024-10-31**|**Commonsense Knowledge Editing Based on Free-Text in LLMs**|Xiusheng Huang et.al.|[2410.23844](http://arxiv.org/abs/2410.23844)|null|
 |**2024-10-31**|**Beyond Content Relevance: Evaluating Instruction Following in Retrieval Models**|Jianqun Zhou et.al.|[2410.23841](http://arxiv.org/abs/2410.23841)|**[link](https://github.com/EIT-NLP/InfoSearch)**|
 |**2024-10-31**|**Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts**|Xiang Deng et.al.|[2410.23836](http://arxiv.org/abs/2410.23836)|null|
-|**2024-10-31**|**FRoundation: Are Foundation Models Ready for Face Recognition?**|Tahar Chettaoui et.al.|[2410.23831](http://arxiv.org/abs/2410.23831)|null|
+|**2024-11-01**|**FRoundation: Are Foundation Models Ready for Face Recognition?**|Tahar Chettaoui et.al.|[2410.23831](http://arxiv.org/abs/2410.23831)|null|
 |**2024-10-31**|**Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding**|Jinlong He et.al.|[2410.23822](http://arxiv.org/abs/2410.23822)|null|
 |**2024-10-31**|**The NPU-HWC System for the ISCSLP 2024 Inspirational and Convincing Audio Generation Challenge**|Dake Guo et.al.|[2410.23815](http://arxiv.org/abs/2410.23815)|null|
 |**2024-10-31**|**Generative AI for Accessible and Inclusive Extended Reality**|Jens Grubert et.al.|[2410.23803](http://arxiv.org/abs/2410.23803)|null|
@@ -10494,5 +10494,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
 
