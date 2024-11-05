@@ -1,4 +1,4 @@
-## Updated on 2024.11.04
+## Updated on 2024.11.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,7 +17,7 @@
 |**2024-11-01**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|**[link](https://github.com/bigcode-project/selfcodealign)**|
 |**2024-10-31**|**DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**|Heng-Jui Chang et.al.|[2410.24177](http://arxiv.org/abs/2410.24177)|null|
 |**2024-10-31**|**Constraint Back-translation Improves Complex Instruction Following of Large Language Models**|Yunjia Qi et.al.|[2410.24175](http://arxiv.org/abs/2410.24175)|null|
-|**2024-10-31**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
+|**2024-11-02**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
 |**2024-10-31**|**GPT or BERT: why not both?**|Lucas Georges Gabriel Charpentier et.al.|[2410.24159](http://arxiv.org/abs/2410.24159)|**[link](https://github.com/ltgoslo/gpt-bert)**|
 |**2024-10-31**|**Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning**|Jinghan Zhang et.al.|[2410.24155](http://arxiv.org/abs/2410.24155)|null|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[2410.24152](http://arxiv.org/abs/2410.24152)|null|
@@ -3578,7 +3578,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|**[link](https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl)**|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
 
 ## Text Classification
 
@@ -6188,7 +6188,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -7358,7 +7358,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -7366,7 +7366,7 @@
 |---|---|---|---|---|
 |**2024-11-01**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|**[link](https://github.com/bigcode-project/selfcodealign)**|
 |**2024-10-31**|**Constraint Back-translation Improves Complex Instruction Following of Large Language Models**|Yunjia Qi et.al.|[2410.24175](http://arxiv.org/abs/2410.24175)|null|
-|**2024-10-31**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
+|**2024-11-02**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
 |**2024-10-31**|**Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning**|Jinghan Zhang et.al.|[2410.24155](http://arxiv.org/abs/2410.24155)|null|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[2410.24152](http://arxiv.org/abs/2410.24152)|null|
 |**2024-10-31**|**Leveraging Large Language Models for Code Translation and Software Development in Scientific Computing**|Akash Dhruv et.al.|[2410.24119](http://arxiv.org/abs/2410.24119)|**[link](https://github.com/neucol/llm-conversion-performance)**|
@@ -10494,5 +10494,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20241104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
 
