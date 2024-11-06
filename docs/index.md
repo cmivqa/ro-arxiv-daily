@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -23,7 +23,7 @@ layout: default
 |**2024-11-04**|**Disrupting Test Development with AI Assistants**|Vijay Joshi et.al.|[2411.02328](http://arxiv.org/abs/2411.02328)|null|
 |**2024-11-04**|**PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance**|Ruyang Liu et.al.|[2411.02327](http://arxiv.org/abs/2411.02327)|**[link](https://github.com/farewellthree/ppllava)**|
 |**2024-11-04**|**An Empirical Study on the Code Refactoring Capability of Large Language Models**|Jonathan Cordeiro et.al.|[2411.02320](http://arxiv.org/abs/2411.02320)|null|
-|**2024-11-04**|**Evaluating the Ability of Large Language Models to Generate Verifiable Specifications in VeriFast**|Marilyn Rego et.al.|[2411.02318](http://arxiv.org/abs/2411.02318)|null|
+|**2024-11-05**|**Evaluating the Ability of Large Language Models to Generate Verifiable Specifications in VeriFast**|Marilyn Rego et.al.|[2411.02318](http://arxiv.org/abs/2411.02318)|null|
 |**2024-11-04**|**Defining and Evaluating Physical Safety for Large Language Models**|Yung-Chen Tang et.al.|[2411.02317](http://arxiv.org/abs/2411.02317)|null|
 |**2024-11-04**|**Evaluating Creative Short Story Generation in Humans and Large Language Models**|Mete Ismayilzada et.al.|[2411.02316](http://arxiv.org/abs/2411.02316)|**[link](https://github.com/mismayil/creative-story-gen)**|
 |**2024-11-04**|**MdEval: Massively Multilingual Code Debugging**|Shukai Liu et.al.|[2411.02310](http://arxiv.org/abs/2411.02310)|null|
@@ -41,7 +41,7 @@ layout: default
 |**2024-11-04**|**Adaptive Sparse Allocation with Mutual Choice & Feature Choice Sparse Autoencoders**|Kola Ayonrinde et.al.|[2411.02124](http://arxiv.org/abs/2411.02124)|null|
 |**2024-11-04**|**Bridge-IF: Learning Inverse Protein Folding with Markov Bridges**|Yiheng Zhu et.al.|[2411.02120](http://arxiv.org/abs/2411.02120)|**[link](https://github.com/violet-sto/bridge-if)**|
 |**2024-11-04**|**AVSS: Layer Importance Evaluation in Large Language Models via Activation Variance-Sparsity Analysis**|Zichen Song et.al.|[2411.02117](http://arxiv.org/abs/2411.02117)|null|
-|**2024-11-04**|**Advancements and limitations of LLMs in replicating human color-word associations**|Makoto Fukushima et.al.|[2411.02116](http://arxiv.org/abs/2411.02116)|null|
+|**2024-11-05**|**Advancements and limitations of LLMs in replicating human color-word associations**|Makoto Fukushima et.al.|[2411.02116](http://arxiv.org/abs/2411.02116)|null|
 |**2024-11-04**|**Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?**|Guoqing Wang et.al.|[2411.02093](http://arxiv.org/abs/2411.02093)|null|
 |**2024-11-04**|**Regress, Don't Guess -- A Regression-like Loss on Number Tokens for Language Models**|Jonas Zausinger et.al.|[2411.02083](http://arxiv.org/abs/2411.02083)|null|
 |**2024-11-04**|**GraphVL: Graph-Enhanced Semantic Modeling via Vision-Language Models for Generalized Class Discovery**|Bhupendra Solanki et.al.|[2411.02074](http://arxiv.org/abs/2411.02074)|null|
@@ -3637,13 +3637,13 @@ layout: default
 |**2024-11-04**|**Machine-learned nodal structures of Fermion systems**|William Freitas et.al.|[2411.02257](http://arxiv.org/abs/2411.02257)|null|
 |**2024-11-04**|**Advancing Cyber-Attack Detection in Power Systems: A Comparative Study of Machine Learning and Graph Neural Network Approaches**|Tianzhixi Yin et.al.|[2411.02248](http://arxiv.org/abs/2411.02248)|null|
 |**2024-11-04**|**Speak so a physicist can understand you! TetrisCNN for detecting phase transitions and order parameters**|Kacper Cybiński et.al.|[2411.02237](http://arxiv.org/abs/2411.02237)|**[link](https://github.com/kcybinski/TetrisCNN_for_spin_systems)**|
-|**2024-11-04**|**Predicting the Temperature-Dependent CMC of Surfactant Mixtures with Graph Neural Networks**|Christoforos Brozos et.al.|[2411.02224](http://arxiv.org/abs/2411.02224)|null|
+|**2024-11-05**|**Predicting the Temperature-Dependent CMC of Surfactant Mixtures with Graph Neural Networks**|Christoforos Brozos et.al.|[2411.02224](http://arxiv.org/abs/2411.02224)|null|
 |**2024-11-04**|**Digi2Real: Bridging the Realism Gap in Synthetic Data Face Recognition via Foundation Models**|Anjith George et.al.|[2411.02188](http://arxiv.org/abs/2411.02188)|null|
 |**2024-11-04**|**Physics-informed neural networks viewpoint for solving the Dyson-Schwinger equations of quantum electrodynamics**|Rodrigo Carmo Terin et.al.|[2411.02177](http://arxiv.org/abs/2411.02177)|null|
 |**2024-11-04**|**Behavioral Sequence Modeling with Ensemble Learning**|Maxime Kawawa-Beaudan et.al.|[2411.02174](http://arxiv.org/abs/2411.02174)|null|
 |**2024-11-04**|**Finite-size scaling and dynamics in a two-dimensional lattice of identical oscillators with frustrated couplings**|Róbert Juhász et.al.|[2411.02171](http://arxiv.org/abs/2411.02171)|null|
 |**2024-11-04**|**Do graph neural network states contain graph properties?**|Tom Pelletreau-Duris et.al.|[2411.02168](http://arxiv.org/abs/2411.02168)|null|
-|**2024-11-04**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao et.al.|[2411.02149](http://arxiv.org/abs/2411.02149)|null|
+|**2024-11-05**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao et.al.|[2411.02149](http://arxiv.org/abs/2411.02149)|null|
 |**2024-11-04**|**Theoretical characterisation of the Gauss-Newton conditioning in Neural Networks**|Jim Zhao et.al.|[2411.02139](http://arxiv.org/abs/2411.02139)|null|
 |**2024-11-04**|**SpecRaGE: Robust and Generalizable Multi-view Spectral Representation Learning**|Amitai Yacobi et.al.|[2411.02138](http://arxiv.org/abs/2411.02138)|null|
 |**2024-11-04**|**Unsupervised detection of semantic correlations in big data**|Santiago Acevedo et.al.|[2411.02126](http://arxiv.org/abs/2411.02126)|null|
@@ -6295,7 +6295,7 @@ layout: default
 |**2024-11-04**|**IRS-Enhanced Secure Semantic Communication Networks: Cross-Layer and Context-Awared Resource Allocation**|Lingyi Wang et.al.|[2411.01821](http://arxiv.org/abs/2411.01821)|null|
 |**2024-11-04**|**So You Think You Can Scale Up Autonomous Robot Data Collection?**|Suvir Mirchandani et.al.|[2411.01813](http://arxiv.org/abs/2411.01813)|null|
 |**2024-11-04**|**SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF**|Atoosa Chegini et.al.|[2411.01798](http://arxiv.org/abs/2411.01798)|null|
-|**2024-11-04**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
+|**2024-11-05**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
 |**2024-11-04**|**Show, Don't Tell: Learning Reward Machines from Demonstrations for Reinforcement Learning-Based Cardiac Pacemaker Synthesis**|John Komp et.al.|[2411.01750](http://arxiv.org/abs/2411.01750)|null|
 |**2024-11-03**|**GraphXForm: Graph transformer for computer-aided molecular design with application to extraction**|Jonathan Pirnay et.al.|[2411.01667](http://arxiv.org/abs/2411.01667)|null|
 |**2024-11-03**|**GITSR: Graph Interaction Transformer-based Scene Representation for Multi Vehicle Collaborative Decision-making**|Xingyu Hu et.al.|[2411.01608](http://arxiv.org/abs/2411.01608)|null|
@@ -7517,7 +7517,7 @@ layout: default
 |**2024-11-04**|**Disrupting Test Development with AI Assistants**|Vijay Joshi et.al.|[2411.02328](http://arxiv.org/abs/2411.02328)|null|
 |**2024-11-04**|**PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance**|Ruyang Liu et.al.|[2411.02327](http://arxiv.org/abs/2411.02327)|**[link](https://github.com/farewellthree/ppllava)**|
 |**2024-11-04**|**An Empirical Study on the Code Refactoring Capability of Large Language Models**|Jonathan Cordeiro et.al.|[2411.02320](http://arxiv.org/abs/2411.02320)|null|
-|**2024-11-04**|**Evaluating the Ability of Large Language Models to Generate Verifiable Specifications in VeriFast**|Marilyn Rego et.al.|[2411.02318](http://arxiv.org/abs/2411.02318)|null|
+|**2024-11-05**|**Evaluating the Ability of Large Language Models to Generate Verifiable Specifications in VeriFast**|Marilyn Rego et.al.|[2411.02318](http://arxiv.org/abs/2411.02318)|null|
 |**2024-11-04**|**Defining and Evaluating Physical Safety for Large Language Models**|Yung-Chen Tang et.al.|[2411.02317](http://arxiv.org/abs/2411.02317)|null|
 |**2024-11-04**|**Evaluating Creative Short Story Generation in Humans and Large Language Models**|Mete Ismayilzada et.al.|[2411.02316](http://arxiv.org/abs/2411.02316)|**[link](https://github.com/mismayil/creative-story-gen)**|
 |**2024-11-04**|**MdEval: Massively Multilingual Code Debugging**|Shukai Liu et.al.|[2411.02310](http://arxiv.org/abs/2411.02310)|null|
@@ -7531,7 +7531,7 @@ layout: default
 |**2024-11-04**|**Revisiting K-mer Profile for Effective and Scalable Genome Representation Learning**|Abdulkadir Celikkanat et.al.|[2411.02125](http://arxiv.org/abs/2411.02125)|**[link](https://github.com/abdcelikkanat/revisitingkmers)**|
 |**2024-11-04**|**Adaptive Sparse Allocation with Mutual Choice & Feature Choice Sparse Autoencoders**|Kola Ayonrinde et.al.|[2411.02124](http://arxiv.org/abs/2411.02124)|null|
 |**2024-11-04**|**AVSS: Layer Importance Evaluation in Large Language Models via Activation Variance-Sparsity Analysis**|Zichen Song et.al.|[2411.02117](http://arxiv.org/abs/2411.02117)|null|
-|**2024-11-04**|**Advancements and limitations of LLMs in replicating human color-word associations**|Makoto Fukushima et.al.|[2411.02116](http://arxiv.org/abs/2411.02116)|null|
+|**2024-11-05**|**Advancements and limitations of LLMs in replicating human color-word associations**|Makoto Fukushima et.al.|[2411.02116](http://arxiv.org/abs/2411.02116)|null|
 |**2024-11-04**|**Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?**|Guoqing Wang et.al.|[2411.02093](http://arxiv.org/abs/2411.02093)|null|
 |**2024-11-04**|**AM Flow: Adapters for Temporal Processing in Action Recognition**|Tanay Agrawal et.al.|[2411.02065](http://arxiv.org/abs/2411.02065)|null|
 |**2024-11-04**|**Scalable Efficient Training of Large Language Models with Low-dimensional Projected Attention**|Xingtai Lv et.al.|[2411.02063](http://arxiv.org/abs/2411.02063)|null|
