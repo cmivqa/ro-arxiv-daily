@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -14,7 +14,7 @@ layout: default
 |**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997](http://arxiv.org/abs/2411.04997)|**[link](https://github.com/microsoft/LLM2CLIP)**|
 |**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996](http://arxiv.org/abs/2411.04996)|null|
 |**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991](http://arxiv.org/abs/2411.04991)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
-|**2024-11-07**|**The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**|Zhaofeng Wu et.al.|[2411.04986](http://arxiv.org/abs/2411.04986)|**[link](https://github.com/ZhaofengWu/semantic-hub)**|
+|**2024-11-07**|**The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**|Zhaofeng Wu et.al.|[2411.04986](http://arxiv.org/abs/2411.04986)|null|
 |**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981](http://arxiv.org/abs/2411.04981)|null|
 |**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
 |**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
@@ -32,14 +32,14 @@ layout: default
 |**2024-11-07**|**High Entropy Alloy property predictions using Transformer-based language model**|Spyros Kamnis et.al.|[2411.04861](http://arxiv.org/abs/2411.04861)|null|
 |**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847](http://arxiv.org/abs/2411.04847)|**[link](https://github.com/fujie-math/PRISM)**|
 |**2024-11-07**|**VTechAGP: An Academic-to-General-Audience Text Paraphrase Dataset and Benchmark Models**|Ming Cheng et.al.|[2411.04825](http://arxiv.org/abs/2411.04825)|null|
-|**2024-11-07**|**When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun**|Seyoung Song et.al.|[2411.04822](http://arxiv.org/abs/2411.04822)|null|
+|**2024-11-07**|**When Does Classical Chinese Help? Quantifying Cross-Lingual Transfer in Hanja and Kanbun**|Seyoung Song et.al.|[2411.04822](http://arxiv.org/abs/2411.04822)|**[link](https://github.com/seyoungsong/classical-chinese-transfer)**|
 |**2024-11-07**|**LuxBank: The First Universal Dependency Treebank for Luxembourgish**|Alistair Plum et.al.|[2411.04813](http://arxiv.org/abs/2411.04813)|null|
 |**2024-11-07**|**A study of Vietnamese readability assessing through semantic and statistical features**|Hung Tuan Le et.al.|[2411.04756](http://arxiv.org/abs/2411.04756)|null|
 |**2024-11-07**|**SpectraFM: Tuning into Stellar Foundation Models**|Nolan Koblischke et.al.|[2411.04750](http://arxiv.org/abs/2411.04750)|null|
 |**2024-11-07**|**Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs**|Chengxin Hu et.al.|[2411.04708](http://arxiv.org/abs/2411.04708)|null|
 |**2024-11-07**|**Distinguishing LLM-generated from Human-written Code by Contrastive Learning**|Xiaodan Xu et.al.|[2411.04704](http://arxiv.org/abs/2411.04704)|null|
 |**2024-11-07**|**AWARE Narrator and the Utilization of Large Language Models to Extract Behavioral Insights from Smartphone Sensing Data**|Tianyi Zhang et.al.|[2411.04691](http://arxiv.org/abs/2411.04691)|null|
-|**2024-11-07**|**Differentially Private Continual Learning using Pre-Trained Models**|Marlon Tobaben et.al.|[2411.04680](http://arxiv.org/abs/2411.04680)|null|
+|**2024-11-08**|**Differentially Private Continual Learning using Pre-Trained Models**|Marlon Tobaben et.al.|[2411.04680](http://arxiv.org/abs/2411.04680)|null|
 |**2024-11-07**|**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**|Jie Liu et.al.|[2411.04679](http://arxiv.org/abs/2411.04679)|null|
 |**2024-11-07**|**Lightning IR: Straightforward Fine-tuning and Inference of Transformer-based Language Models for Information Retrieval**|Ferdinand Schlatt et.al.|[2411.04677](http://arxiv.org/abs/2411.04677)|**[link](https://github.com/webis-de/lightning-ir)**|
 |**2024-11-07**|**CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR**|Kadir Burak Buldu et.al.|[2411.04671](http://arxiv.org/abs/2411.04671)|null|
@@ -3779,15 +3779,15 @@ layout: default
 |**2024-11-07**|**Extracting Axion String Network Parameters from Simulated CMB Birefringence Maps using Convolutional Neural Networks**|Ray Hagimoto et.al.|[2411.05002](http://arxiv.org/abs/2411.05002)|null|
 |**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991](http://arxiv.org/abs/2411.04991)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
 |**2024-11-07**|**AsCAN: Asymmetric Convolution-Attention Networks for Efficient Recognition and Generation**|Anil Kag et.al.|[2411.04967](http://arxiv.org/abs/2411.04967)|null|
-|**2024-11-07**|**Estimating the Influence of Sequentially Correlated Literary Properties in Textual Classification: A Data-Centric Hypothesis-Testing Approach**|Gideon Yoffe et.al.|[2411.04950](http://arxiv.org/abs/2411.04950)|**[link](https://github.com/YoffeG/Thematic-nonThematic_Hypothesis_Testing)**|
+|**2024-11-08**|**Estimating the Influence of Sequentially Correlated Literary Properties in Textual Classification: A Data-Centric Hypothesis-Testing Approach**|Gideon Yoffe et.al.|[2411.04950](http://arxiv.org/abs/2411.04950)|null|
 |**2024-11-07**|**Enhancing Missing Data Imputation through Combined Bipartite Graph and Complete Directed Graph**|Zhaoyang Zhang et.al.|[2411.04907](http://arxiv.org/abs/2411.04907)|null|
 |**2024-11-07**|**Sampling-guided Heterogeneous Graph Neural Network with Temporal Smoothing for Scalable Longitudinal Data Imputation**|Zhaoyang Zhang et.al.|[2411.04899](http://arxiv.org/abs/2411.04899)|null|
 |**2024-11-07**|**Bridging an energy system model with an ensemble deep-learning approach for electricity price forecasting**|Souhir Ben Amor et.al.|[2411.04880](http://arxiv.org/abs/2411.04880)|null|
 |**2024-11-07**|**Differentiable Gaussian Representation for Incomplete CT Reconstruction**|Shaokai Wu et.al.|[2411.04844](http://arxiv.org/abs/2411.04844)|null|
 |**2024-11-07**|**Machine learning and optimization-based approaches to duality in statistical physics**|Andrea E. V. Ferrari et.al.|[2411.04838](http://arxiv.org/abs/2411.04838)|null|
-|**2024-11-07**|**Plasticity Loss in Deep Reinforcement Learning: A Survey**|Timo Klein et.al.|[2411.04832](http://arxiv.org/abs/2411.04832)|null|
+|**2024-11-08**|**Plasticity Loss in Deep Reinforcement Learning: A Survey**|Timo Klein et.al.|[2411.04832](http://arxiv.org/abs/2411.04832)|null|
 |**2024-11-07**|**A Simple Packing Algorithm for Optimized Mapping of Artificial Neural Networks onto Non-Volatile Memory Cross-Bar Arrays**|W. Haensch et.al.|[2411.04814](http://arxiv.org/abs/2411.04814)|null|
-|**2024-11-07**|**Soft Hoeffding Tree: A Transparent and Differentiable Model on Data Streams**|Kirsten Köbschall et.al.|[2411.04812](http://arxiv.org/abs/2411.04812)|**[link](https://github.com/kramerlab/SoHoT)**|
+|**2024-11-07**|**Soft Hoeffding Tree: A Transparent and Differentiable Model on Data Streams**|Kirsten Köbschall et.al.|[2411.04812](http://arxiv.org/abs/2411.04812)|null|
 |**2024-11-07**|**Words that Move Markets- Quantifying the Impact of RBI's Monetary Policy Communications on Indian Financial Market**|Rohit Kumar et.al.|[2411.04808](http://arxiv.org/abs/2411.04808)|null|
 |**2024-11-07**|**Navigating Trade-offs: Policy Summarization for Multi-Objective Reinforcement Learning**|Zuzanna Osika et.al.|[2411.04784](http://arxiv.org/abs/2411.04784)|**[link](https://github.com/osikazuzanna/bi-objective-clustering)**|
 |**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760](http://arxiv.org/abs/2411.04760)|null|
@@ -3802,7 +3802,7 @@ layout: default
 |**2024-11-07**|**PZT Optical Memristors**|Chenlei Li et.al.|[2411.04665](http://arxiv.org/abs/2411.04665)|null|
 |**2024-11-07**|**Enhancing Trust in Clinically Significant Prostate Cancer Prediction with Multiple Magnetic Resonance Imaging Modalities**|Benjamin Ng et.al.|[2411.04662](http://arxiv.org/abs/2411.04662)|**[link](https://github.com/catai9/multiple-modality-prostate-cancer-prediction)**|
 |**2024-11-07**|**Finding Strong Lottery Ticket Networks with Genetic Algorithms**|Philipp Altmann et.al.|[2411.04658](http://arxiv.org/abs/2411.04658)|**[link](https://github.com/julianscher/SLTN-GA)**|
-|**2024-11-07**|**Centrality Graph Shift Operators for Graph Neural Networks**|Yassine Abbahaddou et.al.|[2411.04655](http://arxiv.org/abs/2411.04655)|**[link](https://github.com/abbahaddou/CGSO)**|
+|**2024-11-07**|**Centrality Graph Shift Operators for Graph Neural Networks**|Yassine Abbahaddou et.al.|[2411.04655](http://arxiv.org/abs/2411.04655)|null|
 |**2024-11-07**|**DISCO: DISCovering Overfittings as Causal Rules for Text Classification Models**|Zijian Zhang et.al.|[2411.04649](http://arxiv.org/abs/2411.04649)|null|
 |**2024-11-07**|**Quantum adiabatic optimization with Rydberg arrays: localization phenomena and encoding strategies**|Lisa Bombieri et.al.|[2411.04645](http://arxiv.org/abs/2411.04645)|null|
 |**2024-11-07**|**A Micro-Macro Decomposition-Based Asymptotic-Preserving Random Feature Method for Multiscale Radiative Transfer Equations**|Jingrun Chen et.al.|[2411.04643](http://arxiv.org/abs/2411.04643)|null|
@@ -3815,7 +3815,7 @@ layout: default
 |**2024-11-07**|**Impact of Label Noise on Learning Complex Features**|Rahul Vashisht et.al.|[2411.04569](http://arxiv.org/abs/2411.04569)|null|
 |**2024-11-07**|**Single replica spin-glass phase detection using field variation and machine learning**|Ali Talebi et.al.|[2411.04567](http://arxiv.org/abs/2411.04567)|null|
 |**2024-11-07**|**Pruning Literals for Highly Efficient Explainability at Word Level**|Rohan Kumar Yadav et.al.|[2411.04557](http://arxiv.org/abs/2411.04557)|null|
-|**2024-11-07**|**Uncertainty Prediction Neural Network (UpNet): Embedding Artificial Neural Network in Bayesian Inversion Framework to Quantify the Uncertainty of Remote Sensing Retrieval**|Dasheng Fan et.al.|[2411.04556](http://arxiv.org/abs/2411.04556)|**[link](https://github.com/dash-rser/upnet)**|
+|**2024-11-07**|**Uncertainty Prediction Neural Network (UpNet): Embedding Artificial Neural Network in Bayesian Inversion Framework to Quantify the Uncertainty of Remote Sensing Retrieval**|Dasheng Fan et.al.|[2411.04556](http://arxiv.org/abs/2411.04556)|null|
 |**2024-11-07**|**Measure-to-measure interpolation using Transformers**|Borjan Geshkovski et.al.|[2411.04551](http://arxiv.org/abs/2411.04551)|null|
 |**2024-11-07**|**Automatic Identification of Political Hate Articles from Social Media using Recurrent Neural Networks**|Sultan Ahmed et.al.|[2411.04542](http://arxiv.org/abs/2411.04542)|null|
 |**2024-11-07**|**The tricritical point of tricritical directed percolation is determined based on neural network**|Feng Gao et.al.|[2411.04537](http://arxiv.org/abs/2411.04537)|null|
@@ -6588,7 +6588,7 @@ layout: default
 |**2024-11-07**|**Evaluating Robustness of Reinforcement Learning Algorithms for Autonomous Shipping**|Bavo Lesy et.al.|[2411.04915](http://arxiv.org/abs/2411.04915)|null|
 |**2024-11-07**|**Think Smart, Act SMARL! Analyzing Probabilistic Logic Driven Safety in Multi-Agent Reinforcement Learning**|Satchit Chatterji et.al.|[2411.04867](http://arxiv.org/abs/2411.04867)|**[link](https://github.com/satchitchatterji/shieldedmarlthesis)**|
 |**2024-11-07**|**Asymptotic regularity of a generalised stochastic Halpern scheme with applications**|Nicholas Pischke et.al.|[2411.04845](http://arxiv.org/abs/2411.04845)|null|
-|**2024-11-07**|**Plasticity Loss in Deep Reinforcement Learning: A Survey**|Timo Klein et.al.|[2411.04832](http://arxiv.org/abs/2411.04832)|null|
+|**2024-11-08**|**Plasticity Loss in Deep Reinforcement Learning: A Survey**|Timo Klein et.al.|[2411.04832](http://arxiv.org/abs/2411.04832)|null|
 |**2024-11-07**|**Harnessing the Power of Gradient-Based Simulations for Multi-Objective Optimization in Particle Accelerators**|Kishansingh Rajput et.al.|[2411.04817](http://arxiv.org/abs/2411.04817)|null|
 |**2024-11-07**|**AllGaits: Learning All Quadruped Gaits and Transitions**|Guillaume Bellegarda et.al.|[2411.04787](http://arxiv.org/abs/2411.04787)|null|
 |**2024-11-07**|**Navigating Trade-offs: Policy Summarization for Multi-Objective Reinforcement Learning**|Zuzanna Osika et.al.|[2411.04784](http://arxiv.org/abs/2411.04784)|**[link](https://github.com/osikazuzanna/bi-objective-clustering)**|
@@ -6600,7 +6600,7 @@ layout: default
 |**2024-11-07**|**IGDrivSim: A Benchmark for the Imitation Gap in Autonomous Driving**|Clémence Grislain et.al.|[2411.04653](http://arxiv.org/abs/2411.04653)|**[link](https://github.com/clemgris/igdrivsim)**|
 |**2024-11-07**|**Sharp Analysis for KL-Regularized Contextual Bandits and RLHF**|Heyang Zhao et.al.|[2411.04625](http://arxiv.org/abs/2411.04625)|null|
 |**2024-11-07**|**Constrained Latent Action Policies for Model-Based Offline Reinforcement Learning**|Marvin Alles et.al.|[2411.04562](http://arxiv.org/abs/2411.04562)|null|
-|**2024-11-07**|**Hypercube Policy Regularization Framework for Offline Reinforcement Learning**|Yi Shen et.al.|[2411.04534](http://arxiv.org/abs/2411.04534)|null|
+|**2024-11-07**|**Hypercube Policy Regularization Framework for Offline Reinforcement Learning**|Yi Shen et.al.|[2411.04534](http://arxiv.org/abs/2411.04534)|**[link](https://github.com/lastTarnished/Hypyercud-Policy-Regularization)**|
 |**2024-11-07**|**Enabling Adaptive Agent Training in Open-Ended Simulators by Targeting Diversity**|Robby Costales et.al.|[2411.04466](http://arxiv.org/abs/2411.04466)|null|
 |**2024-11-07**|**UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection**|Xinhua Jiang et.al.|[2411.04348](http://arxiv.org/abs/2411.04348)|null|
 |**2024-11-07**|**GazeGen: Gaze-Driven User Interaction for Visual Content Generation**|He-Yen Hsieh et.al.|[2411.04335](http://arxiv.org/abs/2411.04335)|null|
@@ -7882,7 +7882,7 @@ layout: default
 |**2024-11-07**|**Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs**|Chengxin Hu et.al.|[2411.04708](http://arxiv.org/abs/2411.04708)|null|
 |**2024-11-07**|**Distinguishing LLM-generated from Human-written Code by Contrastive Learning**|Xiaodan Xu et.al.|[2411.04704](http://arxiv.org/abs/2411.04704)|null|
 |**2024-11-07**|**AWARE Narrator and the Utilization of Large Language Models to Extract Behavioral Insights from Smartphone Sensing Data**|Tianyi Zhang et.al.|[2411.04691](http://arxiv.org/abs/2411.04691)|null|
-|**2024-11-07**|**Differentially Private Continual Learning using Pre-Trained Models**|Marlon Tobaben et.al.|[2411.04680](http://arxiv.org/abs/2411.04680)|null|
+|**2024-11-08**|**Differentially Private Continual Learning using Pre-Trained Models**|Marlon Tobaben et.al.|[2411.04680](http://arxiv.org/abs/2411.04680)|null|
 |**2024-11-07**|**CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation**|Jie Liu et.al.|[2411.04679](http://arxiv.org/abs/2411.04679)|null|
 |**2024-11-07**|**CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR**|Kadir Burak Buldu et.al.|[2411.04671](http://arxiv.org/abs/2411.04671)|null|
 |**2024-11-07**|**Explainable Search and Discovery of Visual Cultural Heritage Collections with Multimodal Large Language Models**|Taylor Arnold et.al.|[2411.04663](http://arxiv.org/abs/2411.04663)|null|
@@ -7899,7 +7899,7 @@ layout: default
 |**2024-11-07**|**An Empirical Study on the Potential of LLMs in Automated Software Refactoring**|Bo Liu et.al.|[2411.04444](http://arxiv.org/abs/2411.04444)|null|
 |**2024-11-07**|**AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering**|Yungeng Liu et.al.|[2411.04440](http://arxiv.org/abs/2411.04440)|null|
 |**2024-11-07**|**Towards Unifying Interpretability and Control: Evaluation via Intervention**|Usha Bhalla et.al.|[2411.04430](http://arxiv.org/abs/2411.04430)|**[link](https://github.com/AI4LIFE-GROUP/interp_interv)**|
-|**2024-11-07**|**One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity**|Sonia K. Murthy et.al.|[2411.04427](http://arxiv.org/abs/2411.04427)|**[link](https://github.com/skmur/onefish-twofish)**|
+|**2024-11-07**|**One fish, two fish, but not the whole sea: Alignment reduces language models' conceptual diversity**|Sonia K. Murthy et.al.|[2411.04427](http://arxiv.org/abs/2411.04427)|null|
 |**2024-11-07**|**DELIFT: Data Efficient Language model Instruction Fine Tuning**|Ishika Agarwal et.al.|[2411.04425](http://arxiv.org/abs/2411.04425)|**[link](https://github.com/agarwalishika/delift)**|
 |**2024-11-07**|**Bayesian Calibration of Win Rate Estimation with LLM Evaluators**|Yicheng Gao et.al.|[2411.04424](http://arxiv.org/abs/2411.04424)|**[link](https://github.com/yale-nlp/bay-calibration-llm-evaluators)**|
 |**2024-11-07**|**Variational Low-Rank Adaptation Using IVON**|Bai Cong et.al.|[2411.04421](http://arxiv.org/abs/2411.04421)|**[link](https://github.com/team-approx-bayes/ivon-lora)**|
