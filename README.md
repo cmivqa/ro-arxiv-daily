@@ -1,4 +1,4 @@
-## Updated on 2024.11.17
+## Updated on 2024.11.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -31,7 +31,7 @@
 |**2024-11-14**|**Piecing It All Together: Verifying Multi-Hop Multimodal Claims**|Haoran Wang et.al.|[2411.09547](http://arxiv.org/abs/2411.09547)|null|
 |**2024-11-14**|**A Practical Guide to Fine-tuning Language Models with Limited Data**|Márton Szép et.al.|[2411.09539](http://arxiv.org/abs/2411.09539)|null|
 |**2024-11-14**|**Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents**|Yuyou Gan et.al.|[2411.09523](http://arxiv.org/abs/2411.09523)|null|
-|**2024-11-14**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
+|**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-14**|**MM-Eval: A Hierarchical Benchmark for Modern Mongolian Evaluation in LLMs**|Mengyuan Zhang et.al.|[2411.09492](http://arxiv.org/abs/2411.09492)|null|
 |**2024-11-14**|**Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models**|Chutian Meng et.al.|[2411.09449](http://arxiv.org/abs/2411.09449)|null|
 |**2024-11-14**|**Spider: Any-to-Many Multimodal LLM**|Jinxiang Lai et.al.|[2411.09439](http://arxiv.org/abs/2411.09439)|null|
@@ -4028,7 +4028,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|**[link](https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl)**|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
 
 ## Text Classification
 
@@ -4044,7 +4044,7 @@
 |**2024-11-14**|**OOD-SEG: Out-Of-Distribution detection for image SEGmentation with sparse multi-class positive-only annotations**|Junwen Wang et.al.|[2411.09553](http://arxiv.org/abs/2411.09553)|null|
 |**2024-11-14**|**OpenGeMM: A High-Utilization GeMM Accelerator Generator with Lightweight RISC-V Control and Tight Memory Coupling**|Xiaoling Yi et.al.|[2411.09543](http://arxiv.org/abs/2411.09543)|null|
 |**2024-11-14**|**Structure-informed operator learning for parabolic Partial Differential Equations**|Fred Espen Benth et.al.|[2411.09511](http://arxiv.org/abs/2411.09511)|null|
-|**2024-11-14**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476](http://arxiv.org/abs/2411.09476)|null|
+|**2024-11-15**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476](http://arxiv.org/abs/2411.09476)|null|
 |**2024-11-14**|**ResidualDroppath: Enhancing Feature Reuse over Residual Connections**|Sejik Park et.al.|[2411.09475](http://arxiv.org/abs/2411.09475)|null|
 |**2024-11-14**|**Script-centric behavior understanding for assisted autism spectrum disorder diagnosis**|Wenxing Liu et.al.|[2411.09413](http://arxiv.org/abs/2411.09413)|null|
 |**2024-11-14**|**Inherently Interpretable and Uncertainty-Aware Models for Online Learning in Cyber-Security Problems**|Benjamin Kolicic et.al.|[2411.09393](http://arxiv.org/abs/2411.09393)|null|
@@ -7086,7 +7086,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -8472,7 +8472,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -8494,7 +8494,7 @@
 |**2024-11-14**|**Piecing It All Together: Verifying Multi-Hop Multimodal Claims**|Haoran Wang et.al.|[2411.09547](http://arxiv.org/abs/2411.09547)|null|
 |**2024-11-14**|**A Practical Guide to Fine-tuning Language Models with Limited Data**|Márton Szép et.al.|[2411.09539](http://arxiv.org/abs/2411.09539)|null|
 |**2024-11-14**|**Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents**|Yuyou Gan et.al.|[2411.09523](http://arxiv.org/abs/2411.09523)|null|
-|**2024-11-14**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
+|**2024-11-15**|**Communication Compression for Tensor Parallel LLM Inference**|Jan Hansen-Palmus et.al.|[2411.09510](http://arxiv.org/abs/2411.09510)|null|
 |**2024-11-14**|**MM-Eval: A Hierarchical Benchmark for Modern Mongolian Evaluation in LLMs**|Mengyuan Zhang et.al.|[2411.09492](http://arxiv.org/abs/2411.09492)|null|
 |**2024-11-14**|**Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models**|Chutian Meng et.al.|[2411.09449](http://arxiv.org/abs/2411.09449)|null|
 |**2024-11-14**|**Spider: Any-to-Many Multimodal LLM**|Jinxiang Lai et.al.|[2411.09439](http://arxiv.org/abs/2411.09439)|null|
@@ -12058,5 +12058,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20241117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
 
