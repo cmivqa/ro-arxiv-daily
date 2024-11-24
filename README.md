@@ -1,4 +1,4 @@
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -50,7 +50,7 @@
 |**2024-11-21**|**Multi-LLM-Agent Systems: Techniques and Business Perspectives**|Yingxuan Yang et.al.|[2411.14033](http://arxiv.org/abs/2411.14033)|null|
 |**2024-11-21**|**Logic Augmented Generation**|Aldo Gangemi et.al.|[2411.14012](http://arxiv.org/abs/2411.14012)|null|
 |**2024-11-21**|**GPT versus Humans: Uncovering Ethical Concerns in Conversational Generative AI-empowered Multi-Robot Systems**|Rebekah Rousi et.al.|[2411.14009](http://arxiv.org/abs/2411.14009)|null|
-|**2024-11-21**|**Repository-level Code Translation Benchmark Targeting Rust**|Guangsheng Ou et.al.|[2411.13990](http://arxiv.org/abs/2411.13990)|null|
+|**2024-11-21**|**Repository-level Code Translation Benchmark Targeting Rust**|Guangsheng Ou et.al.|[2411.13990](http://arxiv.org/abs/2411.13990)|**[link](https://github.com/trustedgpt/rustrepotrans)**|
 |**2024-11-21**|**Separable Mixture of Low-Rank Adaptation for Continual Visual Instruction Tuning**|Ziqi Wang et.al.|[2411.13949](http://arxiv.org/abs/2411.13949)|null|
 |**2024-11-21**|**XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation**|Hailong Yang et.al.|[2411.13932](http://arxiv.org/abs/2411.13932)|null|
 |**2024-11-21**|**Panther: Illuminate the Sight of Multimodal LLMs with Instruction-Guided Visual Prompts**|Honglin Li et.al.|[2411.13909](http://arxiv.org/abs/2411.13909)|null|
@@ -4278,7 +4278,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|**[link](https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl)**|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20241123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
 
 ## Text Classification
 
@@ -4288,7 +4288,7 @@
 |**2024-11-21**|**Engineering spectro-temporal light states with physics-trained deep learning**|Shilong Liu et.al.|[2411.14410](http://arxiv.org/abs/2411.14410)|null|
 |**2024-11-21**|**Exploring Methods for Integrating and Augmenting Multimodal Data to Improve Prognostic Accuracy in Imbalanced Datasets for Intraoperative Aneurysm Occlusion**|Parisa Naghdi et.al.|[2411.14407](http://arxiv.org/abs/2411.14407)|null|
 |**2024-11-21**|**Landing Trajectory Prediction for UAS Based on Generative Adversarial Network**|Jun Xiang et.al.|[2411.14403](http://arxiv.org/abs/2411.14403)|null|
-|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|null|
+|**2024-11-21**|**Convolutional Vision Transformer for Cosmology Parameter Inference**|Yash Gondhalekar et.al.|[2411.14392](http://arxiv.org/abs/2411.14392)|**[link](https://github.com/yash-10/cvt-cosmo-inference)**|
 |**2024-11-21**|**Persistent Homology for Structural Characterization in Disordered Systems**|An Wang et.al.|[2411.14390](http://arxiv.org/abs/2411.14390)|**[link](https://github.com/anwanguow/PH_structural)**|
 |**2024-11-21**|**Enhancing Diagnostic Precision in Gastric Bleeding through Automated Lesion Segmentation: A Deep DuS-KFCM Approach**|Xian-Xian Liu et.al.|[2411.14385](http://arxiv.org/abs/2411.14385)|null|
 |**2024-11-21**|**ETA-IK: Execution-Time-Aware Inverse Kinematics for Dual-Arm Systems**|Yucheng Tang et.al.|[2411.14381](http://arxiv.org/abs/2411.14381)|null|
@@ -4310,7 +4310,7 @@
 |**2024-11-21**|**Umbrella Reinforcement Learning -- computationally efficient tool for hard non-linear problems**|Egor E. Nuzhin et.al.|[2411.14117](http://arxiv.org/abs/2411.14117)|null|
 |**2024-11-21**|**Adjoint-based online learning of two-layer quasi-geostrophic baroclinic turbulence**|Fei Er Yan et.al.|[2411.14106](http://arxiv.org/abs/2411.14106)|null|
 |**2024-11-21**|**Simultaneous replica-symmetry breaking for vector spin glasses**|Hong-Bin Chen et.al.|[2411.14105](http://arxiv.org/abs/2411.14105)|null|
-|**2024-11-21**|**BEST-STD: Bidirectional Mamba-Enhanced Speech Tokenization for Spoken Term Detection**|Anup Singh et.al.|[2411.14100](http://arxiv.org/abs/2411.14100)|**[link](https://github.com/anupsingh15/BEST-STD)**|
+|**2024-11-21**|**BEST-STD: Bidirectional Mamba-Enhanced Speech Tokenization for Spoken Term Detection**|Anup Singh et.al.|[2411.14100](http://arxiv.org/abs/2411.14100)|null|
 |**2024-11-21**|**GNN-MultiFix: Addressing the pitfalls for GNNs for multi-label node classification**|Tianqi Zhao et.al.|[2411.14094](http://arxiv.org/abs/2411.14094)|null|
 |**2024-11-21**|**Interpretable QSPR Modeling using Recursive Feature Machines and Multi-scale Fingerprints**|Jiaxuan Shen et.al.|[2411.14079](http://arxiv.org/abs/2411.14079)|null|
 |**2024-11-21**|**Self-supervised learning for radio-astronomy source classification: a benchmark**|Thomas Cecconello et.al.|[2411.14078](http://arxiv.org/abs/2411.14078)|**[link](https://github.com/dr4thmos/solo-learn-radio)**|
@@ -7586,7 +7586,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20241123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -7618,7 +7618,7 @@
 |**2024-11-20**|**Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**|Kilian Freitag et.al.|[2411.13327](http://arxiv.org/abs/2411.13327)|null|
 |**2024-11-20**|**Existential Conversations with Large Language Models: Content, Community, and Culture**|Murray Shanahan et.al.|[2411.13223](http://arxiv.org/abs/2411.13223)|null|
 |**2024-11-20**|**Backward Stochastic Control System with Entropy Regularization**|Ziyue Chen et.al.|[2411.13219](http://arxiv.org/abs/2411.13219)|null|
-|**2024-11-21**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|null|
+|**2024-11-21**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|**[link](https://github.com/eugleo/vista-dataset)**|
 |**2024-11-21**|**Engagement-Driven Content Generation with Large Language Models**|Erica Coppolillo et.al.|[2411.13187](http://arxiv.org/abs/2411.13187)|null|
 |**2024-11-20**|**Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation**|Johannes Pitz et.al.|[2411.13148](http://arxiv.org/abs/2411.13148)|null|
 |**2024-11-20**|**ReinFog: A DRL Empowered Framework for Resource Management in Edge and Cloud Computing Environments**|Zhiyu Wang et.al.|[2411.13121](http://arxiv.org/abs/2411.13121)|null|
@@ -9086,7 +9086,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20241123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -9124,7 +9124,7 @@
 |**2024-11-21**|**Multi-LLM-Agent Systems: Techniques and Business Perspectives**|Yingxuan Yang et.al.|[2411.14033](http://arxiv.org/abs/2411.14033)|null|
 |**2024-11-21**|**Logic Augmented Generation**|Aldo Gangemi et.al.|[2411.14012](http://arxiv.org/abs/2411.14012)|null|
 |**2024-11-21**|**GPT versus Humans: Uncovering Ethical Concerns in Conversational Generative AI-empowered Multi-Robot Systems**|Rebekah Rousi et.al.|[2411.14009](http://arxiv.org/abs/2411.14009)|null|
-|**2024-11-21**|**Repository-level Code Translation Benchmark Targeting Rust**|Guangsheng Ou et.al.|[2411.13990](http://arxiv.org/abs/2411.13990)|null|
+|**2024-11-21**|**Repository-level Code Translation Benchmark Targeting Rust**|Guangsheng Ou et.al.|[2411.13990](http://arxiv.org/abs/2411.13990)|**[link](https://github.com/trustedgpt/rustrepotrans)**|
 |**2024-11-21**|**Separable Mixture of Low-Rank Adaptation for Continual Visual Instruction Tuning**|Ziqi Wang et.al.|[2411.13949](http://arxiv.org/abs/2411.13949)|null|
 |**2024-11-21**|**XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation**|Hailong Yang et.al.|[2411.13932](http://arxiv.org/abs/2411.13932)|null|
 |**2024-11-21**|**Panther: Illuminate the Sight of Multimodal LLMs with Instruction-Guided Visual Prompts**|Honglin Li et.al.|[2411.13909](http://arxiv.org/abs/2411.13909)|null|
@@ -12915,5 +12915,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20241123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241124>back to top</a>)</p>
 
