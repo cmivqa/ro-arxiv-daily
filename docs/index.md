@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.25
+## Updated on 2024.11.26
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -7698,7 +7698,7 @@ layout: default
 |**2024-11-21**|**Time-Scale Separation in Q-Learning: Extending TD( $\triangle$ ) for Action-Value Function Decomposition**|Mahammad Humayoo et.al.|[2411.14019](http://arxiv.org/abs/2411.14019)|null|
 |**2024-11-21**|**Movable Antenna-Equipped UAV for Data Collection in Backscatter Sensor Networks: A Deep Reinforcement Learning-based Approach**|Yu Bai et.al.|[2411.13970](http://arxiv.org/abs/2411.13970)|null|
 |**2024-11-21**|**Learning thin deformable object manipulation with a multi-sensory integrated soft hand**|Chao Zhao et.al.|[2411.13952](http://arxiv.org/abs/2411.13952)|null|
-|**2024-11-21**|**Cooperative Grasping and Transportation using Multi-agent Reinforcement Learning with Ternary Force Representation**|Ing-Sheng Bernard-Tiong et.al.|[2411.13942](http://arxiv.org/abs/2411.13942)|null|
+|**2024-11-23**|**Cooperative Grasping and Transportation using Multi-agent Reinforcement Learning with Ternary Force Representation**|Ing-Sheng Bernard-Tiong et.al.|[2411.13942](http://arxiv.org/abs/2411.13942)|null|
 |**2024-11-21**|**Learning to Cooperate with Humans using Generative Agents**|Yancheng Liang et.al.|[2411.13934](http://arxiv.org/abs/2411.13934)|**[link](https://github.com/lych1233/gamma-human-ai-collaboration)**|
 |**2024-11-21**|**GraCo -- A Graph Composer for Integrated Circuits**|Stefan Uhlich et.al.|[2411.13890](http://arxiv.org/abs/2411.13890)|null|
 |**2024-11-21**|**Reinforcement Learning for Jointly Optimal Coding and Control over a Communication Channel**|Evelyn Hubbard et.al.|[2411.13884](http://arxiv.org/abs/2411.13884)|null|

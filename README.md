@@ -1,4 +1,4 @@
-## Updated on 2024.11.25
+## Updated on 2024.11.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -4328,7 +4328,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|**[link](https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl)**|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## Text Classification
 
@@ -7674,7 +7674,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -7708,7 +7708,7 @@
 |**2024-11-21**|**Time-Scale Separation in Q-Learning: Extending TD( $\triangle$ ) for Action-Value Function Decomposition**|Mahammad Humayoo et.al.|[2411.14019](http://arxiv.org/abs/2411.14019)|null|
 |**2024-11-21**|**Movable Antenna-Equipped UAV for Data Collection in Backscatter Sensor Networks: A Deep Reinforcement Learning-based Approach**|Yu Bai et.al.|[2411.13970](http://arxiv.org/abs/2411.13970)|null|
 |**2024-11-21**|**Learning thin deformable object manipulation with a multi-sensory integrated soft hand**|Chao Zhao et.al.|[2411.13952](http://arxiv.org/abs/2411.13952)|null|
-|**2024-11-21**|**Cooperative Grasping and Transportation using Multi-agent Reinforcement Learning with Ternary Force Representation**|Ing-Sheng Bernard-Tiong et.al.|[2411.13942](http://arxiv.org/abs/2411.13942)|null|
+|**2024-11-23**|**Cooperative Grasping and Transportation using Multi-agent Reinforcement Learning with Ternary Force Representation**|Ing-Sheng Bernard-Tiong et.al.|[2411.13942](http://arxiv.org/abs/2411.13942)|null|
 |**2024-11-21**|**Learning to Cooperate with Humans using Generative Agents**|Yancheng Liang et.al.|[2411.13934](http://arxiv.org/abs/2411.13934)|**[link](https://github.com/lych1233/gamma-human-ai-collaboration)**|
 |**2024-11-21**|**GraCo -- A Graph Composer for Integrated Circuits**|Stefan Uhlich et.al.|[2411.13890](http://arxiv.org/abs/2411.13890)|null|
 |**2024-11-21**|**Reinforcement Learning for Jointly Optimal Coding and Control over a Communication Channel**|Evelyn Hubbard et.al.|[2411.13884](http://arxiv.org/abs/2411.13884)|null|
@@ -9188,7 +9188,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -13066,5 +13066,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
