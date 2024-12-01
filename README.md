@@ -4488,20 +4488,20 @@
 |**2024-11-27**|**Novel Class Discovery for Open Set Raga Classification**|Parampreet Singh et.al.|[2411.18611](http://arxiv.org/abs/2411.18611)|null|
 |**2024-11-27**|**Pruning Deep Convolutional Neural Network Using Conditional Mutual Information**|Tien Vu-Van et.al.|[2411.18578](http://arxiv.org/abs/2411.18578)|null|
 |**2024-11-27**|**The joint distribution of first return times and of the number of distinct sites visited by a 1D random walk before returning to the origin**|Mordechai Gruda et.al.|[2411.18576](http://arxiv.org/abs/2411.18576)|null|
-|**2024-11-27**|**A neural network approach to learning solutions of a class of elliptic variational inequalities**|Amal Alphonse et.al.|[2411.18565](http://arxiv.org/abs/2411.18565)|null|
+|**2024-11-27**|**A neural network approach to learning solutions of a class of elliptic variational inequalities**|Amal Alphonse et.al.|[2411.18565](http://arxiv.org/abs/2411.18565)|**[link](https://github.com/amal-alphonse/nnvi)**|
 |**2024-11-27**|**Utilizing the Mean Teacher with Supcontrast Loss for Wafer Pattern Recognition**|Qiyu Wei et.al.|[2411.18533](http://arxiv.org/abs/2411.18533)|null|
 |**2024-11-27**|**Perturbation Ontology based Graph Attention Networks**|Yichen Wang et.al.|[2411.18520](http://arxiv.org/abs/2411.18520)|null|
 |**2024-11-27**|**At First Contact: Stiffness Estimation Using Vibrational Information for Prosthetic Grasp Modulation**|Anway S. Pimpalkar et.al.|[2411.18507](http://arxiv.org/abs/2411.18507)|null|
 |**2024-11-27**|**Weakly Supervised Framework Considering Multi-temporal Information for Large-scale Cropland Mapping with Satellite Imagery**|Yuze Wang et.al.|[2411.18475](http://arxiv.org/abs/2411.18475)|null|
 |**2024-11-27**|**Advancements in Myocardial Infarction Detection and Classification Using Wearable Devices: A Comprehensive Review**|Abhijith S et.al.|[2411.18451](http://arxiv.org/abs/2411.18451)|null|
-|**2024-11-27**|**Metric-DST: Mitigating Selection Bias Through Diversity-Guided Semi-Supervised Metric Learning**|Yasin I. Tepeli et.al.|[2411.18442](http://arxiv.org/abs/2411.18442)|null|
+|**2024-11-27**|**Metric-DST: Mitigating Selection Bias Through Diversity-Guided Semi-Supervised Metric Learning**|Yasin I. Tepeli et.al.|[2411.18442](http://arxiv.org/abs/2411.18442)|**[link](https://github.com/joanagoncalveslab/metric-dst)**|
 |**2024-11-27**|**Intrinsic Quantum Mpemba Effect in Markovian Systems and Quantum Circuits**|Dongheng Qian et.al.|[2411.18417](http://arxiv.org/abs/2411.18417)|null|
 |**2024-11-27**|**Preserving Information: How does Topological Data Analysis improve Neural Network performance?**|A. Stolarek et.al.|[2411.18410](http://arxiv.org/abs/2411.18410)|null|
-|**2024-11-27**|**The more, the better? Evaluating the role of EEG preprocessing for deep learning applications**|Federico Del Pup et.al.|[2411.18392](http://arxiv.org/abs/2411.18392)|null|
+|**2024-11-27**|**The more, the better? Evaluating the role of EEG preprocessing for deep learning applications**|Federico Del Pup et.al.|[2411.18392](http://arxiv.org/abs/2411.18392)|**[link](https://github.com/medmaxlab/eegprepro)**|
 |**2024-11-27**|**Convolutional Neural Networks Do Work with Pre-Defined Filters**|Christoph Linse et.al.|[2411.18388](http://arxiv.org/abs/2411.18388)|**[link](https://github.com/criscraft/predefinedfilternetworks)**|
 |**2024-11-27**|**Topic Modeling and Sentiment Analysis on Japanese Online Media's Coverage of Nuclear Energy**|Yifan Sun et.al.|[2411.18383](http://arxiv.org/abs/2411.18383)|null|
 |**2024-11-27**|**FreqX: What neural networks learn is what network designers say**|Zechen Liu et.al.|[2411.18343](http://arxiv.org/abs/2411.18343)|null|
-|**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321](http://arxiv.org/abs/2411.18321)|null|
+|**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321](http://arxiv.org/abs/2411.18321)|**[link](https://github.com/lascavana/objvalprediction)**|
 |**2024-11-27**|**Real-time Video Target Tracking Algorithm Utilizing Convolutional Neural Networks (CNN)**|Chaoyi Tan et.al.|[2411.18314](http://arxiv.org/abs/2411.18314)|null|
 |**2024-11-27**|**Delineating Feminist Studies through bibliometric analysis**|Natsumi S. Shokida et.al.|[2411.18306](http://arxiv.org/abs/2411.18306)|null|
 |**2024-11-27**|**NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware**|Shubham Pande et.al.|[2411.18272](http://arxiv.org/abs/2411.18272)|null|
@@ -7989,15 +7989,15 @@
 |**2024-11-27**|**Dependency-Aware CAV Task Scheduling via Diffusion-Based Reinforcement Learning**|Xiang Cheng et.al.|[2411.18230](http://arxiv.org/abs/2411.18230)|null|
 |**2024-11-27**|**SCoTT: Wireless-Aware Path Planning with Vision Language Models and Strategic Chains-of-Thought**|Aladin Djuhera et.al.|[2411.18212](http://arxiv.org/abs/2411.18212)|null|
 |**2024-11-27**|**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**|Di Zhang et.al.|[2411.18203](http://arxiv.org/abs/2411.18203)|null|
-|**2024-11-27**|**Scalable Multi-Objective Reinforcement Learning with Fairness Guarantees using Lorenz Dominance**|Dimitris Michailidis et.al.|[2411.18195](http://arxiv.org/abs/2411.18195)|**[link](https://github.com/sias-uva/mo-transport-network-design)**|
+|**2024-11-27**|**Scalable Multi-Objective Reinforcement Learning with Fairness Guarantees using Lorenz Dominance**|Dimitris Michailidis et.al.|[2411.18195](http://arxiv.org/abs/2411.18195)|**[link](https://github.com/dimichai/mo-tndp)**|
 |**2024-11-27**|**SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation**|Wenyi Yu et.al.|[2411.18138](http://arxiv.org/abs/2411.18138)|null|
 |**2024-11-27**|**ORIS: Online Active Learning Using Reinforcement Learning-based Inclusive Sampling for Robust Streaming Analytics System**|Rahul Pandey et.al.|[2411.18060](http://arxiv.org/abs/2411.18060)|null|
 |**2024-11-27**|**RL for Mitigating Cascading Failures: Targeted Exploration via Sensitivity Factors**|Anmol Dwivedi et.al.|[2411.18050](http://arxiv.org/abs/2411.18050)|**[link](https://github.com/anmold-07/physics-guided-blackout-mitigation)**|
 |**2024-11-27**|**JPPO: Joint Power and Prompt Optimization for Accelerated Large Language Model Services**|Feiran You et.al.|[2411.18010](http://arxiv.org/abs/2411.18010)|null|
-|**2024-11-27**|**Monocular Obstacle Avoidance Based on Inverse PPO for Fixed-wing UAVs**|Haochen Chai et.al.|[2411.18009](http://arxiv.org/abs/2411.18009)|null|
-|**2024-11-26**|**Pretrained LLM Adapted with LoRA as a Decision Transformer for Offline RL in Quantitative Trading**|Suyeol Yun et.al.|[2411.17900](http://arxiv.org/abs/2411.17900)|null|
+|**2024-11-27**|**Monocular Obstacle Avoidance Based on Inverse PPO for Fixed-wing UAVs**|Haochen Chai et.al.|[2411.18009](http://arxiv.org/abs/2411.18009)|**[link](https://github.com/ch9397/fixedwing-monoppo)**|
+|**2024-11-26**|**Pretrained LLM Adapted with LoRA as a Decision Transformer for Offline RL in Quantitative Trading**|Suyeol Yun et.al.|[2411.17900](http://arxiv.org/abs/2411.17900)|**[link](https://github.com/syyunn/finrl-dt)**|
 |**2024-11-26**|**Accelerating Proximal Policy Optimization Learning Using Task Prediction for Solving Games with Delayed Rewards**|Ahmad Ahmad et.al.|[2411.17861](http://arxiv.org/abs/2411.17861)|null|
-|**2024-11-26**|**Learning Mean First Passage Time: Chemical Short-Range Order and Kinetics of Diffusive Relaxation**|Hoje Chun et.al.|[2411.17839](http://arxiv.org/abs/2411.17839)|null|
+|**2024-11-26**|**Learning Mean First Passage Time: Chemical Short-Range Order and Kinetics of Diffusive Relaxation**|Hoje Chun et.al.|[2411.17839](http://arxiv.org/abs/2411.17839)|**[link](https://github.com/learningmatter-mit/rlvacdiffsim)**|
 |**2024-11-26**|**PROGRESSOR: A Perceptually Guided Reward Estimator with Self-Supervised Online Refinement**|Tewodros Ayalew et.al.|[2411.17764](http://arxiv.org/abs/2411.17764)|null|
 |**2024-11-26**|**Multi-Objective Reinforcement Learning for Automated Resilient Cyber Defence**|Ross O'Driscoll et.al.|[2411.17585](http://arxiv.org/abs/2411.17585)|null|
 |**2024-11-26**|**Ensuring Safety in Target Pursuit Control: A CBF-Safe Reinforcement Learning Approach**|Yaosheng Deng et.al.|[2411.17552](http://arxiv.org/abs/2411.17552)|null|
