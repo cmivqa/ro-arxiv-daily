@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.07
+## Updated on 2024.12.08
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -4697,7 +4697,7 @@ layout: default
 |**2024-12-05**|**Integrated Sensing and Communications for Low-Altitude Economy: A Deep Reinforcement Learning Approach**|Xiaowen Ye et.al.|[2412.04074](http://arxiv.org/abs/2412.04074)|null|
 |**2024-12-05**|**Radio pulsar population synthesis with consistent flux measurements using simulation-based inference**|Celsa Pardo Araujo et.al.|[2412.04070](http://arxiv.org/abs/2412.04070)|null|
 |**2024-12-05**|**Graph Neural Networks Need Cluster-Normalize-Activate Modules**|Arseny Skryagin et.al.|[2412.04064](http://arxiv.org/abs/2412.04064)|null|
-|**2024-12-05**|**Mask of truth: model sensitivity to unexpected regions of medical images**|Théo Sourget et.al.|[2412.04030](http://arxiv.org/abs/2412.04030)|**[link](https://github.com/theosourget/mmc_masking)**|
+|**2024-12-05**|**Mask of truth: model sensitivity to unexpected regions of medical images**|Théo Sourget et.al.|[2412.04030](http://arxiv.org/abs/2412.04030)|**[link](https://github.com/theosourget/mmc_masking_eyefundus)**|
 |**2024-12-05**|**Deep-Unrolling Multidimensional Harmonic Retrieval Algorithms on Neuromorphic Hardware**|Vlad C. Andrei et.al.|[2412.04008](http://arxiv.org/abs/2412.04008)|null|
 |**2024-12-05**|**Hierarchical Learning for IRS-Assisted MEC Systems with Rate-Splitting Multiple Access**|Yinyu Wu et.al.|[2412.04002](http://arxiv.org/abs/2412.04002)|null|
 |**2024-12-05**|**Blind Underwater Image Restoration using Co-Operational Regressor Networks**|Ozer Can Devecioglu et.al.|[2412.03995](http://arxiv.org/abs/2412.03995)|null|
