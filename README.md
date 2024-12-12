@@ -1,4 +1,4 @@
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -27,7 +27,7 @@
 |**2024-12-10**|**Ask Humans or AI? Exploring Their Roles in Visualization Troubleshooting**|Shuyu Shen et.al.|[2412.07673](http://arxiv.org/abs/2412.07673)|null|
 |**2024-12-10**|**FlexLLM: Exploring LLM Customization for Moving Target Defense on Black-Box LLMs Against Jailbreak Attacks**|Bocheng Chen et.al.|[2412.07672](http://arxiv.org/abs/2412.07672)|null|
 |**2024-12-10**|**Automating Business Intelligence Requirements with Generative AI and Semantic Search**|Nimrod Busany et.al.|[2412.07668](http://arxiv.org/abs/2412.07668)|null|
-|**2024-12-10**|**Searching for Structure: Investigating Emergent Communication with Large Language Models**|Tom Kouwenhoven et.al.|[2412.07646](http://arxiv.org/abs/2412.07646)|null|
+|**2024-12-11**|**Searching for Structure: Investigating Emergent Communication with Large Language Models**|Tom Kouwenhoven et.al.|[2412.07646](http://arxiv.org/abs/2412.07646)|null|
 |**2024-12-10**|**TrojanWhisper: Evaluating Pre-trained LLMs to Detect and Localize Hardware Trojans**|Md Omar Faruque et.al.|[2412.07636](http://arxiv.org/abs/2412.07636)|null|
 |**2024-12-10**|**ChocoLlama: Lessons Learned From Teaching Llamas Dutch**|Matthieu Meeus et.al.|[2412.07633](http://arxiv.org/abs/2412.07633)|null|
 |**2024-12-10**|**Piece of Table: A Divide-and-Conquer Approach for Selecting Sub-Tables in Table Question Answering**|Wonjin Lee et.al.|[2412.07629](http://arxiv.org/abs/2412.07629)|null|
@@ -54,10 +54,10 @@
 |**2024-12-10**|**My Words Imply Your Opinion: Reader Agent-Based Propagation Enhancement for Personalized Implicit Emotion Analysis**|Jian Liao et.al.|[2412.07367](http://arxiv.org/abs/2412.07367)|null|
 |**2024-12-10**|**Towards Predictive Communication with Brain-Computer Interfaces integrating Large Language Models**|Andrea Caria et.al.|[2412.07355](http://arxiv.org/abs/2412.07355)|null|
 |**2024-12-10**|**Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation**|Pedro H. V. Valois et.al.|[2412.07334](http://arxiv.org/abs/2412.07334)|**[link](https://github.com/phvv-me/frame-representation-hypothesis)**|
-|**2024-12-10**|**ConceptSearch: Towards Efficient Program Search Using LLMs for Abstraction and Reasoning Corpus (ARC)**|Kartik Singhal et.al.|[2412.07322](http://arxiv.org/abs/2412.07322)|null|
+|**2024-12-11**|**ConceptSearch: Towards Efficient Program Search Using LLMs for Abstraction and Reasoning Corpus (ARC)**|Kartik Singhal et.al.|[2412.07322](http://arxiv.org/abs/2412.07322)|null|
 |**2024-12-10**|**Filipino Benchmarks for Measuring Sexist and Homophobic Bias in Multilingual Language Models from Southeast Asia**|Lance Calvin Lim Gamboa et.al.|[2412.07303](http://arxiv.org/abs/2412.07303)|null|
 |**2024-12-10**|**The Rise and Down of Babel Tower: Investigating the Evolution Process of Multilingual Code Large Language Model**|Jiawei Chen et.al.|[2412.07298](http://arxiv.org/abs/2412.07298)|null|
-|**2024-12-10**|**Enhancing Relation Extraction via Supervised Rationale Verification and Feedback**|Yongqi Li et.al.|[2412.07289](http://arxiv.org/abs/2412.07289)|**[link](https://github.com/nlpgm/srvf)**|
+|**2024-12-11**|**Enhancing Relation Extraction via Supervised Rationale Verification and Feedback**|Yongqi Li et.al.|[2412.07289](http://arxiv.org/abs/2412.07289)|**[link](https://github.com/nlpgm/srvf)**|
 |**2024-12-10**|**HARP: Hesitation-Aware Reframing in Transformer Inference Pass**|Romain Storaï et.al.|[2412.07282](http://arxiv.org/abs/2412.07282)|**[link](https://github.com/romsto/harp)**|
 |**2024-12-10**|**QuantFormer: Learning to Quantize for Neural Activity Forecasting in Mouse Visual Cortex**|Salvatore Calcagno et.al.|[2412.07264](http://arxiv.org/abs/2412.07264)|null|
 |**2024-12-10**|**MemHunter: Automated and Verifiable Memorization Detection at Dataset-scale in LLMs**|Zhenpeng Wu et.al.|[2412.07261](http://arxiv.org/abs/2412.07261)|null|
@@ -4828,7 +4828,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|**[link](https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl)**|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 ## Text Classification
 
@@ -4879,7 +4879,7 @@
 |**2024-12-10**|**A Distributed Deep Koopman Learning Algorithm for Control**|Wenjian Hao et.al.|[2412.07212](http://arxiv.org/abs/2412.07212)|null|
 |**2024-12-10**|**Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective**|Yushun Dong et.al.|[2412.07188](http://arxiv.org/abs/2412.07188)|**[link](https://github.com/yushundong/spectral-benchmark)**|
 |**2024-12-10**|**An Enhancement of CNN Algorithm for Rice Leaf Disease Image Classification in Mobile Applications**|Kayne Uriel K. Rodrigo et.al.|[2412.07182](http://arxiv.org/abs/2412.07182)|null|
-|**2024-12-10**|**Rate-In: Information-Driven Adaptive Dropout Rates for Improved Inference-Time Uncertainty Estimation**|Tal Zeevi et.al.|[2412.07169](http://arxiv.org/abs/2412.07169)|null|
+|**2024-12-11**|**Rate-In: Information-Driven Adaptive Dropout Rates for Improved Inference-Time Uncertainty Estimation**|Tal Zeevi et.al.|[2412.07169](http://arxiv.org/abs/2412.07169)|null|
 |**2024-12-10**|**Impurity effects in twisted carbon nanotubes**|Yuriy G. Pogorelov et.al.|[2412.07131](http://arxiv.org/abs/2412.07131)|null|
 |**2024-12-10**|**Deep Learning-Enhanced Preconditioning for Efficient Conjugate Gradient Solvers in Large-Scale PDE Systems**|Rui Li et.al.|[2412.07127](http://arxiv.org/abs/2412.07127)|null|
 |**2024-12-10**|**FE-PINNs: finite-element-based physics-informed neural networks for surrogate modeling**|Pranav Sunil et.al.|[2412.07126](http://arxiv.org/abs/2412.07126)|null|
@@ -8670,7 +8670,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -8725,7 +8725,7 @@
 |**2024-12-07**|**AI Planning: A Primer and Survey (Preliminary Report)**|Dillon Z. Chen et.al.|[2412.05528](http://arxiv.org/abs/2412.05528)|null|
 |**2024-12-07**|**Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning**|Runhao Zeng et.al.|[2412.05515](http://arxiv.org/abs/2412.05515)|null|
 |**2024-12-06**|**A Graph-Based Approach for Conversational AI-Driven Personal Memory Capture and Retrieval in a Real-world Application**|Savini Kashmira et.al.|[2412.05447](http://arxiv.org/abs/2412.05447)|null|
-|**2024-12-06**|**From Voice to Value: Leveraging AI to Enhance Spoken Online Reviews on the Go**|Kavindu Ravishan et.al.|[2412.05445](http://arxiv.org/abs/2412.05445)|null|
+|**2024-12-10**|**From Voice to Value: Leveraging AI to Enhance Spoken Online Reviews on the Go**|Kavindu Ravishan et.al.|[2412.05445](http://arxiv.org/abs/2412.05445)|null|
 |**2024-12-06**|**DRL4AOI: A DRL Framework for Semantic-aware AOI Segmentation in Location-Based Services**|Youfang Lin et.al.|[2412.05437](http://arxiv.org/abs/2412.05437)|**[link](https://github.com/kogler7/aoiopt)**|
 |**2024-12-05**|**Closed-Loop Supervised Fine-Tuning of Tokenized Traffic Models**|Zhejun Zhang et.al.|[2412.05334](http://arxiv.org/abs/2412.05334)|null|
 |**2024-12-06**|**Reinforcement Learning: An Overview**|Kevin Murphy et.al.|[2412.05265](http://arxiv.org/abs/2412.05265)|null|
@@ -10424,7 +10424,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -10442,7 +10442,7 @@
 |**2024-12-10**|**Ask Humans or AI? Exploring Their Roles in Visualization Troubleshooting**|Shuyu Shen et.al.|[2412.07673](http://arxiv.org/abs/2412.07673)|null|
 |**2024-12-10**|**FlexLLM: Exploring LLM Customization for Moving Target Defense on Black-Box LLMs Against Jailbreak Attacks**|Bocheng Chen et.al.|[2412.07672](http://arxiv.org/abs/2412.07672)|null|
 |**2024-12-10**|**Automating Business Intelligence Requirements with Generative AI and Semantic Search**|Nimrod Busany et.al.|[2412.07668](http://arxiv.org/abs/2412.07668)|null|
-|**2024-12-10**|**Searching for Structure: Investigating Emergent Communication with Large Language Models**|Tom Kouwenhoven et.al.|[2412.07646](http://arxiv.org/abs/2412.07646)|null|
+|**2024-12-11**|**Searching for Structure: Investigating Emergent Communication with Large Language Models**|Tom Kouwenhoven et.al.|[2412.07646](http://arxiv.org/abs/2412.07646)|null|
 |**2024-12-10**|**TrojanWhisper: Evaluating Pre-trained LLMs to Detect and Localize Hardware Trojans**|Md Omar Faruque et.al.|[2412.07636](http://arxiv.org/abs/2412.07636)|null|
 |**2024-12-10**|**ChocoLlama: Lessons Learned From Teaching Llamas Dutch**|Matthieu Meeus et.al.|[2412.07633](http://arxiv.org/abs/2412.07633)|null|
 |**2024-12-10**|**OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations**|Linke Ouyang et.al.|[2412.07626](http://arxiv.org/abs/2412.07626)|**[link](https://github.com/opendatalab/OmniDocBench)**|
@@ -10464,9 +10464,9 @@
 |**2024-12-10**|**My Words Imply Your Opinion: Reader Agent-Based Propagation Enhancement for Personalized Implicit Emotion Analysis**|Jian Liao et.al.|[2412.07367](http://arxiv.org/abs/2412.07367)|null|
 |**2024-12-10**|**Towards Predictive Communication with Brain-Computer Interfaces integrating Large Language Models**|Andrea Caria et.al.|[2412.07355](http://arxiv.org/abs/2412.07355)|null|
 |**2024-12-10**|**Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation**|Pedro H. V. Valois et.al.|[2412.07334](http://arxiv.org/abs/2412.07334)|**[link](https://github.com/phvv-me/frame-representation-hypothesis)**|
-|**2024-12-10**|**ConceptSearch: Towards Efficient Program Search Using LLMs for Abstraction and Reasoning Corpus (ARC)**|Kartik Singhal et.al.|[2412.07322](http://arxiv.org/abs/2412.07322)|null|
+|**2024-12-11**|**ConceptSearch: Towards Efficient Program Search Using LLMs for Abstraction and Reasoning Corpus (ARC)**|Kartik Singhal et.al.|[2412.07322](http://arxiv.org/abs/2412.07322)|null|
 |**2024-12-10**|**The Rise and Down of Babel Tower: Investigating the Evolution Process of Multilingual Code Large Language Model**|Jiawei Chen et.al.|[2412.07298](http://arxiv.org/abs/2412.07298)|null|
-|**2024-12-10**|**Enhancing Relation Extraction via Supervised Rationale Verification and Feedback**|Yongqi Li et.al.|[2412.07289](http://arxiv.org/abs/2412.07289)|**[link](https://github.com/nlpgm/srvf)**|
+|**2024-12-11**|**Enhancing Relation Extraction via Supervised Rationale Verification and Feedback**|Yongqi Li et.al.|[2412.07289](http://arxiv.org/abs/2412.07289)|**[link](https://github.com/nlpgm/srvf)**|
 |**2024-12-10**|**HARP: Hesitation-Aware Reframing in Transformer Inference Pass**|Romain Storaï et.al.|[2412.07282](http://arxiv.org/abs/2412.07282)|**[link](https://github.com/romsto/harp)**|
 |**2024-12-10**|**QuantFormer: Learning to Quantize for Neural Activity Forecasting in Mouse Visual Cortex**|Salvatore Calcagno et.al.|[2412.07264](http://arxiv.org/abs/2412.07264)|null|
 |**2024-12-10**|**MemHunter: Automated and Verifiable Memorization Detection at Dataset-scale in LLMs**|Zhenpeng Wu et.al.|[2412.07261](http://arxiv.org/abs/2412.07261)|null|
@@ -14802,5 +14802,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
