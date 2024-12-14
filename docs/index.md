@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.13
+## Updated on 2024.12.14
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
