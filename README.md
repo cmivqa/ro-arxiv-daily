@@ -1,4 +1,4 @@
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087](http://arxiv.org/abs/2412.12087)|null|
 |**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077](http://arxiv.org/abs/2412.12077)|null|
 |**2024-12-16**|**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**|Guo Chen et.al.|[2412.12075](http://arxiv.org/abs/2412.12075)|null|
@@ -47,7 +47,7 @@
 |**2024-12-16**|**CharacterBench: Benchmarking Character Customization of Large Language Models**|Jinfeng Zhou et.al.|[2412.11912](http://arxiv.org/abs/2412.11912)|**[link](https://github.com/thu-coai/characterbench)**|
 |**2024-12-16**|**Can Language Models Rival Mathematics Students? Evaluating Mathematical Reasoning through Textual Manipulation and Human Experiments**|Andrii Nikolaiev et.al.|[2412.11908](http://arxiv.org/abs/2412.11908)|null|
 |**2024-12-16**|**PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension**|Kun Ouyang et.al.|[2412.11906](http://arxiv.org/abs/2412.11906)|null|
-|**2024-12-16**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
+|**2024-12-17**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
 |**2024-12-16**|**Using Instruction-Tuned Large Language Models to Identify Indicators of Vulnerability in Police Incident Narratives**|Sam Relins et.al.|[2412.11878](http://arxiv.org/abs/2412.11878)|null|
 |**2024-12-16**|**GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training**|Renqiu Xia et.al.|[2412.11863](http://arxiv.org/abs/2412.11863)|**[link](https://github.com/unimodal4reasoning/geox)**|
 |**2024-12-16**|**A Theory of Formalisms for Representing Knowledge**|Heng Zhang et.al.|[2412.11855](http://arxiv.org/abs/2412.11855)|null|
@@ -60,7 +60,7 @@
 |**2024-12-16**|**EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents**|Mengna Zhu et.al.|[2412.11814](http://arxiv.org/abs/2412.11814)|null|
 |**2024-12-16**|**UAlign: Leveraging Uncertainty Estimations for Factuality Alignment on Large Language Models**|Boyang Xue et.al.|[2412.11803](http://arxiv.org/abs/2412.11803)|null|
 |**2024-12-16**|**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**|Rick Akkerman et.al.|[2412.11785](http://arxiv.org/abs/2412.11785)|null|
-|**2024-12-16**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
+|**2024-12-17**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
 |**2024-12-16**|**IDEA-Bench: How Far are Generative Models from Professional Designing?**|Chen Liang et.al.|[2412.11767](http://arxiv.org/abs/2412.11767)|**[link](https://github.com/ali-vilab/idea-bench)**|
 |**2024-12-16**|**QUENCH: Measuring the gap between Indic and Non-Indic Contextual General Reasoning in LLMs**|Mohammad Aflah Khan et.al.|[2412.11763](http://arxiv.org/abs/2412.11763)|**[link](https://github.com/aflah02/quench)**|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
@@ -5028,7 +5028,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|**[link](https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl)**|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## Text Classification
 
@@ -5059,7 +5059,7 @@
 |**2024-12-16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|Wadjih Bencheikh et.al.|[2412.11810](http://arxiv.org/abs/2412.11810)|null|
 |**2024-12-16**|**Fast and Slow Gradient Approximation for Binary Neural Network Optimization**|Xinquan Chen et.al.|[2412.11777](http://arxiv.org/abs/2412.11777)|**[link](https://github.com/two-tiger/fsg)**|
 |**2024-12-16**|**Prediction of social dilemmas in networked populations via graph neural networks**|Huaiyu Tan et.al.|[2412.11775](http://arxiv.org/abs/2412.11775)|null|
-|**2024-12-16**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
+|**2024-12-17**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
 |**2024-12-16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|Xiaoyin Yang et.al.|[2412.11753](http://arxiv.org/abs/2412.11753)|**[link](https://github.com/tooyoungalex/aaai25-drivegazen)**|
 |**2024-12-16**|**Generalized Bayesian deep reinforcement learning**|Shreya Sinha Roy et.al.|[2412.11743](http://arxiv.org/abs/2412.11743)|null|
 |**2024-12-16**|**CSR:Achieving 1 Bit Key-Value Cache via Sparse Representation**|Hongxuan Zhang et.al.|[2412.11741](http://arxiv.org/abs/2412.11741)|null|
@@ -5073,7 +5073,7 @@
 |**2024-12-16**|**Smoothness Really Matters: A Simple yet Effective Approach for Unsupervised Graph Domain Adaptation**|Wei Chen et.al.|[2412.11654](http://arxiv.org/abs/2412.11654)|**[link](https://github.com/cwei01/tdss)**|
 |**2024-12-16**|**Image Gradient-Aided Photometric Stereo Network**|Kaixuan Wang et.al.|[2412.11650](http://arxiv.org/abs/2412.11650)|null|
 |**2024-12-16**|**Interaction-induced phase transitions and critical phases in nonreciprocal non-Hermitian quasicrystals**|Yalun Zhang et.al.|[2412.11623](http://arxiv.org/abs/2412.11623)|null|
-|**2024-12-16**|**Combating Semantic Contamination in Learning with Label Noise**|Wenxiao Fan et.al.|[2412.11620](http://arxiv.org/abs/2412.11620)|null|
+|**2024-12-17**|**Combating Semantic Contamination in Learning with Label Noise**|Wenxiao Fan et.al.|[2412.11620](http://arxiv.org/abs/2412.11620)|null|
 |**2024-12-16**|**Time-translation invariance symmetry breaking hidden by finite-scale singularities**|Ixandra Achitouv et.al.|[2412.11619](http://arxiv.org/abs/2412.11619)|null|
 |**2024-12-16**|**EvoLlama: Enhancing LLMs' Understanding of Proteins via Multimodal Structure and Sequence Representations**|Nuowei Liu et.al.|[2412.11618](http://arxiv.org/abs/2412.11618)|null|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609](http://arxiv.org/abs/2412.11609)|null|
@@ -9070,7 +9070,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -9090,8 +9090,8 @@
 |**2024-12-16**|**Visual-Based Forklift Learning System Enabling Zero-Shot Sim2Real Without Real-World Data**|Koshi Oishi et.al.|[2412.11503](http://arxiv.org/abs/2412.11503)|null|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
 |**2024-12-16**|**GroupFace: Imbalanced Age Estimation Based on Multi-hop Attention Graph Convolutional Network and Group-aware Margin Optimization**|Yiping Zhang et.al.|[2412.11450](http://arxiv.org/abs/2412.11450)|null|
-|**2024-12-16**|**Auto-bidding in real-time auctions via Oracle Imitation Learning**|Alberto Chiappa et.al.|[2412.11434](http://arxiv.org/abs/2412.11434)|null|
-|**2024-12-16**|**RL-LLM-DT: An Automatic Decision Tree Generation Method Based on RL Evaluation and LLM Enhancement**|Junjie Lin et.al.|[2412.11417](http://arxiv.org/abs/2412.11417)|**[link](https://github.com/linjunjie99/rl-llm-dt)**|
+|**2024-12-17**|**Auto-bidding in real-time auctions via Oracle Imitation Learning (OIL)**|Alberto Silvio Chiappa et.al.|[2412.11434](http://arxiv.org/abs/2412.11434)|null|
+|**2024-12-17**|**RL-LLM-DT: An Automatic Decision Tree Generation Method Based on RL Evaluation and LLM Enhancement**|Junjie Lin et.al.|[2412.11417](http://arxiv.org/abs/2412.11417)|**[link](https://github.com/linjunjie99/rl-llm-dt)**|
 |**2024-12-16**|**MGDA: Model-based Goal Data Augmentation for Offline Goal-conditioned Weighted Supervised Learning**|Xing Lei et.al.|[2412.11410](http://arxiv.org/abs/2412.11410)|null|
 |**2024-12-16**|**Why Does ChatGPT "Delve" So Much? Exploring the Sources of Lexical Overrepresentation in Large Language Models**|Tom S. Juzek et.al.|[2412.11385](http://arxiv.org/abs/2412.11385)|**[link](https://github.com/tjuzek/delve)**|
 |**2024-12-16**|**Visual IRL for Human-Like Robotic Manipulation**|Ehsan Asali et.al.|[2412.11360](http://arxiv.org/abs/2412.11360)|null|
@@ -9106,7 +9106,7 @@
 |**2024-12-15**|**Dual Traits in Probabilistic Reasoning of Large Language Models**|Shenxiong Li et.al.|[2412.11009](http://arxiv.org/abs/2412.11009)|**[link](https://github.com/jacobsonradical/llm-dual-trait)**|
 |**2024-12-15**|**Entropy-Regularized Process Reward Model**|Hanning Zhang et.al.|[2412.11006](http://arxiv.org/abs/2412.11006)|null|
 |**2024-12-15**|**SightGlow: A Web Extension to Enhance Color Perception and Interaction for Vision Deficiency**|Sansrit Paudel et.al.|[2412.11004](http://arxiv.org/abs/2412.11004)|null|
-|**2024-12-14**|**PSMGD: Periodic Stochastic Multi-Gradient Descent for Fast Multi-Objective Optimization**|Mingjing Xu et.al.|[2412.10961](http://arxiv.org/abs/2412.10961)|**[link](https://github.com/marcuxu/psmg)**|
+|**2024-12-17**|**PSMGD: Periodic Stochastic Multi-Gradient Descent for Fast Multi-Objective Optimization**|Mingjing Xu et.al.|[2412.10961](http://arxiv.org/abs/2412.10961)|**[link](https://github.com/marcuxu/psmg)**|
 |**2024-12-14**|**Enhancing Discoverability in Enterprise Conversational Systems with Proactive Question Suggestions**|Xiaobin Shen et.al.|[2412.10933](http://arxiv.org/abs/2412.10933)|null|
 |**2024-12-14**|**Adaptive Reward Design for Reinforcement Learning in Complex Robotic Tasks**|Minjae Kwon et.al.|[2412.10917](http://arxiv.org/abs/2412.10917)|**[link](https://github.com/rewardshaping/adaptiverewardshaping)**|
 |**2024-12-14**|**Lyapunov-based reinforcement learning for distributed control with stability guarantee**|Jingshi Yao et.al.|[2412.10844](http://arxiv.org/abs/2412.10844)|null|
@@ -10917,13 +10917,13 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## Multimodal LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087](http://arxiv.org/abs/2412.12087)|null|
 |**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077](http://arxiv.org/abs/2412.12077)|null|
 |**2024-12-16**|**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**|Guo Chen et.al.|[2412.12075](http://arxiv.org/abs/2412.12075)|null|
@@ -10965,7 +10965,7 @@
 |**2024-12-16**|**EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents**|Mengna Zhu et.al.|[2412.11814](http://arxiv.org/abs/2412.11814)|null|
 |**2024-12-16**|**UAlign: Leveraging Uncertainty Estimations for Factuality Alignment on Large Language Models**|Boyang Xue et.al.|[2412.11803](http://arxiv.org/abs/2412.11803)|null|
 |**2024-12-16**|**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**|Rick Akkerman et.al.|[2412.11785](http://arxiv.org/abs/2412.11785)|null|
-|**2024-12-16**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
+|**2024-12-17**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768](http://arxiv.org/abs/2412.11768)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
 |**2024-12-16**|**IDEA-Bench: How Far are Generative Models from Professional Designing?**|Chen Liang et.al.|[2412.11767](http://arxiv.org/abs/2412.11767)|**[link](https://github.com/ali-vilab/idea-bench)**|
 |**2024-12-16**|**QUENCH: Measuring the gap between Indic and Non-Indic Contextual General Reasoning in LLMs**|Mohammad Aflah Khan et.al.|[2412.11763](http://arxiv.org/abs/2412.11763)|**[link](https://github.com/aflah02/quench)**|
 |**2024-12-16**|**Harnessing Language for Coordination: A Framework and Benchmark for LLM-Driven Multi-Agent Control**|Timothée Anne et.al.|[2412.11761](http://arxiv.org/abs/2412.11761)|null|
@@ -15495,5 +15495,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
