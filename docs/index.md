@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -28,7 +28,7 @@ layout: default
 |**2024-12-18**|**Hansel: Output Length Controlling Framework for Large Language Models**|Seoha Song et.al.|[2412.14033](http://arxiv.org/abs/2412.14033)|null|
 |**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019](http://arxiv.org/abs/2412.14019)|null|
 |**2024-12-18**|**Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation**|Haotong Lin et.al.|[2412.14015](http://arxiv.org/abs/2412.14015)|null|
-|**2024-12-18**|**Towards an optimised evaluation of teachers' discourse: The case of engaging messages**|Samuel Falcon et.al.|[2412.14011](http://arxiv.org/abs/2412.14011)|null|
+|**2024-12-19**|**Towards an optimised evaluation of teachers' discourse: The case of engaging messages**|Samuel Falcon et.al.|[2412.14011](http://arxiv.org/abs/2412.14011)|null|
 |**2024-12-18**|**Cognition Chain for Explainable Psychological Stress Detection on Social Media**|Xin Wang et.al.|[2412.14009](http://arxiv.org/abs/2412.14009)|null|
 |**2024-12-18**|**FarExStance: Explainable Stance Detection for Farsi**|Majid Zarharan et.al.|[2412.14008](http://arxiv.org/abs/2412.14008)|**[link](https://github.com/dadmatech/farexstance)**|
 |**2024-12-18**|**InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models**|Cong Wei et.al.|[2412.14006](http://arxiv.org/abs/2412.14006)|**[link](https://github.com/congvvc/instructseg)**|
@@ -5134,7 +5134,7 @@ layout: default
 |**2024-12-18**|**Digestion Algorithm in Hierarchical Symbolic Forests: A Fast Text Normalization Algorithm and Semantic Parsing Framework for Specific Scenarios and Lightweight Deployment**|Kevin You et.al.|[2412.14054](http://arxiv.org/abs/2412.14054)|null|
 |**2024-12-18**|**Neural Combinatorial Optimization for Stochastic Flexible Job Shop Scheduling Problems**|Igor G. Smit et.al.|[2412.14052](http://arxiv.org/abs/2412.14052)|null|
 |**2024-12-18**|**Circuits-Informed Machine Learning Technique for Blind Open-Loop Digital Calibration of SAR ADC**|Sumukh Bhanushali et.al.|[2412.14051](http://arxiv.org/abs/2412.14051)|null|
-|**2024-12-18**|**Gauss-Newton Dynamics for Neural Networks: A Riemannian Optimization Perspective**|Semih Cayci et.al.|[2412.14031](http://arxiv.org/abs/2412.14031)|null|
+|**2024-12-19**|**Gauss-Newton Dynamics for Neural Networks: A Riemannian Optimization Perspective**|Semih Cayci et.al.|[2412.14031](http://arxiv.org/abs/2412.14031)|null|
 |**2024-12-18**|**Temperature-Resilient Analog Neuromorphic Chip in Single-Polysilicon CMOS Technology**|Tommaso Rizzo et.al.|[2412.14029](http://arxiv.org/abs/2412.14029)|null|
 |**2024-12-18**|**Robust Optimal Safe and Stability Guaranteeing Reinforcement Learning Control for Quadcopter**|Sanghyoup Gu et.al.|[2412.14003](http://arxiv.org/abs/2412.14003)|null|
 |**2024-12-18**|**Modality-Independent Graph Neural Networks with Global Transformers for Multimodal Recommendation**|Jun Hu et.al.|[2412.13994](http://arxiv.org/abs/2412.13994)|**[link](https://github.com/crawlscript/mig-gt)**|
@@ -5142,7 +5142,7 @@ layout: default
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
 |**2024-12-18**|**LeStrat-Net: Lebesgue style stratification for Monte Carlo simulations powered by machine learning**|Kayoung Ban et.al.|[2412.13982](http://arxiv.org/abs/2412.13982)|null|
 |**2024-12-18**|**Subwavelength Localisation in Disordered Systems**|Habib Ammari et.al.|[2412.13954](http://arxiv.org/abs/2412.13954)|null|
-|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|null|
+|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|**[link](https://github.com/malayp717/pm2.5)**|
 |**2024-12-18**|**Threshold Neuron: A Brain-inspired Artificial Neuron for Efficient On-device Inference**|Zihao Zheng et.al.|[2412.13902](http://arxiv.org/abs/2412.13902)|null|
 |**2024-12-18**|**Understanding and Analyzing Model Robustness and Knowledge-Transfer in Multilingual Neural Machine Translation using TX-Ray**|Vageesh Saxena et.al.|[2412.13881](http://arxiv.org/abs/2412.13881)|null|
 |**2024-12-18**|**Zero-Shot Prompting and Few-Shot Fine-Tuning: Revisiting Document Image Classification Using Large Language Models**|Anna Scius-Bertrand et.al.|[2412.13859](http://arxiv.org/abs/2412.13859)|null|
@@ -5170,7 +5170,7 @@ layout: default
 |**2024-12-18**|**Multiplexed Metasurfaces for Diffractive Optics via Phase Correlation Method**|Chenxuan Xiang et.al.|[2412.13531](http://arxiv.org/abs/2412.13531)|null|
 |**2024-12-18**|**Privacy-Preserving Cyberattack Detection in Blockchain-Based IoT Systems Using AI and Homomorphic Encryption**|Bui Duc Manh et.al.|[2412.13522](http://arxiv.org/abs/2412.13522)|null|
 |**2024-12-18**|**Investigation of reentrant localization transition in one-dimensional quasi-periodic lattice with long-range hopping**|Pei-Jie Chang et.al.|[2412.13518](http://arxiv.org/abs/2412.13518)|null|
-|**2024-12-18**|**Plug-and-Play Tri-Branch Invertible Block for Image Rescaling**|Jingwei Bao et.al.|[2412.13508](http://arxiv.org/abs/2412.13508)|**[link](https://github.com/jingwei-bao/t-invblocks)**|
+|**2024-12-18**|**Plug-and-Play Tri-Branch Invertible Block for Image Rescaling**|Jingwei Bao et.al.|[2412.13508](http://arxiv.org/abs/2412.13508)|null|
 |**2024-12-18**|**Attention-aware convolutional neural networks for identification of magnetic islands in the tearing mode on EAST tokamak**|Feifei Long et.al.|[2412.13498](http://arxiv.org/abs/2412.13498)|null|
 |**2024-12-18**|**Spatial Optical Simulator for Classical Statistical Models**|Song-Tao Yu et.al.|[2412.13476](http://arxiv.org/abs/2412.13476)|null|
 |**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443](http://arxiv.org/abs/2412.13443)|null|
@@ -11178,7 +11178,7 @@ layout: default
 |**2024-12-18**|**Hansel: Output Length Controlling Framework for Large Language Models**|Seoha Song et.al.|[2412.14033](http://arxiv.org/abs/2412.14033)|null|
 |**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019](http://arxiv.org/abs/2412.14019)|null|
 |**2024-12-18**|**Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation**|Haotong Lin et.al.|[2412.14015](http://arxiv.org/abs/2412.14015)|null|
-|**2024-12-18**|**Towards an optimised evaluation of teachers' discourse: The case of engaging messages**|Samuel Falcon et.al.|[2412.14011](http://arxiv.org/abs/2412.14011)|null|
+|**2024-12-19**|**Towards an optimised evaluation of teachers' discourse: The case of engaging messages**|Samuel Falcon et.al.|[2412.14011](http://arxiv.org/abs/2412.14011)|null|
 |**2024-12-18**|**Cognition Chain for Explainable Psychological Stress Detection on Social Media**|Xin Wang et.al.|[2412.14009](http://arxiv.org/abs/2412.14009)|null|
 |**2024-12-18**|**FarExStance: Explainable Stance Detection for Farsi**|Majid Zarharan et.al.|[2412.14008](http://arxiv.org/abs/2412.14008)|**[link](https://github.com/dadmatech/farexstance)**|
 |**2024-12-18**|**InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models**|Cong Wei et.al.|[2412.14006](http://arxiv.org/abs/2412.14006)|**[link](https://github.com/congvvc/instructseg)**|
