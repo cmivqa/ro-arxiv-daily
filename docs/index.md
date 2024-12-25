@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -23,7 +23,7 @@ layout: default
 |**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
 |**2024-12-23**|**Fourier Position Embedding: Enhancing Attention's Periodic Extension for Length Generalization**|Ermo Hua et.al.|[2412.17739](http://arxiv.org/abs/2412.17739)|null|
 |**2024-12-23**|**Knowledge Editing through Chain-of-Thought**|Changyue Wang et.al.|[2412.17727](http://arxiv.org/abs/2412.17727)|**[link](https://github.com/bebr2/editcot)**|
-|**2024-12-23**|**From Models to Microtheories: Distilling a Model's Topical Knowledge for Grounded Question Answering**|Nathaniel Weir et.al.|[2412.17701](http://arxiv.org/abs/2412.17701)|**[link](https://github.com/nweir127/microtheories)**|
+|**2024-12-24**|**From Models to Microtheories: Distilling a Model's Topical Knowledge for Grounded Question Answering**|Nathaniel Weir et.al.|[2412.17701](http://arxiv.org/abs/2412.17701)|**[link](https://github.com/nweir127/microtheories)**|
 |**2024-12-23**|**Understanding the Logic of Direct Preference Alignment through Logic**|Kyle Richardson et.al.|[2412.17696](http://arxiv.org/abs/2412.17696)|null|
 |**2024-12-23**|**FedTLU: Federated Learning with Targeted Layer Updates**|Jong-Ik Park et.al.|[2412.17692](http://arxiv.org/abs/2412.17692)|null|
 |**2024-12-23**|**Large Language Model Safety: A Holistic Survey**|Dan Shi et.al.|[2412.17686](http://arxiv.org/abs/2412.17686)|null|
@@ -5286,7 +5286,7 @@ layout: default
 |**2024-12-23**|**Scaling Description of the Relaxation Dynamics and Dynamical Heterogeneity of an Active Glass-forming Liquid**|Subhodeep Dey et.al.|[2412.17666](http://arxiv.org/abs/2412.17666)|null|
 |**2024-12-23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|Huaxu He et.al.|[2412.17654](http://arxiv.org/abs/2412.17654)|null|
 |**2024-12-23**|**Graph Neural Networks Are Evolutionary Algorithms**|Kaichen Ouyang et.al.|[2412.17629](http://arxiv.org/abs/2412.17629)|null|
-|**2024-12-23**|**Towards An Unsupervised Learning Scheme for Efficiently Solving Parameterized Mixed-Integer Programs**|Shiyuan Qu et.al.|[2412.17623](http://arxiv.org/abs/2412.17623)|**[link](https://github.com/qushiyuan/ae4bv)**|
+|**2024-12-24**|**Towards An Unsupervised Learning Scheme for Efficiently Solving Parameterized Mixed-Integer Programs**|Shiyuan Qu et.al.|[2412.17623](http://arxiv.org/abs/2412.17623)|**[link](https://github.com/qushiyuan/ae4bv)**|
 |**2024-12-23**|**Can Stability be Detrimental? Better Generalization through Gradient Descent Instabilities**|Lawrence Wang et.al.|[2412.17613](http://arxiv.org/abs/2412.17613)|null|
 |**2024-12-23**|**Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs**|Fabrizio Frasca et.al.|[2412.17609](http://arxiv.org/abs/2412.17609)|null|
 |**2024-12-23**|**The quantum $p$-spin renormalization group in the large $N$ limit as a benchmark for functional renormalization group**|Vincent Lahoche et.al.|[2412.17600](http://arxiv.org/abs/2412.17600)|null|
@@ -9586,7 +9586,7 @@ layout: default
 |**2024-12-22**|**Online Preference-based Reinforcement Learning with Self-augmented Feedback from Large Language Model**|Songjun Tu et.al.|[2412.16878](http://arxiv.org/abs/2412.16878)|null|
 |**2024-12-22**|**ACL-QL: Adaptive Conservative Level in Q-Learning for Offline Reinforcement Learning**|Kun Wu et.al.|[2412.16848](http://arxiv.org/abs/2412.16848)|null|
 |**2024-12-22**|**Adaptive User Interface Generation Through Reinforcement Learning: A Data-Driven Approach to Personalization and Optimization**|Qi Sun et.al.|[2412.16837](http://arxiv.org/abs/2412.16837)|null|
-|**2024-12-22**|**Online Learning from Strategic Human Feedback in LLM Fine-Tuning**|Shugang Hao et.al.|[2412.16834](http://arxiv.org/abs/2412.16834)|null|
+|**2024-12-24**|**Online Learning from Strategic Human Feedback in LLM Fine-Tuning**|Shugang Hao et.al.|[2412.16834](http://arxiv.org/abs/2412.16834)|null|
 |**2024-12-21**|**OpenAI o1 System Card**|OpenAI et.al.|[2412.16720](http://arxiv.org/abs/2412.16720)|null|
 |**2024-12-21**|**DragonVerseQA: Open-Domain Long-Form Context-Aware Question-Answering**|Aritra Kumar Lahiri et.al.|[2412.16694](http://arxiv.org/abs/2412.16694)|null|
 |**2024-12-21**|**Subgoal Discovery Using a Free Energy Paradigm and State Aggregations**|Amirhossein Mesbah et.al.|[2412.16687](http://arxiv.org/abs/2412.16687)|null|
@@ -9606,9 +9606,9 @@ layout: default
 |**2024-12-20**|**Trust Calibration in IDEs: Paving the Way for Widespread Adoption of AI Refactoring**|Markus Borg et.al.|[2412.15948](http://arxiv.org/abs/2412.15948)|null|
 |**2024-12-20**|**What Are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning**|Yiran Ma et.al.|[2412.15904](http://arxiv.org/abs/2412.15904)|null|
 |**2024-12-20**|**Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback**|Jiaming Ji et.al.|[2412.15838](http://arxiv.org/abs/2412.15838)|**[link](https://github.com/pku-alignment/align-anything)**|
-|**2024-12-23**|**MacLight: Multi-scene Aggregation Convolutional Learning for Traffic Signal Control**|Sunbowen Lee et.al.|[2412.15703](http://arxiv.org/abs/2412.15703)|**[link](https://github.com/Aegis1863/MacLight)**|
+|**2024-12-24**|**MacLight: Multi-scene Aggregation Convolutional Learning for Traffic Signal Control**|Sunbowen Lee et.al.|[2412.15703](http://arxiv.org/abs/2412.15703)|**[link](https://github.com/Aegis1863/MacLight)**|
 |**2024-12-20**|**AIR: Unifying Individual and Cooperative Exploration in Collective Multi-Agent Reinforcement Learning**|Guangchong Zhou et.al.|[2412.15700](http://arxiv.org/abs/2412.15700)|**[link](https://github.com/jugg1er/air)**|
-|**2024-12-20**|**Tacit Learning with Adaptive Information Selection for Cooperative Multi-Agent Reinforcement Learning**|Lunjun Liu et.al.|[2412.15639](http://arxiv.org/abs/2412.15639)|null|
+|**2024-12-24**|**Tacit Learning with Adaptive Information Selection for Cooperative Multi-Agent Reinforcement Learning**|Lunjun Liu et.al.|[2412.15639](http://arxiv.org/abs/2412.15639)|null|
 |**2024-12-20**|**Dexterous Manipulation Based on Prior Dexterous Grasp Pose Knowledge**|Hengxu Yan et.al.|[2412.15587](http://arxiv.org/abs/2412.15587)|null|
 |**2024-12-20**|**Multi Agent Reinforcement Learning for Sequential Satellite Assignment Problems**|Joshua Holder et.al.|[2412.15573](http://arxiv.org/abs/2412.15573)|**[link](https://github.com/Rainlabuw/rl-enabled-distributed-assignment)**|
 |**2024-12-20**|**VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving**|Zilin Huang et.al.|[2412.15544](http://arxiv.org/abs/2412.15544)|null|
