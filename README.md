@@ -45,17 +45,17 @@
 |**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
 |**2024-12-24**|**Weak Scaling Capability in Token Space: An Observation from Large Vision Language Model**|Tenghui Li et.al.|[2412.18387](http://arxiv.org/abs/2412.18387)|null|
 |**2024-12-24**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|null|
-|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|null|
+|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|**[link](https://github.com/KevinHeiwa/Agentable)**|
 |**2024-12-24**|**Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering**|Zhongjian Hu et.al.|[2412.18351](http://arxiv.org/abs/2412.18351)|null|
 |**2024-12-24**|**Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model**|Yushu Li et.al.|[2412.18303](http://arxiv.org/abs/2412.18303)|null|
 |**2024-12-24**|**M-Ped: Multi-Prompt Ensemble Decoding for Large Language Models**|Jiaxin Guo et.al.|[2412.18299](http://arxiv.org/abs/2412.18299)|null|
 |**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298](http://arxiv.org/abs/2412.18298)|**[link](https://github.com/Darcyddx/Video-LLM)**|
 |**2024-12-24**|**Pirates of the RAG: Adaptively Attacking LLMs to Leak Knowledge Bases**|Christian Di Maio et.al.|[2412.18295](http://arxiv.org/abs/2412.18295)|null|
-|**2024-12-24**|**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**|Zhixuan Shen et.al.|[2412.18292](http://arxiv.org/abs/2412.18292)|null|
+|**2024-12-24**|**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**|Zhixuan Shen et.al.|[2412.18292](http://arxiv.org/abs/2412.18292)|**[link](https://github.com/frankzxshen/mcoconav)**|
 |**2024-12-24**|**DeepCRCEval: Revisiting the Evaluation of Code Review Comment Generation**|Junyi Lu et.al.|[2412.18291](http://arxiv.org/abs/2412.18291)|null|
 |**2024-12-24**|**GDM4MMIMO: Generative Diffusion Models for Massive MIMO Communications**|Zhenzhou Jin et.al.|[2412.18281](http://arxiv.org/abs/2412.18281)|null|
 |**2024-12-24**|**Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization**|Jiacai Liu et.al.|[2412.18279](http://arxiv.org/abs/2412.18279)|null|
-|**2024-12-24**|**Learning to engineer protein flexibility**|Petr Kouba et.al.|[2412.18275](http://arxiv.org/abs/2412.18275)|null|
+|**2024-12-24**|**Learning to engineer protein flexibility**|Petr Kouba et.al.|[2412.18275](http://arxiv.org/abs/2412.18275)|**[link](https://github.com/KoubaPetr/Flexpert)**|
 |**2024-12-24**|**GenAI Content Detection Task 2: AI vs. Human -- Academic Essay Authenticity Challenge**|Shammur Absar Chowdhury et.al.|[2412.18274](http://arxiv.org/abs/2412.18274)|null|
 |**2024-12-24**|**Annotating References to Mythological Entities in French Literature**|Thierry Poibeau et.al.|[2412.18270](http://arxiv.org/abs/2412.18270)|null|
 |**2024-12-24**|**Investigating Large Language Models for Code Vulnerability Detection: An Experimental Study**|Xuefeng Jiang et.al.|[2412.18260](http://arxiv.org/abs/2412.18260)|**[link](https://github.com/sakirinn/llm4cvd)**|
@@ -5337,7 +5337,7 @@
 |**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596](http://arxiv.org/abs/2412.18596)|null|
 |**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|null|
 |**2024-12-24**|**ReducedLUT: Table Decomposition with "Don't Care" Conditions**|Oliver Cassidy et.al.|[2412.18579](http://arxiv.org/abs/2412.18579)|**[link](https://github.com/ollycassidy13/ReducedLUT)**|
-|**2024-12-24**|**Machine Learning Approaches to the Shafarevich-Tate Group of Elliptic Curves**|Angelica Babei et.al.|[2412.18576](http://arxiv.org/abs/2412.18576)|null|
+|**2024-12-24**|**Machine Learning Approaches to the Shafarevich-Tate Group of Elliptic Curves**|Angelica Babei et.al.|[2412.18576](http://arxiv.org/abs/2412.18576)|**[link](https://github.com/barinderbanwait/ml_rnt)**|
 |**2024-12-24**|**Inferring intermediate states by leveraging the many-body Arrhenius law**|Vishwajeet Kumar et.al.|[2412.18574](http://arxiv.org/abs/2412.18574)|null|
 |**2024-12-24**|**Efficient Aircraft Design Optimization Using Multi-Fidelity Models and Multi-fidelity Physics Informed Neural Networks**|Apurba Sarker et.al.|[2412.18564](http://arxiv.org/abs/2412.18564)|null|
 |**2024-12-24**|**Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning**|Gang Huang et.al.|[2412.18563](http://arxiv.org/abs/2412.18563)|**[link](https://github.com/watermeloncq/drl-dynamic-optimization-portfolio-SB3py37)**|
@@ -11686,7 +11686,7 @@
 |**2024-12-24**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404](http://arxiv.org/abs/2412.18404)|null|
 |**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
 |**2024-12-24**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|null|
-|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|null|
+|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|**[link](https://github.com/KevinHeiwa/Agentable)**|
 |**2024-12-24**|**Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering**|Zhongjian Hu et.al.|[2412.18351](http://arxiv.org/abs/2412.18351)|null|
 |**2024-12-24**|**M-Ped: Multi-Prompt Ensemble Decoding for Large Language Models**|Jiaxin Guo et.al.|[2412.18299](http://arxiv.org/abs/2412.18299)|null|
 |**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298](http://arxiv.org/abs/2412.18298)|**[link](https://github.com/Darcyddx/Video-LLM)**|
