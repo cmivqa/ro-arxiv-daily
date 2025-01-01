@@ -5458,7 +5458,7 @@ layout: default
 |**2024-12-30**|**Residual Connection Networks in Medical Image Processing: Exploration of ResUnet++ Model Driven by Human Computer Interaction**|Peixin Dai et.al.|[2412.20709](http://arxiv.org/abs/2412.20709)|null|
 |**2024-12-30**|**Metadata-Enhanced Speech Emotion Recognition: Augmented Residual Integration and Co-Attention in Two-Stage Fine-Tuning**|Zixiang Wan et.al.|[2412.20707](http://arxiv.org/abs/2412.20707)|null|
 |**2024-12-30**|**Diffractive Magic Cube Network with Super-high Capacity Enabled by Mechanical Reconfiguration**|Peijie Feng et.al.|[2412.20693](http://arxiv.org/abs/2412.20693)|null|
-|**2024-12-30**|**Online Adaptive Platoon Control for Connected and Automated Vehicles via Physics Enhanced Residual Learning**|Peng Zhang et.al.|[2412.20680](http://arxiv.org/abs/2412.20680)|null|
+|**2024-12-30**|**Online Adaptive Platoon Control for Connected and Automated Vehicles via Physics Enhanced Residual Learning**|Peng Zhang et.al.|[2412.20680](http://arxiv.org/abs/2412.20680)|**[link](https://github.com/CATS-Lab/AV-Control-PERL_Platooning)**|
 |**2024-12-30**|**Differentiable Convex Optimization Layers in Neural Architectures: Foundations and Perspectives**|Calder Katyal et.al.|[2412.20679](http://arxiv.org/abs/2412.20679)|null|
 |**2024-12-30**|**Improved ICNN-LSTM Model Classification Based on Attitude Sensor Data for Hazardous State Assessment of Magnetic Adhesion Climbing Wall Robots**|Zhen Ma et.al.|[2412.20675](http://arxiv.org/abs/2412.20675)|null|
 |**2024-12-30**|**Recurrence-based Vanishing Point Detection**|Skanda Bharadwaj et.al.|[2412.20666](http://arxiv.org/abs/2412.20666)|null|
