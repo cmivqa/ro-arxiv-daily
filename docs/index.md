@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -35,7 +35,7 @@ layout: default
 |**2024-12-30**|**WalkVLM:Aid Visually Impaired People Walking by Vision Language Model**|Zhiqiang Yuan et.al.|[2412.20903](http://arxiv.org/abs/2412.20903)|null|
 |**2024-12-30**|**Towards Compatible Fine-tuning for Vision-Language Model Updates**|Zhengbo Wang et.al.|[2412.20895](http://arxiv.org/abs/2412.20895)|null|
 |**2024-12-30**|**DoTA: Weight-Decomposed Tensor Adaptation for Large Language Models**|Xiaolin Hu et.al.|[2412.20891](http://arxiv.org/abs/2412.20891)|null|
-|**2024-12-30**|**Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding**|Liuzhenghao Lv et.al.|[2412.20888](http://arxiv.org/abs/2412.20888)|null|
+|**2024-12-30**|**Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding**|Liuzhenghao Lv et.al.|[2412.20888](http://arxiv.org/abs/2412.20888)|**[link](https://github.com/Lyu6PosHao/HME)**|
 |**2024-12-30**|**Enhancing Annotated Bibliography Generation with LLM Ensembles**|Sergio Bermejo et.al.|[2412.20864](http://arxiv.org/abs/2412.20864)|null|
 |**2024-12-30**|**Are LLMs Really Not Knowledgable? Mining the Submerged Knowledge in LLMs' Memory**|Xingjian Tao et.al.|[2412.20846](http://arxiv.org/abs/2412.20846)|null|
 |**2024-12-30**|**Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment**|Jianfei Zhang et.al.|[2412.20834](http://arxiv.org/abs/2412.20834)|**[link](https://github.com/zhangjf-nlp/LatentDPO)**|
@@ -56,7 +56,7 @@ layout: default
 |**2024-12-30**|**UBER: Uncertainty-Based Evolution with Large Language Models for Automatic Heuristic Design**|Zijie Chen et.al.|[2412.20694](http://arxiv.org/abs/2412.20694)|null|
 |**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682](http://arxiv.org/abs/2412.20682)|null|
 |**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|
-|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662](http://arxiv.org/abs/2412.20662)|null|
+|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662](http://arxiv.org/abs/2412.20662)|**[link](https://github.com/lqzxt/ngtr)**|
 |**2024-12-27**|**MVTamperBench: Evaluating Robustness of Vision-Language Models**|Amit Agarwal et.al.|[2412.19794](http://arxiv.org/abs/2412.19794)|null|
 |**2024-12-27**|**InfAlign: Inference-aware language model alignment**|Ananth Balashankar et.al.|[2412.19792](http://arxiv.org/abs/2412.19792)|null|
 |**2024-12-27**|**Enhancing Whisper's Accuracy and Speed for Indian Languages through Prompt-Tuning and Tokenization**|Kumud Tripathi et.al.|[2412.19785](http://arxiv.org/abs/2412.19785)|null|
@@ -5431,7 +5431,7 @@ layout: default
 |**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151](http://arxiv.org/abs/2412.21151)|**[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)**|
 |**2024-12-30**|**Using AI for Efficient Statistical Inference of Lattice Correlators Across Mass Parameters**|Octavio Vega et.al.|[2412.21147](http://arxiv.org/abs/2412.21147)|null|
 |**2024-12-30**|**DeepF-fNet: a physics-informed neural network for vibration isolation optimization**|A. Tollardo et.al.|[2412.21132](http://arxiv.org/abs/2412.21132)|null|
-|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130](http://arxiv.org/abs/2412.21130)|null|
+|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130](http://arxiv.org/abs/2412.21130)|**[link](https://github.com/Fucheng-Zhong/GaSNet-III)**|
 |**2024-12-30**|**Lyapunov-Based Deep Neural Networks for Adaptive Control of Stochastic Nonlinear Systems**|Saiedeh Akbari et.al.|[2412.21095](http://arxiv.org/abs/2412.21095)|null|
 |**2024-12-30**|**The FlEye camera: Sampling the joint distribution of natural scenes and motion**|Charles J. Edelson et.al.|[2412.21081](http://arxiv.org/abs/2412.21081)|null|
 |**2024-12-30**|**Pharmacometrics Modeling via Physics-Informed Neural Networks: Integrating Time-Variant Absorption Rates and Fractional Calculus for Enhancing Prediction Accuracy**|Nazanin Ahmadi et.al.|[2412.21076](http://arxiv.org/abs/2412.21076)|null|
@@ -5443,7 +5443,7 @@ layout: default
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976](http://arxiv.org/abs/2412.20976)|null|
 |**2024-12-30**|**FPGA-based Acceleration of Neural Network for Image Classification using Vitis AI**|Zhengdong Li et.al.|[2412.20974](http://arxiv.org/abs/2412.20974)|null|
 |**2024-12-30**|**Conservation-informed Graph Learning for Spatiotemporal Dynamics Prediction**|Yuan Mi et.al.|[2412.20962](http://arxiv.org/abs/2412.20962)|null|
-|**2024-12-30**|**HisynSeg: Weakly-Supervised Histopathological Image Segmentation via Image-Mixing Synthesis and Consistency Regularization**|Zijie Fang et.al.|[2412.20924](http://arxiv.org/abs/2412.20924)|null|
+|**2024-12-30**|**HisynSeg: Weakly-Supervised Histopathological Image Segmentation via Image-Mixing Synthesis and Consistency Regularization**|Zijie Fang et.al.|[2412.20924](http://arxiv.org/abs/2412.20924)|**[link](https://github.com/vison307/hisynseg)**|
 |**2024-12-30**|**Uncertainty-Aware Out-of-Distribution Detection with Gaussian Processes**|Yang Chen et.al.|[2412.20918](http://arxiv.org/abs/2412.20918)|null|
 |**2024-12-30**|**Recovering 21cm global signal from 21cm power spectrum with artificial neural network**|Hayato Shimabukuro et.al.|[2412.20862](http://arxiv.org/abs/2412.20862)|null|
 |**2024-12-30**|**About rectified sigmoid function for enhancing the accuracy of Physics-Informed Neural Networks**|Vasiliy A. Es'kin et.al.|[2412.20851](http://arxiv.org/abs/2412.20851)|null|
@@ -5452,9 +5452,9 @@ layout: default
 |**2024-12-30**|**Pre-trained Audio Transformer as a Foundational AI Tool for Gravitational Waves**|Chayan Chatterjee et.al.|[2412.20789](http://arxiv.org/abs/2412.20789)|null|
 |**2024-12-30**|**High-Sensitivity Vision-Based Tactile Sensing Enhanced by Microstructures and Lightweight CNN**|Mayue Shi et.al.|[2412.20758](http://arxiv.org/abs/2412.20758)|null|
 |**2024-12-30**|**Unsupervised dense retrieval with conterfactual contrastive learning**|Haitian Chen et.al.|[2412.20756](http://arxiv.org/abs/2412.20756)|null|
-|**2024-12-30**|**AverageLinear: Enhance Long-Term Time series forcasting with simple averaging**|Gaoxiang Zhao et.al.|[2412.20727](http://arxiv.org/abs/2412.20727)|null|
+|**2024-12-30**|**AverageLinear: Enhance Long-Term Time series forcasting with simple averaging**|Gaoxiang Zhao et.al.|[2412.20727](http://arxiv.org/abs/2412.20727)|**[link](https://github.com/UniqueoneZ/AverageLinear)**|
 |**2024-12-30**|**Training Deep Neural Classifiers with Soft Diamond Regularizers**|Olaoluwa Adigun et.al.|[2412.20724](http://arxiv.org/abs/2412.20724)|null|
-|**2024-12-30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|Haotian Fu et.al.|[2412.20714](http://arxiv.org/abs/2412.20714)|null|
+|**2024-12-30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|Haotian Fu et.al.|[2412.20714](http://arxiv.org/abs/2412.20714)|**[link](https://github.com/1439278026/lss-ca-snn)**|
 |**2024-12-30**|**Residual Connection Networks in Medical Image Processing: Exploration of ResUnet++ Model Driven by Human Computer Interaction**|Peixin Dai et.al.|[2412.20709](http://arxiv.org/abs/2412.20709)|null|
 |**2024-12-30**|**Metadata-Enhanced Speech Emotion Recognition: Augmented Residual Integration and Co-Attention in Two-Stage Fine-Tuning**|Zixiang Wan et.al.|[2412.20707](http://arxiv.org/abs/2412.20707)|null|
 |**2024-12-30**|**Diffractive Magic Cube Network with Super-high Capacity Enabled by Mechanical Reconfiguration**|Peijie Feng et.al.|[2412.20693](http://arxiv.org/abs/2412.20693)|null|
@@ -11945,7 +11945,7 @@ layout: default
 |**2024-12-30**|**UBER: Uncertainty-Based Evolution with Large Language Models for Automatic Heuristic Design**|Zijie Chen et.al.|[2412.20694](http://arxiv.org/abs/2412.20694)|null|
 |**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682](http://arxiv.org/abs/2412.20682)|null|
 |**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|
-|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662](http://arxiv.org/abs/2412.20662)|null|
+|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662](http://arxiv.org/abs/2412.20662)|**[link](https://github.com/lqzxt/ngtr)**|
 |**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641](http://arxiv.org/abs/2412.20641)|null|
 |**2024-12-30**|**Knowledge Editing for Large Language Model with Knowledge Neuronal Ensemble**|Yongchang Li et.al.|[2412.20637](http://arxiv.org/abs/2412.20637)|null|
 |**2024-12-30**|**EVOLVE: Emotion and Visual Output Learning via LLM Evaluation**|Jordan Sinclair et.al.|[2412.20632](http://arxiv.org/abs/2412.20632)|null|
@@ -11959,7 +11959,7 @@ layout: default
 |**2024-12-29**|**The Impact of Prompt Programming on Function-Level Code Generation**|Ranim Khojah et.al.|[2412.20545](http://arxiv.org/abs/2412.20545)|**[link](https://github.com/icetlab/codeprompteval)**|
 |**2024-12-29**|**Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning**|Hang Ni et.al.|[2412.20505](http://arxiv.org/abs/2412.20505)|null|
 |**2024-12-29**|**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding**|Xiao Wang et.al.|[2412.20504](http://arxiv.org/abs/2412.20504)|**[link](https://github.com/sczwangxiao/video-retake)**|
-|**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|null|
+|**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|**[link](https://github.com/aca-lab-sjtu/token-ring)**|
 |**2024-12-29**|**Improving Vision-Language-Action Models via Chain-of-Affordance**|Jinming Li et.al.|[2412.20451](http://arxiv.org/abs/2412.20451)|null|
 |**2024-12-29**|**Enhancing Entertainment Translation for Indian Languages using Adaptive Context, Style and LLMs**|Pratik Rakesh Singh et.al.|[2412.20440](http://arxiv.org/abs/2412.20440)|null|
 |**2024-12-29**|**Image Augmentation Agent for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2412.20439](http://arxiv.org/abs/2412.20439)|null|
