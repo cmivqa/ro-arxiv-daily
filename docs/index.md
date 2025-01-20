@@ -7,6 +7,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360](http://arxiv.org/abs/2501.10360)|**[link](https://github.com/kartik-3004/facexbench)**|
+|**2025-01-17**|**Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**|Weibo Gao et.al.|[2501.10332](http://arxiv.org/abs/2501.10332)|null|
+|**2025-01-17**|**BoK: Introducing Bag-of-Keywords Loss for Interpretable Dialogue Response Generation**|Suvodip Dey et.al.|[2501.10328](http://arxiv.org/abs/2501.10328)|**[link](https://github.com/suvodipdey/bok)**|
+|**2025-01-17**|**Large language models for automated scholarly paper review: A survey**|Zhenzhen Zhuang et.al.|[2501.10326](http://arxiv.org/abs/2501.10326)|null|
+|**2025-01-17**|**Hierarchical Autoregressive Transformers: Combining Byte-~and Word-Level Processing for Robust, Adaptable Language Models**|Pit Neitemeier et.al.|[2501.10322](http://arxiv.org/abs/2501.10322)|null|
+|**2025-01-17**|**HiMix: Reducing Computational Complexity in Large Vision-Language Models**|Xuange Zhang et.al.|[2501.10318](http://arxiv.org/abs/2501.10318)|null|
+|**2025-01-17**|**Addressing Popularity Bias in Third-Party Library Recommendations Using LLMs**|Claudio Di Sipio et.al.|[2501.10313](http://arxiv.org/abs/2501.10313)|null|
+|**2025-01-17**|**Computational Protein Science in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2501.10282](http://arxiv.org/abs/2501.10282)|null|
+|**2025-01-17**|**Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation**|Azat Abdullin et.al.|[2501.10200](http://arxiv.org/abs/2501.10200)|null|
+|**2025-01-17**|**Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education**|William Hersh et.al.|[2501.10186](http://arxiv.org/abs/2501.10186)|null|
+|**2025-01-17**|**Multi-stage Training of Bilingual Islamic LLM for Neural Passage Retrieval**|Vera Pavlova et.al.|[2501.10175](http://arxiv.org/abs/2501.10175)|null|
+|**2025-01-17**|**Dual Debiasing: Remove Stereotypes and Keep Factual Gender for Fair Language Modeling and Translation**|Tomasz Limisiewicz et.al.|[2501.10150](http://arxiv.org/abs/2501.10150)|null|
+|**2025-01-17**|**A Vision-Language Framework for Multispectral Scene Representation Using Language-Grounded Features**|Enes Karanfil et.al.|[2501.10144](http://arxiv.org/abs/2501.10144)|null|
+|**2025-01-17**|**Exploring the Impact of Generative Artificial Intelligence in Education: A Thematic Analysis**|Abhishek Kaushik et.al.|[2501.10134](http://arxiv.org/abs/2501.10134)|null|
+|**2025-01-17**|**ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario**|Lucen Zhong et.al.|[2501.10132](http://arxiv.org/abs/2501.10132)|**[link](https://github.com/thudm/complexfuncbench)**|
+|**2025-01-17**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120](http://arxiv.org/abs/2501.10120)|null|
+|**2025-01-17**|**LLM Reasoner and Automated Planner: A new NPC approach**|Israel Puerta-Merino et.al.|[2501.10106](http://arxiv.org/abs/2501.10106)|null|
+|**2025-01-17**|**Universal Actions for Enhanced Embodied Foundation Models**|Jinliang Zheng et.al.|[2501.10105](http://arxiv.org/abs/2501.10105)|**[link](https://github.com/2toinf/uniact)**|
+|**2025-01-17**|**Few-shot Structure-Informed Machinery Part Segmentation with Foundation Models and Graph Neural Networks**|Michael Schwingshackl et.al.|[2501.10080](http://arxiv.org/abs/2501.10080)|**[link](https://github.com/ait-assistive-autonomous-systems/hopomop)**|
+|**2025-01-17**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074](http://arxiv.org/abs/2501.10074)|null|
+|**2025-01-17**|**CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment**|Yating Liu et.al.|[2501.10071](http://arxiv.org/abs/2501.10071)|null|
+|**2025-01-17**|**FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization**|Zhaopeng Gu et.al.|[2501.10067](http://arxiv.org/abs/2501.10067)|**[link](https://github.com/casia-iva-lab/filo)**|
+|**2025-01-17**|**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**|Paul Röttger et.al.|[2501.10057](http://arxiv.org/abs/2501.10057)|**[link](https://github.com/paul-rottger/msts-multimodal-safety)**|
+|**2025-01-17**|**Accelerating Large Language Models through Partially Linear Feed-Forward Network**|Gansen Hu et.al.|[2501.10054](http://arxiv.org/abs/2501.10054)|null|
+|**2025-01-17**|**AirRAG: Activating Intrinsic Reasoning for Retrieval Augmented Generation via Tree-based Search**|Wenfeng Feng et.al.|[2501.10053](http://arxiv.org/abs/2501.10053)|null|
+|**2025-01-17**|**Exploring Code Comprehension in Scientific Programming: Preliminary Insights from Research Scientists**|Alyssia Chen et.al.|[2501.10037](http://arxiv.org/abs/2501.10037)|null|
+|**2025-01-17**|**Mapping scientific communities at scale**|Victor Barbier et.al.|[2501.10035](http://arxiv.org/abs/2501.10035)|null|
+|**2025-01-17**|**Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions**|Zhijie Tan et.al.|[2501.10011](http://arxiv.org/abs/2501.10011)|null|
+|**2025-01-17**|**Attention-guided Self-reflection for Zero-shot Hallucination Detection in Large Language Models**|Qiang Liu et.al.|[2501.09997](http://arxiv.org/abs/2501.09997)|null|
+|**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993](http://arxiv.org/abs/2501.09993)|null|
+|**2025-01-17**|**Explainable artificial intelligence (XAI): from inherent explainability to large language models**|Fuseini Mumuni et.al.|[2501.09967](http://arxiv.org/abs/2501.09967)|null|
+|**2025-01-17**|**A Survey on Multi-Turn Interaction Capabilities of Large Language Models**|Chen Zhang et.al.|[2501.09959](http://arxiv.org/abs/2501.09959)|null|
+|**2025-01-17**|**FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**|Zengyi Gao et.al.|[2501.09957](http://arxiv.org/abs/2501.09957)|null|
+|**2025-01-17**|**AIRCHITECT v2: Learning the Hardware Accelerator Design Space through Unified Representations**|Jamin Seo et.al.|[2501.09954](http://arxiv.org/abs/2501.09954)|**[link](https://github.com/maestro-project/airchitect-v2)**|
+|**2025-01-17**|**Sympathy over Polarization: A Computational Discourse Analysis of Social Media Posts about the July 2024 Trump Assassination Attempt**|Qingcheng Zeng et.al.|[2501.09950](http://arxiv.org/abs/2501.09950)|null|
+|**2025-01-17**|**MultiPruner: Balanced Structure Removal in Foundation Models**|J. Pablo Muñoz et.al.|[2501.09949](http://arxiv.org/abs/2501.09949)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
+|**2025-01-17**|**Steering Large Language Models with Feature Guided Activation Additions**|Samuel Soo et.al.|[2501.09929](http://arxiv.org/abs/2501.09929)|null|
+|**2025-01-17**|**Towards A Litmus Test for Common Sense**|Hugo Latapie et.al.|[2501.09913](http://arxiv.org/abs/2501.09913)|null|
+|**2025-01-17**|**Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09909](http://arxiv.org/abs/2501.09909)|null|
+|**2025-01-17**|**Position: Open and Closed Large Language Models in Healthcare**|Jiawei Xu et.al.|[2501.09906](http://arxiv.org/abs/2501.09906)|null|
+|**2025-01-17**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898](http://arxiv.org/abs/2501.09898)|null|
+|**2025-01-17**|**Evolving Deeper LLM Thinking**|Kuang-Huei Lee et.al.|[2501.09891](http://arxiv.org/abs/2501.09891)|null|
+|**2025-01-17**|**Understanding the Effectiveness of LLMs in Automated Self-Admitted Technical Debt Repayment**|Mohammad Sadegh Sheikhaei et.al.|[2501.09888](http://arxiv.org/abs/2501.09888)|null|
+|**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
+|**2025-01-16**|**An LLM-Guided Tutoring System for Social Skills Training**|Michael Guevarra et.al.|[2501.09870](http://arxiv.org/abs/2501.09870)|null|
+|**2025-01-16**|**Fine-grained Testing for Autonomous Driving Software: a Study on Autoware with LLM-driven Unit Testing**|Wenhan Wang et.al.|[2501.09866](http://arxiv.org/abs/2501.09866)|null|
+|**2025-01-16**|**Optimization is Better than Generation: Optimizing Commit Message Leveraging Human-written Commit Message**|Jiawei Li et.al.|[2501.09861](http://arxiv.org/abs/2501.09861)|null|
+|**2025-01-16**|**Bridging Language Barriers in Healthcare: A Study on Arabic LLMs**|Nada Saadi et.al.|[2501.09825](http://arxiv.org/abs/2501.09825)|null|
+|**2025-01-16**|**Qwen it detect machine-generated text?**|Teodor-George Marchitan et.al.|[2501.09813](http://arxiv.org/abs/2501.09813)|null|
+|**2025-01-16**|**Enhancing Generalization in Chain of Thought Reasoning for Smaller Models**|Maxwell J. Yin et.al.|[2501.09804](http://arxiv.org/abs/2501.09804)|null|
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757](http://arxiv.org/abs/2501.09757)|null|
 |**2025-01-16**|**Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues**|Youngjoon Jang et.al.|[2501.09754](http://arxiv.org/abs/2501.09754)|null|
 |**2025-01-16**|**OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking**|Zekun Xi et.al.|[2501.09751](http://arxiv.org/abs/2501.09751)|null|
@@ -5967,8 +6017,53 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Credit Risk Identification in Supply Chains Using Generative Adversarial Networks**|Zizhou Zhang et.al.|[2501.10348](http://arxiv.org/abs/2501.10348)|null|
+|**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273](http://arxiv.org/abs/2501.10273)|null|
+|**2025-01-17**|**Orthogonal projections of hypercubes**|Yoshiaki Horiike et.al.|[2501.10257](http://arxiv.org/abs/2501.10257)|null|
+|**2025-01-17**|**Over-the-Air Multi-Sensor Inference with Neural Networks Using Memristor-Based Analog Computing**|Busra Tegin et.al.|[2501.10245](http://arxiv.org/abs/2501.10245)|null|
+|**2025-01-17**|**DeepSSM: an emulator of gravitational wave spectra from sound waves during cosmological first-order phase transitions**|Chi Tian et.al.|[2501.10244](http://arxiv.org/abs/2501.10244)|null|
+|**2025-01-17**|**Amortized Bayesian Mixture Models**|Šimon Kucharský et.al.|[2501.10229](http://arxiv.org/abs/2501.10229)|null|
+|**2025-01-17**|**Exploring Unique Characteristics in Stark Many-Body Localization**|Chung Po Ching et.al.|[2501.10211](http://arxiv.org/abs/2501.10211)|null|
+|**2025-01-17**|**Adaptive Clustering for Efficient Phenotype Segmentation of UAV Hyperspectral Data**|Ciem Cornelissen et.al.|[2501.10199](http://arxiv.org/abs/2501.10199)|null|
+|**2025-01-17**|**Surrogate-based multiscale analysis of experiments on thermoplastic composites under off-axis loading**|M. A. Maia et.al.|[2501.10193](http://arxiv.org/abs/2501.10193)|null|
+|**2025-01-17**|**Optimizing Structured-Sparse Matrix Multiplication in RISC-V Vector Processors**|Vasileios Titopoulos et.al.|[2501.10189](http://arxiv.org/abs/2501.10189)|null|
+|**2025-01-17**|**Michscan: Black-Box Neural Network Integrity Checking at Runtime Through Power Analysis**|Robi Paul et.al.|[2501.10174](http://arxiv.org/abs/2501.10174)|null|
+|**2025-01-17**|**Mean and Variance Estimation Complexity in Arbitrary Distributions via Wasserstein Minimization**|Valentio Iverson et.al.|[2501.10172](http://arxiv.org/abs/2501.10172)|null|
+|**2025-01-17**|**Convex Physics Informed Neural Networks for the Monge-Ampère Optimal Transport Problem**|Alexandre Caboussat et.al.|[2501.10162](http://arxiv.org/abs/2501.10162)|null|
+|**2025-01-17**|**Visual Exploration of Stopword Probabilities in Topic Models**|Shuangjiang Xue et.al.|[2501.10137](http://arxiv.org/abs/2501.10137)|null|
+|**2025-01-17**|**ACE: Anatomically Consistent Embeddings in Composition and Decomposition**|Ziyu Zhou et.al.|[2501.10131](http://arxiv.org/abs/2501.10131)|null|
+|**2025-01-17**|**Strong and weak sharp bounds for Neural Network Operators in Sobolev-Orlicz spaces and their quantitative extensions to Orlicz spaces**|Danilo Costarelli et.al.|[2501.10101](http://arxiv.org/abs/2501.10101)|null|
+|**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100](http://arxiv.org/abs/2501.10100)|null|
+|**2025-01-17**|**Classifier Ensemble for Efficient Uncertainty Calibration of Deep Neural Networks for Image Classification**|Michael Schulze et.al.|[2501.10089](http://arxiv.org/abs/2501.10089)|null|
+|**2025-01-17**|**A recursive Bayesian neural network for constitutive modeling of sands under monotonic loading**|Toiba Noor et.al.|[2501.10088](http://arxiv.org/abs/2501.10088)|null|
+|**2025-01-17**|**Few-shot Structure-Informed Machinery Part Segmentation with Foundation Models and Graph Neural Networks**|Michael Schwingshackl et.al.|[2501.10080](http://arxiv.org/abs/2501.10080)|**[link](https://github.com/ait-assistive-autonomous-systems/hopomop)**|
+|**2025-01-17**|**Double descent in quantum machine learning**|Marie Kempkes et.al.|[2501.10077](http://arxiv.org/abs/2501.10077)|null|
+|**2025-01-17**|**Author-Specific Linguistic Patterns Unveiled: A Deep Learning Study on Word Class Distributions**|Patrick Krauss et.al.|[2501.10072](http://arxiv.org/abs/2501.10072)|null|
+|**2025-01-17**|**Tracking student skills real-time through a continuous-variable dynamic Bayesian network**|Hildo Bijl et.al.|[2501.10050](http://arxiv.org/abs/2501.10050)|null|
+|**2025-01-17**|**Virtual Nodes Improve Long-term Traffic Prediction**|Xiaoyang Cao et.al.|[2501.10048](http://arxiv.org/abs/2501.10048)|null|
+|**2025-01-17**|**Emergent scales and spatial correlations at the yielding transition of glassy materials**|Stefano Aime et.al.|[2501.10039](http://arxiv.org/abs/2501.10039)|null|
+|**2025-01-17**|**Enhancing Crash Frequency Modeling Based on Augmented Multi-Type Data by Hybrid VAE-Diffusion-Based Generative Neural Networks**|Junlan Chen et.al.|[2501.10017](http://arxiv.org/abs/2501.10017)|null|
+|**2025-01-17**|**Nuclear equation of state at finite $μ_B$ using deep learning assisted quasi-parton model**|Fu-Peng Li et.al.|[2501.10012](http://arxiv.org/abs/2501.10012)|null|
+|**2025-01-17**|**Deep Learning for Early Alzheimer Disease Detection with MRI Scans**|Mohammad Rafsan et.al.|[2501.09999](http://arxiv.org/abs/2501.09999)|**[link](https://github.com/rafusan/dl-alzheimer)**|
+|**2025-01-17**|**On understanding and overcoming spectral biases of deep neural network learning methods for solving PDEs**|Zhi-Qin John Xu et.al.|[2501.09987](http://arxiv.org/abs/2501.09987)|null|
+|**2025-01-17**|**Dendritic Localized Learning: Toward Biologically Plausible Algorithm**|Changze Lv et.al.|[2501.09976](http://arxiv.org/abs/2501.09976)|null|
+|**2025-01-17**|**AIRCHITECT v2: Learning the Hardware Accelerator Design Space through Unified Representations**|Jamin Seo et.al.|[2501.09954](http://arxiv.org/abs/2501.09954)|**[link](https://github.com/maestro-project/airchitect-v2)**|
+|**2025-01-17**|**Sympathy over Polarization: A Computational Discourse Analysis of Social Media Posts about the July 2024 Trump Assassination Attempt**|Qingcheng Zeng et.al.|[2501.09950](http://arxiv.org/abs/2501.09950)|null|
+|**2025-01-17**|**AI Explainability for Power Electronics: From a Lipschitz Continuity Perspective**|Xinze Li et.al.|[2501.09948](http://arxiv.org/abs/2501.09948)|null|
+|**2025-01-17**|**A Multi-Scale Feature Extraction and Fusion Deep Learning Method for Classification of Wheat Diseases**|Sajjad Saleem et.al.|[2501.09938](http://arxiv.org/abs/2501.09938)|null|
+|**2025-01-17**|**Irreversible swap algorithms for soft sphere glasses**|Yoshihiko Nishikawa et.al.|[2501.09932](http://arxiv.org/abs/2501.09932)|null|
+|**2025-01-17**|**Study on a Fast Solver for Combined Field Integral Equations of 3D Conducting Bodies Based on Graph Neural Networks**|Tao Shan et.al.|[2501.09923](http://arxiv.org/abs/2501.09923)|**[link](https://github.com/iemcs-lab/gnnsolver-cfie)**|
+|**2025-01-17**|**Sparse Binary Representation Learning for Knowledge Tracing**|Yahya Badran et.al.|[2501.09893](http://arxiv.org/abs/2501.09893)|null|
+|**2025-01-16**|**Detection of Vascular Leukoencephalopathy in CT Images**|Z. Cernekova et.al.|[2501.09863](http://arxiv.org/abs/2501.09863)|null|
+|**2025-01-16**|**Empirical Evaluation of Embedding Models in the Context of Text Classification in Document Review in Construction Delay Disputes**|Fusheng Wei et.al.|[2501.09859](http://arxiv.org/abs/2501.09859)|null|
+|**2025-01-16**|**From Explainability to Interpretability: Interpretable Policies in Reinforcement Learning Via Model Explanation**|Peilang Li et.al.|[2501.09858](http://arxiv.org/abs/2501.09858)|null|
+|**2025-01-16**|**Adaptive Weighted Total Variation boosted by learning techniques in few-view tomographic imaging**|Elena Morotti et.al.|[2501.09845](http://arxiv.org/abs/2501.09845)|null|
+|**2025-01-16**|**Complex-Valued Neural Networks for Ultra-Reliable Massive MIMO**|Pedro Benevenuto Valadares et.al.|[2501.09837](http://arxiv.org/abs/2501.09837)|null|
+|**2025-01-16**|**BN-Pool: a Bayesian Nonparametric Approach to Graph Pooling**|Daniele Castellana et.al.|[2501.09821](http://arxiv.org/abs/2501.09821)|null|
+|**2025-01-16**|**Galaxy Morphological Classification with Zernike Moments and Machine Learning Approaches**|Hamed Ghaderi et.al.|[2501.09816](http://arxiv.org/abs/2501.09816)|null|
+|**2025-01-16**|**Graph Neural Networks for Travel Distance Estimation and Route Recommendation Under Probabilistic Hazards**|Tong Liu et.al.|[2501.09803](http://arxiv.org/abs/2501.09803)|null|
 |**2025-01-16**|**SRE-Conv: Symmetric Rotation Equivariant Convolution for Biomedical Image Classification**|Yuexi Du et.al.|[2501.09753](http://arxiv.org/abs/2501.09753)|**[link](https://github.com/xypb/sre-conv)**|
-|**2025-01-16**|**FLOL: Fast Baselines for Real-World Low-Light Enhancement**|Juan C. Benito et.al.|[2501.09718](http://arxiv.org/abs/2501.09718)|null|
+|**2025-01-16**|**FLOL: Fast Baselines for Real-World Low-Light Enhancement**|Juan C. Benito et.al.|[2501.09718](http://arxiv.org/abs/2501.09718)|**[link](https://github.com/cidautai/flol)**|
 |**2025-01-16**|**Fokker-Planck to Callan-Symanzik: evolution of weight matrices under training**|Wei Bu et.al.|[2501.09659](http://arxiv.org/abs/2501.09659)|null|
 |**2025-01-16**|**Aging of colloidal gels in microgravity**|Swagata S. Datta et.al.|[2501.09650](http://arxiv.org/abs/2501.09650)|null|
 |**2025-01-17**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636](http://arxiv.org/abs/2501.09636)|null|
@@ -10902,7 +10997,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
+|**2025-01-17**|**Perception of Visual Variables on Virtual Wall-Sized Tiled Displays in Immersive Environments**|Dongyun Han et.al.|[2501.10338](http://arxiv.org/abs/2501.10338)|null|
+|**2025-01-17**|**Higher Order Continuity for Smooth As-Rigid-As-Possible Shape Modeling**|Annika Oehri et.al.|[2501.10335](http://arxiv.org/abs/2501.10335)|null|
+|**2025-01-17**|**Towards Preventing Overreliance on Task-Oriented Conversational AI Through Accountability Modeling**|Suvodip Dey et.al.|[2501.10316](http://arxiv.org/abs/2501.10316)|**[link](https://github.com/uiuc-conversational-ai-lab/accountable-dst)**|
+|**2025-01-17**|**Enhancing AI Transparency: XRL-Based Resource Management and RAN Slicing for 6G ORAN Architecture**|Suvidha Mhatre et.al.|[2501.10292](http://arxiv.org/abs/2501.10292)|null|
+|**2025-01-17**|**Visualizing Game-Based Certificates for Hyperproperty Verification**|Raven Beutner et.al.|[2501.10184](http://arxiv.org/abs/2501.10184)|null|
+|**2025-01-17**|**Enhancing UAV Path Planning Efficiency Through Accelerated Learning**|Joseanne Viana et.al.|[2501.10141](http://arxiv.org/abs/2501.10141)|null|
+|**2025-01-17**|**Spatio-temporal Graph Learning on Adaptive Mined Key Frames for High-performance Multi-Object Tracking**|Futian Wang et.al.|[2501.10129](http://arxiv.org/abs/2501.10129)|null|
+|**2025-01-17**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120](http://arxiv.org/abs/2501.10120)|null|
+|**2025-01-17**|**GAWM: Global-Aware World Model for Multi-Agent Reinforcement Learning**|Zifeng Shi et.al.|[2501.10116](http://arxiv.org/abs/2501.10116)|null|
+|**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100](http://arxiv.org/abs/2501.10100)|null|
+|**2025-01-17**|**ForestProtector: An IoT Architecture Integrating Machine Vision and Deep Reinforcement Learning for Efficient Wildfire Monitoring**|Kenneth Bonilla-Ormachea et.al.|[2501.09926](http://arxiv.org/abs/2501.09926)|null|
+|**2025-01-17**|**Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09909](http://arxiv.org/abs/2501.09909)|null|
+|**2025-01-17**|**SLIM: Sim-to-Real Legged Instructive Manipulation via Long-Horizon Visuomotor Learning**|Haichao Zhang et.al.|[2501.09905](http://arxiv.org/abs/2501.09905)|null|
+|**2025-01-16**|**From Explainability to Interpretability: Interpretable Policies in Reinforcement Learning Via Model Explanation**|Peilang Li et.al.|[2501.09858](http://arxiv.org/abs/2501.09858)|null|
+|**2025-01-16**|**Conversational Text Extraction with Large Language Models Using Retrieval-Augmented Systems**|Soham Roy et.al.|[2501.09801](http://arxiv.org/abs/2501.09801)|null|
+|**2025-01-16**|**VideoWorld: Exploring Knowledge Learning from Unlabeled Videos**|Zhongwei Ren et.al.|[2501.09781](http://arxiv.org/abs/2501.09781)|null|
+|**2025-01-15**|**EVAL: EigenVector-based Average-reward Learning**|Jacob Adamczyk et.al.|[2501.09770](http://arxiv.org/abs/2501.09770)|null|
+|**2025-01-17**|**Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
 |**2025-01-17**|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire et.al.|[2501.09622](http://arxiv.org/abs/2501.09622)|null|
 |**2025-01-16**|**Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment**|Chaoqi Wang et.al.|[2501.09620](http://arxiv.org/abs/2501.09620)|null|
 |**2025-01-16**|**EVaDE : Event-Based Variational Thompson Sampling for Model-Based Reinforcement Learning**|Siddharth Aravindan et.al.|[2501.09611](http://arxiv.org/abs/2501.09611)|null|
@@ -13168,6 +13280,52 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360](http://arxiv.org/abs/2501.10360)|**[link](https://github.com/kartik-3004/facexbench)**|
+|**2025-01-17**|**Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**|Weibo Gao et.al.|[2501.10332](http://arxiv.org/abs/2501.10332)|null|
+|**2025-01-17**|**Large language models for automated scholarly paper review: A survey**|Zhenzhen Zhuang et.al.|[2501.10326](http://arxiv.org/abs/2501.10326)|null|
+|**2025-01-17**|**HiMix: Reducing Computational Complexity in Large Vision-Language Models**|Xuange Zhang et.al.|[2501.10318](http://arxiv.org/abs/2501.10318)|null|
+|**2025-01-17**|**Addressing Popularity Bias in Third-Party Library Recommendations Using LLMs**|Claudio Di Sipio et.al.|[2501.10313](http://arxiv.org/abs/2501.10313)|null|
+|**2025-01-17**|**Computational Protein Science in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2501.10282](http://arxiv.org/abs/2501.10282)|null|
+|**2025-01-17**|**Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation**|Azat Abdullin et.al.|[2501.10200](http://arxiv.org/abs/2501.10200)|null|
+|**2025-01-17**|**Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education**|William Hersh et.al.|[2501.10186](http://arxiv.org/abs/2501.10186)|null|
+|**2025-01-17**|**Multi-stage Training of Bilingual Islamic LLM for Neural Passage Retrieval**|Vera Pavlova et.al.|[2501.10175](http://arxiv.org/abs/2501.10175)|null|
+|**2025-01-17**|**Exploring the Impact of Generative Artificial Intelligence in Education: A Thematic Analysis**|Abhishek Kaushik et.al.|[2501.10134](http://arxiv.org/abs/2501.10134)|null|
+|**2025-01-17**|**ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario**|Lucen Zhong et.al.|[2501.10132](http://arxiv.org/abs/2501.10132)|**[link](https://github.com/thudm/complexfuncbench)**|
+|**2025-01-17**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120](http://arxiv.org/abs/2501.10120)|null|
+|**2025-01-17**|**LLM Reasoner and Automated Planner: A new NPC approach**|Israel Puerta-Merino et.al.|[2501.10106](http://arxiv.org/abs/2501.10106)|null|
+|**2025-01-17**|**Universal Actions for Enhanced Embodied Foundation Models**|Jinliang Zheng et.al.|[2501.10105](http://arxiv.org/abs/2501.10105)|**[link](https://github.com/2toinf/uniact)**|
+|**2025-01-17**|**Few-shot Structure-Informed Machinery Part Segmentation with Foundation Models and Graph Neural Networks**|Michael Schwingshackl et.al.|[2501.10080](http://arxiv.org/abs/2501.10080)|**[link](https://github.com/ait-assistive-autonomous-systems/hopomop)**|
+|**2025-01-17**|**FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization**|Zhaopeng Gu et.al.|[2501.10067](http://arxiv.org/abs/2501.10067)|**[link](https://github.com/casia-iva-lab/filo)**|
+|**2025-01-17**|**Accelerating Large Language Models through Partially Linear Feed-Forward Network**|Gansen Hu et.al.|[2501.10054](http://arxiv.org/abs/2501.10054)|null|
+|**2025-01-17**|**AirRAG: Activating Intrinsic Reasoning for Retrieval Augmented Generation via Tree-based Search**|Wenfeng Feng et.al.|[2501.10053](http://arxiv.org/abs/2501.10053)|null|
+|**2025-01-17**|**Exploring Code Comprehension in Scientific Programming: Preliminary Insights from Research Scientists**|Alyssia Chen et.al.|[2501.10037](http://arxiv.org/abs/2501.10037)|null|
+|**2025-01-17**|**Mapping scientific communities at scale**|Victor Barbier et.al.|[2501.10035](http://arxiv.org/abs/2501.10035)|null|
+|**2025-01-17**|**Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions**|Zhijie Tan et.al.|[2501.10011](http://arxiv.org/abs/2501.10011)|null|
+|**2025-01-17**|**Attention-guided Self-reflection for Zero-shot Hallucination Detection in Large Language Models**|Qiang Liu et.al.|[2501.09997](http://arxiv.org/abs/2501.09997)|null|
+|**2025-01-17**|**Agent-as-Judge for Factual Summarization of Long Narratives**|Yeonseok Jeong et.al.|[2501.09993](http://arxiv.org/abs/2501.09993)|null|
+|**2025-01-17**|**Explainable artificial intelligence (XAI): from inherent explainability to large language models**|Fuseini Mumuni et.al.|[2501.09967](http://arxiv.org/abs/2501.09967)|null|
+|**2025-01-17**|**A Survey on Multi-Turn Interaction Capabilities of Large Language Models**|Chen Zhang et.al.|[2501.09959](http://arxiv.org/abs/2501.09959)|null|
+|**2025-01-17**|**FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs**|Zengyi Gao et.al.|[2501.09957](http://arxiv.org/abs/2501.09957)|null|
+|**2025-01-17**|**AIRCHITECT v2: Learning the Hardware Accelerator Design Space through Unified Representations**|Jamin Seo et.al.|[2501.09954](http://arxiv.org/abs/2501.09954)|**[link](https://github.com/maestro-project/airchitect-v2)**|
+|**2025-01-17**|**Sympathy over Polarization: A Computational Discourse Analysis of Social Media Posts about the July 2024 Trump Assassination Attempt**|Qingcheng Zeng et.al.|[2501.09950](http://arxiv.org/abs/2501.09950)|null|
+|**2025-01-17**|**MultiPruner: Balanced Structure Removal in Foundation Models**|J. Pablo Muñoz et.al.|[2501.09949](http://arxiv.org/abs/2501.09949)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
+|**2025-01-17**|**Steering Large Language Models with Feature Guided Activation Additions**|Samuel Soo et.al.|[2501.09929](http://arxiv.org/abs/2501.09929)|null|
+|**2025-01-17**|**Towards A Litmus Test for Common Sense**|Hugo Latapie et.al.|[2501.09913](http://arxiv.org/abs/2501.09913)|null|
+|**2025-01-17**|**Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09909](http://arxiv.org/abs/2501.09909)|null|
+|**2025-01-17**|**Position: Open and Closed Large Language Models in Healthcare**|Jiawei Xu et.al.|[2501.09906](http://arxiv.org/abs/2501.09906)|null|
+|**2025-01-17**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898](http://arxiv.org/abs/2501.09898)|null|
+|**2025-01-17**|**Evolving Deeper LLM Thinking**|Kuang-Huei Lee et.al.|[2501.09891](http://arxiv.org/abs/2501.09891)|null|
+|**2025-01-17**|**Understanding the Effectiveness of LLMs in Automated Self-Admitted Technical Debt Repayment**|Mohammad Sadegh Sheikhaei et.al.|[2501.09888](http://arxiv.org/abs/2501.09888)|null|
+|**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
+|**2025-01-16**|**An LLM-Guided Tutoring System for Social Skills Training**|Michael Guevarra et.al.|[2501.09870](http://arxiv.org/abs/2501.09870)|null|
+|**2025-01-16**|**Fine-grained Testing for Autonomous Driving Software: a Study on Autoware with LLM-driven Unit Testing**|Wenhan Wang et.al.|[2501.09866](http://arxiv.org/abs/2501.09866)|null|
+|**2025-01-16**|**Optimization is Better than Generation: Optimizing Commit Message Leveraging Human-written Commit Message**|Jiawei Li et.al.|[2501.09861](http://arxiv.org/abs/2501.09861)|null|
+|**2025-01-16**|**Bridging Language Barriers in Healthcare: A Study on Arabic LLMs**|Nada Saadi et.al.|[2501.09825](http://arxiv.org/abs/2501.09825)|null|
+|**2025-01-16**|**Conversational Text Extraction with Large Language Models Using Retrieval-Augmented Systems**|Soham Roy et.al.|[2501.09801](http://arxiv.org/abs/2501.09801)|null|
+|**2025-01-16**|**Computing Optimization-Based Prompt Injections Against Closed-Weights Models By Misusing a Fine-Tuning API**|Andrey Labunets et.al.|[2501.09798](http://arxiv.org/abs/2501.09798)|null|
+|**2025-01-16**|**GeoManip: Geometric Constraints as General Interfaces for Robot Manipulation**|Weiliang Tang et.al.|[2501.09783](http://arxiv.org/abs/2501.09783)|null|
+|**2025-01-16**|**SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation**|Wanqi Yin et.al.|[2501.09782](http://arxiv.org/abs/2501.09782)|**[link](https://github.com/wqyin/smplest-x)**|
+|**2025-01-16**|**VideoWorld: Exploring Knowledge Learning from Unlabeled Videos**|Zhongwei Ren et.al.|[2501.09781](http://arxiv.org/abs/2501.09781)|null|
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[2501.09757](http://arxiv.org/abs/2501.09757)|null|
 |**2025-01-16**|**Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues**|Youngjoon Jang et.al.|[2501.09754](http://arxiv.org/abs/2501.09754)|null|
 |**2025-01-16**|**OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking**|Zekun Xi et.al.|[2501.09751](http://arxiv.org/abs/2501.09751)|null|
