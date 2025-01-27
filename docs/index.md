@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.26
+## Updated on 2025.01.27
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -47,7 +47,7 @@ layout: default
 |**2025-01-23**|**Text-to-SQL based on Large Language Models and Database Keyword Search**|Eduardo R. Nascimento et.al.|[2501.13594](http://arxiv.org/abs/2501.13594)|null|
 |**2025-01-23**|**Improving Contextual Faithfulness of Large Language Models via Retrieval Heads-Induced Optimization**|Lei Huang et.al.|[2501.13573](http://arxiv.org/abs/2501.13573)|null|
 |**2025-01-23**|**Black-Box Adversarial Attack on Vision Language Models for Autonomous Driving**|Lu Wang et.al.|[2501.13563](http://arxiv.org/abs/2501.13563)|null|
-|**2025-01-23**|**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**|Tao Liu et.al.|[2501.13554](http://arxiv.org/abs/2501.13554)|**[link](https://github.com/byliutao/1prompt1story)**|
+|**2025-01-24**|**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**|Tao Liu et.al.|[2501.13554](http://arxiv.org/abs/2501.13554)|**[link](https://github.com/byliutao/1prompt1story)**|
 |**2025-01-23**|**LLMs Can Plan Only If We Tell Them**|Bilgehan Sel et.al.|[2501.13545](http://arxiv.org/abs/2501.13545)|null|
 |**2025-01-23**|**ReasVQA: Advancing VideoQA with Imperfect Reasoning Process**|Jianxin Liang et.al.|[2501.13536](http://arxiv.org/abs/2501.13536)|null|
 |**2025-01-23**|**Towards a Theory of AI Personhood**|Francis Rhys Ward et.al.|[2501.13533](http://arxiv.org/abs/2501.13533)|null|
@@ -6195,7 +6195,7 @@ layout: default
 |**2025-01-23**|**Information-theoretic limits and approximate message-passing for high-dimensional time series**|Daria Tieplova et.al.|[2501.13625](http://arxiv.org/abs/2501.13625)|null|
 |**2025-01-23**|**Efficient Synaptic Delay Implementation in Digital Event-Driven AI Accelerators**|Roy Meijer et.al.|[2501.13610](http://arxiv.org/abs/2501.13610)|null|
 |**2025-01-23**|**A Transformer-based Autoregressive Decoder Architecture for Hierarchical Text Classification**|Younes Yousef et.al.|[2501.13598](http://arxiv.org/abs/2501.13598)|**[link](https://github.com/yousef-younes/radar)**|
-|**2025-01-23**|**Towards Robust Incremental Learning under Ambiguous Supervision**|Rui Wang et.al.|[2501.13584](http://arxiv.org/abs/2501.13584)|null|
+|**2025-01-24**|**Towards Robust Incremental Learning under Ambiguous Supervision**|Rui Wang et.al.|[2501.13584](http://arxiv.org/abs/2501.13584)|null|
 |**2025-01-23**|**MixRec: Individual and Collective Mixing Empowers Data Augmentation for Recommender Systems**|Yi Zhang et.al.|[2501.13579](http://arxiv.org/abs/2501.13579)|**[link](https://github.com/blueghostyi/id-grec)**|
 |**2025-01-23**|**A Dual-Polarization Feature Fusion Network for Radar Automatic Target Recognition Based On HRRP Sequence**|Yangbo Zhou et.al.|[2501.13541](http://arxiv.org/abs/2501.13541)|null|
 |**2025-01-23**|**Interference Prediction Using Gaussian Process Regression and Management Framework for Critical Services in Local 6G Networks**|Syed Luqman Shah et.al.|[2501.13500](http://arxiv.org/abs/2501.13500)|null|
@@ -11332,7 +11332,7 @@ layout: default
 |**2025-01-22**|**Reinforcement learning Based Automated Design of Differential Evolution Algorithm for Black-box Optimization**|Xu Yang et.al.|[2501.12881](http://arxiv.org/abs/2501.12881)|null|
 |**2025-01-22**|**To Measure or Not: A Cost-Sensitive, Selective Measuring Environment for Agricultural Management Decisions with Reinforcement Learning**|Hilmy Baja et.al.|[2501.12823](http://arxiv.org/abs/2501.12823)|**[link](https://github.com/WUR-AI/CropGym-ToMeasureOrNot)**|
 |**2025-01-22**|**On Generalization and Distributional Update for Mimicking Observations with Adequate Exploration**|Yirui Zhou et.al.|[2501.12785](http://arxiv.org/abs/2501.12785)|null|
-|**2025-01-22**|**Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning**|Chen Chen et.al.|[2501.12783](http://arxiv.org/abs/2501.12783)|null|
+|**2025-01-23**|**Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning**|Chen Chen et.al.|[2501.12783](http://arxiv.org/abs/2501.12783)|null|
 |**2025-01-22**|**VTX: Real-time high-performance molecular structure and dynamics visualization software**|Maxime Maria et.al.|[2501.12750](http://arxiv.org/abs/2501.12750)|null|
 |**2025-01-22**|**Online Preference Alignment for Language Models via Count-based Exploration**|Chenjia Bai et.al.|[2501.12735](http://arxiv.org/abs/2501.12735)|**[link](https://github.com/baichenjia/copo)**|
 |**2025-01-22**|**HEPPO: Hardware-Efficient Proximal Policy Optimization -- A Universal Pipelined Architecture for Generalized Advantage Estimation**|Hazem Taha et.al.|[2501.12703](http://arxiv.org/abs/2501.12703)|null|
@@ -13727,7 +13727,7 @@ layout: default
 |**2025-01-23**|**Meta-Feature Adapter: Integrating Environmental Metadata for Enhanced Animal Re-identification**|Yuzhuo Li et.al.|[2501.13368](http://arxiv.org/abs/2501.13368)|null|
 |**2025-01-23**|**50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications**|Zewei Shi et.al.|[2501.13351](http://arxiv.org/abs/2501.13351)|null|
 |**2025-01-23**|**Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**|Rong Shan et.al.|[2501.13344](http://arxiv.org/abs/2501.13344)|null|
-|**2025-01-23**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|null|
+|**2025-01-24**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|null|
 |**2025-01-23**|**SplitLLM: Hierarchical Split Learning for Large Language Model over Wireless Network**|Songge Zhang et.al.|[2501.13318](http://arxiv.org/abs/2501.13318)|null|
 |**2025-01-23**|**Representing Visualization Insights as a Dense Insight Network**|Jane Hoffswell et.al.|[2501.13309](http://arxiv.org/abs/2501.13309)|null|
 |**2025-01-22**|**VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**|Boqiang Zhang et.al.|[2501.13106](http://arxiv.org/abs/2501.13106)|**[link](https://github.com/damo-nlp-sg/videollama3)**|
