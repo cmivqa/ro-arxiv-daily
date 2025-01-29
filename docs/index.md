@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -6309,7 +6309,7 @@ layout: default
 |**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774](http://arxiv.org/abs/2501.15774)|**[link](https://github.com/saturnian77/asid)**|
 |**2025-01-27**|**Formal Verification of Markov Processes with Learned Parameters**|Muhammad Maaz et.al.|[2501.15767](http://arxiv.org/abs/2501.15767)|**[link](https://github.com/mmaaz-git/markovml)**|
 |**2025-01-27**|**Investigating Application of Deep Neural Networks in Intrusion Detection System Design**|Mofe O. Jeje et.al.|[2501.15760](http://arxiv.org/abs/2501.15760)|null|
-|**2025-01-27**|**Efficiency Bottlenecks of Convolutional Kolmogorov-Arnold Networks: A Comprehensive Scrutiny with ImageNet, AlexNet, LeNet and Tabular Classification**|Ashim Dahal et.al.|[2501.15757](http://arxiv.org/abs/2501.15757)|**[link](https://github.com/ashimdahal/study-of-convolutional-kolmogorov-arnold-networks)**|
+|**2025-01-28**|**Efficiency Bottlenecks of Convolutional Kolmogorov-Arnold Networks: A Comprehensive Scrutiny with ImageNet, AlexNet, LeNet and Tabular Classification**|Ashim Dahal et.al.|[2501.15757](http://arxiv.org/abs/2501.15757)|**[link](https://github.com/ashimdahal/study-of-convolutional-kolmogorov-arnold-networks)**|
 |**2025-01-27**|**GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**|Yuanfu Sun et.al.|[2501.15755](http://arxiv.org/abs/2501.15755)|null|
 |**2025-01-27**|**Scale-Insensitive Neural Network Significance Tests**|Hasan Fallahgoul et.al.|[2501.15753](http://arxiv.org/abs/2501.15753)|null|
 |**2025-01-27**|**Leveraging Video Vision Transformer for Alzheimer's Disease Diagnosis from 3D Brain MRI**|Taymaz Akan et.al.|[2501.15733](http://arxiv.org/abs/2501.15733)|null|
@@ -11523,7 +11523,7 @@ layout: default
 |**2025-01-26**|**Exploring and Evaluating Interplays of BPpy with Deep Reinforcement Learning and Formal Methods**|Tom Yaacov et.al.|[2501.15480](http://arxiv.org/abs/2501.15480)|null|
 |**2025-01-26**|**GiantHunter: Accurate detection of giant virus in metagenomic data using reinforcement-learning and Monte Carlo tree search**|Fuchuan Qu et.al.|[2501.15472](http://arxiv.org/abs/2501.15472)|null|
 |**2025-01-26**|**Low-altitude Friendly-Jamming for Satellite-Maritime Communications via Generative AI-enabled Deep Reinforcement Learning**|Jiawei Huang et.al.|[2501.15468](http://arxiv.org/abs/2501.15468)|null|
-|**2025-01-26**|**Data-adaptive Safety Rules for Training Reward Models**|Xiaomin Li et.al.|[2501.15453](http://arxiv.org/abs/2501.15453)|null|
+|**2025-01-28**|**Data-adaptive Safety Rules for Training Reward Models**|Xiaomin Li et.al.|[2501.15453](http://arxiv.org/abs/2501.15453)|null|
 |**2025-01-26**|**Episodic Novelty Through Temporal Distance**|Yuhua Jiang et.al.|[2501.15418](http://arxiv.org/abs/2501.15418)|null|
 |**2025-01-26**|**Movable Antenna-Aided Cooperative ISAC Network with Time Synchronization error and Imperfect CSI**|Yue Xiu et.al.|[2501.15410](http://arxiv.org/abs/2501.15410)|null|
 |**2025-01-26**|**Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**|Zijun Long et.al.|[2501.15379](http://arxiv.org/abs/2501.15379)|null|
@@ -11541,7 +11541,7 @@ layout: default
 |**2025-01-25**|**Deep Reinforcement Learning for Energy Efficiency Maximization in RSMA-IRS-Assisted ISAC System**|Zhangfeng Ma et.al.|[2501.15091](http://arxiv.org/abs/2501.15091)|null|
 |**2025-01-25**|**Data Center Cooling System Optimization Using Offline Reinforcement Learning**|Xianyuan Zhan et.al.|[2501.15085](http://arxiv.org/abs/2501.15085)|null|
 |**2025-01-25**|**Signal Whisperers: Enhancing Wireless Reception Using DRL-Guided Reflector Arrays**|Hieu Le et.al.|[2501.15044](http://arxiv.org/abs/2501.15044)|null|
-|**2025-01-25**|**Divergence-Augmented Policy Optimization**|Qing Wang et.al.|[2501.15034](http://arxiv.org/abs/2501.15034)|null|
+|**2025-01-25**|**Divergence-Augmented Policy Optimization**|Qing Wang et.al.|[2501.15034](http://arxiv.org/abs/2501.15034)|**[link](https://github.com/lns/dapo)**|
 |**2025-01-25**|**Extensive Exploration in Complex Traffic Scenarios using Hierarchical Reinforcement Learning**|Zhihao Zhang et.al.|[2501.14992](http://arxiv.org/abs/2501.14992)|null|
 |**2025-01-24**|**BPS spectroscopy with reinforcement learning**|Federico Carta et.al.|[2501.14863](http://arxiv.org/abs/2501.14863)|null|
 |**2025-01-24**|**Noise-conditioned Energy-based Annealed Rewards (NEAR): A Generative Framework for Imitation Learning from Observation**|Anish Abhijit Diwan et.al.|[2501.14856](http://arxiv.org/abs/2501.14856)|null|
