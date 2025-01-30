@@ -1,4 +1,4 @@
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144](http://arxiv.org/abs/2501.17144)|**[link](https://github.com/derenlei/factcg)**|
 |**2025-01-28**|**ASTRAL: Automated Safety Testing of Large Language Models**|Miriam Ugarte et.al.|[2501.17132](http://arxiv.org/abs/2501.17132)|null|
 |**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
-|**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117](http://arxiv.org/abs/2501.17117)|null|
+|**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117](http://arxiv.org/abs/2501.17117)|**[link](https://github.com/upunaprosk/histoires-morales)**|
 |**2025-01-28**|**Optimizing Large Language Model Training Using FP4 Quantization**|Ruizhe Wang et.al.|[2501.17116](http://arxiv.org/abs/2501.17116)|null|
 |**2025-01-28**|**Unlocking Transparent Alignment Through Enhanced Inverse Constitutional AI for Principle Extraction**|Carl-Leander Henneking et.al.|[2501.17112](http://arxiv.org/abs/2501.17112)|null|
 |**2025-01-28**|**COS(M+O)S: Curiosity and RL-Enhanced MCTS for Exploring Story Space via Language Models**|Tobias Materzok et.al.|[2501.17104](http://arxiv.org/abs/2501.17104)|null|
@@ -37,8 +37,8 @@
 |**2025-01-28**|**Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers**|Mohammad Raza et.al.|[2501.16961](http://arxiv.org/abs/2501.16961)|null|
 |**2025-01-28**|**Multiple Abstraction Level Retrieve Augment Generation**|Zheng Zheng et.al.|[2501.16952](http://arxiv.org/abs/2501.16952)|null|
 |**2025-01-28**|**Image-based Geo-localization for Robotics: Are Black-box Vision-Language Models there yet?**|Sania Waheed et.al.|[2501.16947](http://arxiv.org/abs/2501.16947)|null|
-|**2025-01-28**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
-|**2025-01-28**|**Detecting harassment and defamation in cyberbullying with emotion-adaptive training**|Peiling Yi et.al.|[2501.16925](http://arxiv.org/abs/2501.16925)|null|
+|**2025-01-29**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
+|**2025-01-28**|**Detecting harassment and defamation in cyberbullying with emotion-adaptive training**|Peiling Yi et.al.|[2501.16925](http://arxiv.org/abs/2501.16925)|**[link](https://github.com/Misinformation-emotion/Cyberbullying-emotion)**|
 |**2025-01-28**|**Document Screenshot Retrievers are Vulnerable to Pixel Poisoning Attacks**|Shengyao Zhuang et.al.|[2501.16902](http://arxiv.org/abs/2501.16902)|null|
 |**2025-01-28**|**RDMM: Fine-Tuned LLM Models for On-Device Robotic Decision Making with Enhanced Contextual Awareness in Specific Domains**|Shady Nasrat et.al.|[2501.16899](http://arxiv.org/abs/2501.16899)|**[link](https://github.com/shadynasrat/rdmm)**|
 |**2025-01-28**|**Machine-learning semi-local exchange-correlation functionals for Kohn-Sham density functional theory of the Hubbard model**|Eoghan Cronin et.al.|[2501.16893](http://arxiv.org/abs/2501.16893)|null|
@@ -50,7 +50,7 @@
 |**2025-01-28**|**Exploring the Role of Explicit Temporal Modeling in Multimodal Large Language Models for Video Understanding**|Yun Li et.al.|[2501.16786](http://arxiv.org/abs/2501.16786)|null|
 |**2025-01-28**|**TORCHLIGHT: Shedding LIGHT on Real-World Attacks on Cloudless IoT Devices Concealed within the Tor Network**|Yumingzhi Pan et.al.|[2501.16784](http://arxiv.org/abs/2501.16784)|null|
 |**2025-01-28**|**A Stochastic Dynamical Theory of LLM Self-Adversariality: Modeling Severity Drift as a Critical Process**|Jack David Carson et.al.|[2501.16783](http://arxiv.org/abs/2501.16783)|null|
-|**2025-01-28**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
+|**2025-01-29**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
 |**2025-01-28**|**HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns**|Xinyue Shen et.al.|[2501.16750](http://arxiv.org/abs/2501.16750)|**[link](https://github.com/trustairlab/hatebench)**|
 |**2025-01-28**|**Through the Prism of Culture: Evaluating LLMs' Understanding of Indian Subcultures and Traditions**|Garima Chhikara et.al.|[2501.16748](http://arxiv.org/abs/2501.16748)|null|
 |**2025-01-28**|**LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience**|Nimesh Jha et.al.|[2501.16744](http://arxiv.org/abs/2501.16744)|null|
@@ -6320,7 +6320,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|**[link](https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl)**|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
 ## Text Classification
 
@@ -6333,7 +6333,7 @@
 |**2025-01-28**|**Accelerated Training through Iterative Gradient Propagation Along the Residual Path**|Erwan Fagnou et.al.|[2501.17086](http://arxiv.org/abs/2501.17086)|null|
 |**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081](http://arxiv.org/abs/2501.17081)|null|
 |**2025-01-28**|**Induced Modularity and Community Detection for Functionally Interpretable Reinforcement Learning**|Anna Soligo et.al.|[2501.17077](http://arxiv.org/abs/2501.17077)|null|
-|**2025-01-28**|**Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement**|Anzheng Tang et.al.|[2501.17059](http://arxiv.org/abs/2501.17059)|null|
+|**2025-01-29**|**Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement**|Anzheng Tang et.al.|[2501.17059](http://arxiv.org/abs/2501.17059)|null|
 |**2025-01-28**|**Emergence of network communities driven by local rules**|Alexei Vazquez et.al.|[2501.17042](http://arxiv.org/abs/2501.17042)|null|
 |**2025-01-28**|**Benchmarking Quantum Convolutional Neural Networks for Signal Classification in Simulated Gamma-Ray Burst Detection**|Farida Farsian et.al.|[2501.17041](http://arxiv.org/abs/2501.17041)|null|
 |**2025-01-28**|**What Really Matters for Learning-based LiDAR-Camera Calibration**|Shujuan Huang et.al.|[2501.16969](http://arxiv.org/abs/2501.16969)|null|
@@ -6353,7 +6353,7 @@
 |**2025-01-28**|**Exponential Family Attention**|Kevin Christian Wibisono et.al.|[2501.16790](http://arxiv.org/abs/2501.16790)|**[link](https://github.com/yixinw-lab/efa)**|
 |**2025-01-28**|**Networks of neural networks: more is different**|Elena Agliari et.al.|[2501.16789](http://arxiv.org/abs/2501.16789)|null|
 |**2025-01-28**|**Dynamic Hypergraph Representation for Bone Metastasis Cancer Analysis**|Yuxuan Chen et.al.|[2501.16787](http://arxiv.org/abs/2501.16787)|null|
-|**2025-01-28**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
+|**2025-01-29**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
 |**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754](http://arxiv.org/abs/2501.16754)|null|
 |**2025-01-28**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745](http://arxiv.org/abs/2501.16745)|null|
 |**2025-01-28**|**Bridging Neural Networks and Wireless Systems with MIMO-OFDM Semantic Communications**|Hanju Yoo et.al.|[2501.16726](http://arxiv.org/abs/2501.16726)|null|
@@ -11602,7 +11602,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -11639,11 +11639,11 @@
 |**2025-01-27**|**Accelerating Quantum Reinforcement Learning with a Quantum Natural Policy Gradient Based Approach**|Yang Xu et.al.|[2501.16243](http://arxiv.org/abs/2501.16243)|null|
 |**2025-01-27**|**Towards General-Purpose Model-Free Reinforcement Learning**|Scott Fujimoto et.al.|[2501.16142](http://arxiv.org/abs/2501.16142)|null|
 |**2025-01-27**|**Quantifying the Self-Interest Level of Markov Social Dilemmas**|Richard Willis et.al.|[2501.16138](http://arxiv.org/abs/2501.16138)|null|
-|**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130](http://arxiv.org/abs/2501.16130)|null|
+|**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130](http://arxiv.org/abs/2501.16130)|**[link](https://github.com/FaroukY/FillInMinimization)**|
 |**2025-01-27**|**Multi-Agent Meta-Offline Reinforcement Learning for Timely UAV Path Planning and Data Collection**|Eslam Eldeeb et.al.|[2501.16098](http://arxiv.org/abs/2501.16098)|null|
 |**2025-01-27**|**Flexible Blood Glucose Control: Offline Reinforcement Learning from Human Feedback**|Harry Emerson et.al.|[2501.15972](http://arxiv.org/abs/2501.15972)|null|
 |**2025-01-27**|**REINFORCE-ING Chemical Language Models in Drug Design**|Morgan Thomas et.al.|[2501.15971](http://arxiv.org/abs/2501.15971)|null|
-|**2025-01-27**|**Inverse Reinforcement Learning via Convex Optimization**|Hao Zhu et.al.|[2501.15957](http://arxiv.org/abs/2501.15957)|null|
+|**2025-01-27**|**Inverse Reinforcement Learning via Convex Optimization**|Hao Zhu et.al.|[2501.15957](http://arxiv.org/abs/2501.15957)|**[link](https://github.com/nrgrp/cvx_irl)**|
 |**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928](http://arxiv.org/abs/2501.15928)|null|
 |**2025-01-27**|**The Sample Complexity of Online Reinforcement Learning: A Multi-model Perspective**|Michael Muehlebach et.al.|[2501.15910](http://arxiv.org/abs/2501.15910)|null|
 |**2025-01-27**|**MPC4RL -- A Software Package for Reinforcement Learning based on Model Predictive Control**|Dirk Reinhardt et.al.|[2501.15897](http://arxiv.org/abs/2501.15897)|null|
@@ -11655,9 +11655,9 @@
 |**2025-01-26**|**A Comprehensive Survey on Self-Interpretable Neural Networks**|Yang Ji et.al.|[2501.15638](http://arxiv.org/abs/2501.15638)|**[link](https://github.com/yangji721/awesome-self-interpretable-neural-network)**|
 |**2025-01-26**|**Advancing TDFN: Precise Fixation Point Generation Using Reconstruction Differences**|Shuguang Wang et.al.|[2501.15603](http://arxiv.org/abs/2501.15603)|null|
 |**2025-01-26**|**UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning**|Oubo Ma et.al.|[2501.15529](http://arxiv.org/abs/2501.15529)|**[link](https://github.com/maoubo/unidoor)**|
-|**2025-01-26**|**Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning**|Alberto Castagna et.al.|[2501.15495](http://arxiv.org/abs/2501.15495)|null|
+|**2025-01-26**|**Expert-Free Online Transfer Learning in Multi-Agent Reinforcement Learning**|Alberto Castagna et.al.|[2501.15495](http://arxiv.org/abs/2501.15495)|**[link](https://github.com/acastagn/EF-OnTL)**|
 |**2025-01-26**|**RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**|Zhihan Zheng et.al.|[2501.15493](http://arxiv.org/abs/2501.15493)|null|
-|**2025-01-26**|**Exploring and Evaluating Interplays of BPpy with Deep Reinforcement Learning and Formal Methods**|Tom Yaacov et.al.|[2501.15480](http://arxiv.org/abs/2501.15480)|null|
+|**2025-01-26**|**Exploring and Evaluating Interplays of BPpy with Deep Reinforcement Learning and Formal Methods**|Tom Yaacov et.al.|[2501.15480](http://arxiv.org/abs/2501.15480)|**[link](https://github.com/bthink-bgu/papers-2025-enase-bppyevaluation)**|
 |**2025-01-26**|**GiantHunter: Accurate detection of giant virus in metagenomic data using reinforcement-learning and Monte Carlo tree search**|Fuchuan Qu et.al.|[2501.15472](http://arxiv.org/abs/2501.15472)|null|
 |**2025-01-26**|**Low-altitude Friendly-Jamming for Satellite-Maritime Communications via Generative AI-enabled Deep Reinforcement Learning**|Jiawei Huang et.al.|[2501.15468](http://arxiv.org/abs/2501.15468)|null|
 |**2025-01-28**|**Data-adaptive Safety Rules for Training Reward Models**|Xiaomin Li et.al.|[2501.15453](http://arxiv.org/abs/2501.15453)|null|
@@ -14078,7 +14078,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -14102,8 +14102,8 @@
 |**2025-01-28**|**Over-Tokenized Transformer: Vocabulary is Generally Worth Scaling**|Hongzhi Huang et.al.|[2501.16975](http://arxiv.org/abs/2501.16975)|null|
 |**2025-01-28**|**Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers**|Mohammad Raza et.al.|[2501.16961](http://arxiv.org/abs/2501.16961)|null|
 |**2025-01-28**|**Multiple Abstraction Level Retrieve Augment Generation**|Zheng Zheng et.al.|[2501.16952](http://arxiv.org/abs/2501.16952)|null|
-|**2025-01-28**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
-|**2025-01-28**|**Detecting harassment and defamation in cyberbullying with emotion-adaptive training**|Peiling Yi et.al.|[2501.16925](http://arxiv.org/abs/2501.16925)|null|
+|**2025-01-29**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
+|**2025-01-28**|**Detecting harassment and defamation in cyberbullying with emotion-adaptive training**|Peiling Yi et.al.|[2501.16925](http://arxiv.org/abs/2501.16925)|**[link](https://github.com/Misinformation-emotion/Cyberbullying-emotion)**|
 |**2025-01-28**|**RDMM: Fine-Tuned LLM Models for On-Device Robotic Decision Making with Enhanced Contextual Awareness in Specific Domains**|Shady Nasrat et.al.|[2501.16899](http://arxiv.org/abs/2501.16899)|**[link](https://github.com/shadynasrat/rdmm)**|
 |**2025-01-28**|**Machine-learning semi-local exchange-correlation functionals for Kohn-Sham density functional theory of the Hubbard model**|Eoghan Cronin et.al.|[2501.16893](http://arxiv.org/abs/2501.16893)|null|
 |**2025-01-28**|**Irony Detection, Reasoning and Understanding in Zero-shot Learning**|Peiling Yi et.al.|[2501.16884](http://arxiv.org/abs/2501.16884)|null|
@@ -14115,7 +14115,7 @@
 |**2025-01-28**|**Exploring the Role of Explicit Temporal Modeling in Multimodal Large Language Models for Video Understanding**|Yun Li et.al.|[2501.16786](http://arxiv.org/abs/2501.16786)|null|
 |**2025-01-28**|**TORCHLIGHT: Shedding LIGHT on Real-World Attacks on Cloudless IoT Devices Concealed within the Tor Network**|Yumingzhi Pan et.al.|[2501.16784](http://arxiv.org/abs/2501.16784)|null|
 |**2025-01-28**|**A Stochastic Dynamical Theory of LLM Self-Adversariality: Modeling Severity Drift as a Critical Process**|Jack David Carson et.al.|[2501.16783](http://arxiv.org/abs/2501.16783)|null|
-|**2025-01-28**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
+|**2025-01-29**|**Beyond-Labels: Advancing Open-Vocabulary Segmentation With Vision-Language Models**|Muhammad Atta ur Rahman et.al.|[2501.16769](http://arxiv.org/abs/2501.16769)|null|
 |**2025-01-28**|**HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns**|Xinyue Shen et.al.|[2501.16750](http://arxiv.org/abs/2501.16750)|**[link](https://github.com/trustairlab/hatebench)**|
 |**2025-01-28**|**Through the Prism of Culture: Evaluating LLMs' Understanding of Indian Subcultures and Traditions**|Garima Chhikara et.al.|[2501.16748](http://arxiv.org/abs/2501.16748)|null|
 |**2025-01-28**|**LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience**|Nimesh Jha et.al.|[2501.16744](http://arxiv.org/abs/2501.16744)|null|
@@ -19918,5 +19918,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
