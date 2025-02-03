@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -27,7 +27,7 @@ layout: default
 |**2025-01-30**|**CLoQ: Enhancing Fine-Tuning of Quantized LLMs via Calibrated LoRA Initialization**|Yanxia Deng et.al.|[2501.18475](http://arxiv.org/abs/2501.18475)|null|
 |**2025-01-30**|**Tuning Vision Foundation Model via Test-Time Prompt-Guided Training for VFSS Segmentations**|Chengxi Zeng et.al.|[2501.18474](http://arxiv.org/abs/2501.18474)|null|
 |**2025-01-30**|**A Benchmark and Evaluation for Real-World Out-of-Distribution Detection Using Vision-Language Models**|Shiho Noda et.al.|[2501.18463](http://arxiv.org/abs/2501.18463)|**[link](https://github.com/hoshi23/ood-x-banchmarks)**|
-|**2025-01-30**|**ExeCoder: Empowering Large Language Models with Executability Representation for Code Translation**|Minghua He et.al.|[2501.18460](http://arxiv.org/abs/2501.18460)|null|
+|**2025-01-31**|**ExeCoder: Empowering Large Language Models with Executability Representation for Code Translation**|Minghua He et.al.|[2501.18460](http://arxiv.org/abs/2501.18460)|null|
 |**2025-01-30**|**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering**|Yumeng Wang et.al.|[2501.18457](http://arxiv.org/abs/2501.18457)|null|
 |**2025-01-30**|**GENIE: Generative Note Information Extraction model for structuring EHR data**|Huaiyuan Ying et.al.|[2501.18435](http://arxiv.org/abs/2501.18435)|null|
 |**2025-01-30**|**Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation**|Youngjoon Lee et.al.|[2501.18416](http://arxiv.org/abs/2501.18416)|null|
@@ -45,7 +45,7 @@ layout: default
 |**2025-01-30**|**Economic Rationality under Specialization: Evidence of Decision Bias in AI Agents**|ShuiDe Wen et.al.|[2501.18190](http://arxiv.org/abs/2501.18190)|null|
 |**2025-01-30**|**Investigating Tax Evasion Emergence Using Dual Large Language Model and Deep Reinforcement Learning Powered Agent-based Simulation**|Teddy Lazebnik et.al.|[2501.18177](http://arxiv.org/abs/2501.18177)|null|
 |**2025-01-30**|**Continually Evolved Multimodal Foundation Models for Cancer Prognosis**|Jie Peng et.al.|[2501.18170](http://arxiv.org/abs/2501.18170)|null|
-|**2025-01-30**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
+|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
 |**2025-01-30**|**Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study**|Yuchen Lei et.al.|[2501.18158](http://arxiv.org/abs/2501.18158)|null|
 |**2025-01-30**|**Mixed-Precision Graph Neural Quantization for Low Bit Large Language Models**|Wanlong Liu et.al.|[2501.18154](http://arxiv.org/abs/2501.18154)|null|
 |**2025-01-30**|**Unraveling the Capabilities of Language Models in News Summarization**|Abdurrahman Odabaşı et.al.|[2501.18128](http://arxiv.org/abs/2501.18128)|null|
@@ -6435,7 +6435,7 @@ layout: default
 |**2025-01-30**|**Clustering Properties of Self-Supervised Learning**|Xi Weng et.al.|[2501.18452](http://arxiv.org/abs/2501.18452)|null|
 |**2025-01-30**|**MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability**|Yan Sun et.al.|[2501.18439](http://arxiv.org/abs/2501.18439)|null|
 |**2025-01-30**|**Optimizers for Stabilizing Likelihood-free Inference**|G. Bruno De Luca et.al.|[2501.18419](http://arxiv.org/abs/2501.18419)|**[link](https://github.com/zhenghenry/likelihoodratiostability)**|
-|**2025-01-30**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418](http://arxiv.org/abs/2501.18418)|null|
+|**2025-01-31**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418](http://arxiv.org/abs/2501.18418)|null|
 |**2025-01-30**|**Segmentation of cracks in 3d images of fiber reinforced concrete using deep learning**|Anna Nowacka et.al.|[2501.18405](http://arxiv.org/abs/2501.18405)|null|
 |**2025-01-30**|**Waveform-Specific Performance of Deep Learning-Based Super-Resolution for Ultrasound Contrast Imaging**|Rienk Zorgdrager et.al.|[2501.18375](http://arxiv.org/abs/2501.18375)|**[link](https://github.com/miagrouput/super-resolution-waveforms)**|
 |**2025-01-30**|**A Cartesian Encoding Graph Neural Network for Crystal Structures Property Prediction: Application to Thermal Ellipsoid Estimation**|Àlex Solé et.al.|[2501.18369](http://arxiv.org/abs/2501.18369)|**[link](https://github.com/imatge-upc/CartNet)**|
@@ -14308,7 +14308,7 @@ layout: default
 |**2025-01-30**|**A Tool for In-depth Analysis of Code Execution Reasoning of Large Language Models**|Changshu Liu et.al.|[2501.18482](http://arxiv.org/abs/2501.18482)|null|
 |**2025-01-30**|**CLoQ: Enhancing Fine-Tuning of Quantized LLMs via Calibrated LoRA Initialization**|Yanxia Deng et.al.|[2501.18475](http://arxiv.org/abs/2501.18475)|null|
 |**2025-01-30**|**Tuning Vision Foundation Model via Test-Time Prompt-Guided Training for VFSS Segmentations**|Chengxi Zeng et.al.|[2501.18474](http://arxiv.org/abs/2501.18474)|null|
-|**2025-01-30**|**ExeCoder: Empowering Large Language Models with Executability Representation for Code Translation**|Minghua He et.al.|[2501.18460](http://arxiv.org/abs/2501.18460)|null|
+|**2025-01-31**|**ExeCoder: Empowering Large Language Models with Executability Representation for Code Translation**|Minghua He et.al.|[2501.18460](http://arxiv.org/abs/2501.18460)|null|
 |**2025-01-30**|**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering**|Yumeng Wang et.al.|[2501.18457](http://arxiv.org/abs/2501.18457)|null|
 |**2025-01-30**|**GENIE: Generative Note Information Extraction model for structuring EHR data**|Huaiyuan Ying et.al.|[2501.18435](http://arxiv.org/abs/2501.18435)|null|
 |**2025-01-30**|**Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation**|Youngjoon Lee et.al.|[2501.18416](http://arxiv.org/abs/2501.18416)|null|
@@ -14323,7 +14323,7 @@ layout: default
 |**2025-01-30**|**Economic Rationality under Specialization: Evidence of Decision Bias in AI Agents**|ShuiDe Wen et.al.|[2501.18190](http://arxiv.org/abs/2501.18190)|null|
 |**2025-01-30**|**Investigating Tax Evasion Emergence Using Dual Large Language Model and Deep Reinforcement Learning Powered Agent-based Simulation**|Teddy Lazebnik et.al.|[2501.18177](http://arxiv.org/abs/2501.18177)|null|
 |**2025-01-30**|**Continually Evolved Multimodal Foundation Models for Cancer Prognosis**|Jie Peng et.al.|[2501.18170](http://arxiv.org/abs/2501.18170)|null|
-|**2025-01-30**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
+|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
 |**2025-01-30**|**Large Language Models for Cryptocurrency Transaction Analysis: A Bitcoin Case Study**|Yuchen Lei et.al.|[2501.18158](http://arxiv.org/abs/2501.18158)|null|
 |**2025-01-30**|**Mixed-Precision Graph Neural Quantization for Low Bit Large Language Models**|Wanlong Liu et.al.|[2501.18154](http://arxiv.org/abs/2501.18154)|null|
 |**2025-01-30**|**Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models**|Qika Lin et.al.|[2501.18119](http://arxiv.org/abs/2501.18119)|null|
