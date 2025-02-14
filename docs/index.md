@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -6818,7 +6818,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-12**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644](http://arxiv.org/abs/2502.08644)|null|
+|**2025-02-13**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644](http://arxiv.org/abs/2502.08644)|null|
 |**2025-02-12**|**Rapid Whole Brain Mesoscale In-vivo MR Imaging using Multi-scale Implicit Neural Representation**|Jun Lyu et.al.|[2502.08634](http://arxiv.org/abs/2502.08634)|null|
 |**2025-02-12**|**Necessary and Sufficient Oracles: Toward a Computational Taxonomy For Reinforcement Learning**|Dhruv Rohatgi et.al.|[2502.08632](http://arxiv.org/abs/2502.08632)|null|
 |**2025-02-12**|**Randomness of Low-Layer Parameters Determines Confusing Samples in Terms of Interaction Representations of a DNN**|Junpeng Zhang et.al.|[2502.08625](http://arxiv.org/abs/2502.08625)|null|
@@ -6829,7 +6829,7 @@ layout: default
 |**2025-02-12**|**Beyond Predictions: A Participatory Framework for Multi-Stakeholder Decision-Making**|Vittoria Vineis et.al.|[2502.08542](http://arxiv.org/abs/2502.08542)|null|
 |**2025-02-12**|**A Survey on Image Quality Assessment: Insights, Analysis, and Future Outlook**|Chengqian Ma et.al.|[2502.08540](http://arxiv.org/abs/2502.08540)|null|
 |**2025-02-12**|**Input convex neural networks: universal approximation theorem and implementation for isotropic polyconvex hyperelastic energies**|Gian-Luca Geuken et.al.|[2502.08534](http://arxiv.org/abs/2502.08534)|null|
-|**2025-02-12**|**A universal route from avalanches in mean-field models with random fields to stochastic Poisson branching events**|Jordi Baró et.al.|[2502.08526](http://arxiv.org/abs/2502.08526)|null|
+|**2025-02-13**|**A universal route from avalanches in mean-field models with random fields to stochastic Poisson branching events**|Jordi Baró et.al.|[2502.08526](http://arxiv.org/abs/2502.08526)|null|
 |**2025-02-12**|**Measuring Diversity in Synthetic Datasets**|Yuchang Zhu et.al.|[2502.08512](http://arxiv.org/abs/2502.08512)|null|
 |**2025-02-12**|**Bridging Domain Adaptation and Graph Neural Networks: A Tensor-Based Framework for Effective Label Propagation**|Tao Wen et.al.|[2502.08505](http://arxiv.org/abs/2502.08505)|null|
 |**2025-02-12**|**Fine-Tuning Topics through Weighting Aspect Keywords**|Ali Nazari et.al.|[2502.08496](http://arxiv.org/abs/2502.08496)|null|
@@ -6844,7 +6844,7 @@ layout: default
 |**2025-02-12**|**Generalized synchronization in the presence of dynamical noise and its detection via recurrent neural networks**|José M. Amigó et.al.|[2502.08343](http://arxiv.org/abs/2502.08343)|null|
 |**2025-02-12**|**Hierarchical Learning-based Graph Partition for Large-scale Vehicle Routing Problems**|Yuxin Pan et.al.|[2502.08340](http://arxiv.org/abs/2502.08340)|null|
 |**2025-02-12**|**Screener: Self-supervised Pathology Segmentation Model for 3D Medical Images**|Mikhail Goncharov et.al.|[2502.08321](http://arxiv.org/abs/2502.08321)|null|
-|**2025-02-12**|**When do they StOP?: A First Step Towards Automatically Identifying Team Communication in the Operating Room**|Keqi Chen et.al.|[2502.08299](http://arxiv.org/abs/2502.08299)|null|
+|**2025-02-13**|**When do they StOP?: A First Step Towards Automatically Identifying Team Communication in the Operating Room**|Keqi Chen et.al.|[2502.08299](http://arxiv.org/abs/2502.08299)|null|
 |**2025-02-12**|**Data Pricing for Graph Neural Networks without Pre-purchased Inspection**|Yiping Liu et.al.|[2502.08284](http://arxiv.org/abs/2502.08284)|null|
 |**2025-02-12**|**SVD-based Causal Emergence for Gaussian Iterative Systems**|Kaiwei Liu et.al.|[2502.08261](http://arxiv.org/abs/2502.08261)|null|
 |**2025-02-12**|**ChemZIP: Accelerated Modeling of Complex Aerothermochemical Interactions in Novel Turbomachines for Sustainable High-Temperature Chemical Processes**|Dylan Rubini et.al.|[2502.08232](http://arxiv.org/abs/2502.08232)|null|
@@ -12629,14 +12629,14 @@ layout: default
 |**2025-02-11**|**Coupling Agent-Based Simulations and VR universes: the case of GAMA and Unity**|Alexis Drogoul et.al.|[2502.07405](http://arxiv.org/abs/2502.07405)|null|
 |**2025-02-11**|**Enhancing Higher Education with Generative AI: A Multimodal Approach for Personalised Learning**|Johnny Chan et.al.|[2502.07401](http://arxiv.org/abs/2502.07401)|null|
 |**2025-02-11**|**Optimality in importance sampling: a gentle survey**|Fernando Llorente et.al.|[2502.07396](http://arxiv.org/abs/2502.07396)|null|
-|**2025-02-11**|**FinRL-DeepSeek: LLM-Infused Risk-Sensitive Reinforcement Learning for Trading Agents**|Mostapha Benhenda et.al.|[2502.07393](http://arxiv.org/abs/2502.07393)|null|
+|**2025-02-11**|**FinRL-DeepSeek: LLM-Infused Risk-Sensitive Reinforcement Learning for Trading Agents**|Mostapha Benhenda et.al.|[2502.07393](http://arxiv.org/abs/2502.07393)|**[link](https://github.com/benstaf/finrl_deepseek)**|
 |**2025-02-11**|**UAV-assisted Joint Mobile Edge Computing and Data Collection via Matching-enabled Deep Reinforcement Learning**|Boxiong Wang et.al.|[2502.07388](http://arxiv.org/abs/2502.07388)|null|
 |**2025-02-11**|**PICTS: A Novel Deep Reinforcement Learning Approach for Dynamic P-I Control in Scanning Probe Microscopy**|Ziwei Wei et.al.|[2502.07326](http://arxiv.org/abs/2502.07326)|null|
 |**2025-02-11**|**MIGT: Memory Instance Gated Transformer Framework for Financial Portfolio Management**|Fengchen Gu et.al.|[2502.07280](http://arxiv.org/abs/2502.07280)|null|
 |**2025-02-11**|**Exploratory Diffusion Policy for Unsupervised Reinforcement Learning**|Chengyang Ying et.al.|[2502.07279](http://arxiv.org/abs/2502.07279)|null|
 |**2025-02-11**|**DrugImproverGPT: A Large Language Model for Drug Optimization with Fine-Tuning via Structured Policy Optimization**|Xuefeng Liu et.al.|[2502.07237](http://arxiv.org/abs/2502.07237)|null|
 |**2025-02-11**|**Improve the Training Efficiency of DRL for Wireless Communication Resource Allocation: The Role of Generative Diffusion Models**|Xinren Zhang et.al.|[2502.07211](http://arxiv.org/abs/2502.07211)|null|
-|**2025-02-11**|**Provably Efficient RLHF Pipeline: A Unified View from Contextual Bandits**|Long-Fei Li et.al.|[2502.07193](http://arxiv.org/abs/2502.07193)|null|
+|**2025-02-11**|**Provably Efficient RLHF Pipeline: A Unified View from Contextual Bandits**|Long-Fei Li et.al.|[2502.07193](http://arxiv.org/abs/2502.07193)|**[link](https://github.com/zinyy/rlhf_pipeline)**|
 |**2025-02-10**|**Cross-platform Learning-based Fault Tolerant Surfacing Controller for Underwater Robots**|Yuya Hamamatsu et.al.|[2502.07133](http://arxiv.org/abs/2502.07133)|null|
 |**2025-02-10**|**Threat Me Right: A Human HARMS Threat Model for Technical Systems**|Kieron Ivy Turk et.al.|[2502.07116](http://arxiv.org/abs/2502.07116)|null|
 |**2025-02-10**|**Multi-turn Evaluation of Anthropomorphic Behaviours in Large Language Models**|Lujain Ibrahim et.al.|[2502.07077](http://arxiv.org/abs/2502.07077)|null|
