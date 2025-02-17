@@ -1,4 +1,4 @@
-## Updated on 2025.02.16
+## Updated on 2025.02.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -37,7 +37,7 @@
 |**2025-02-13**|**SQuARE: Sequential Question Answering Reasoning Engine for Enhanced Chain-of-Thought in Large Language Models**|Daniel Fleischer et.al.|[2502.09390](http://arxiv.org/abs/2502.09390)|null|
 |**2025-02-13**|**Truth Knows No Language: Evaluating Truthfulness Beyond English**|Blanca Calvo Figueras et.al.|[2502.09387](http://arxiv.org/abs/2502.09387)|null|
 |**2025-02-13**|**APT-LLM: Embedding-Based Anomaly Detection of Cyber Advanced Persistent Threats Using Large Language Models**|Sidahmed Benabderrahmane et.al.|[2502.09385](http://arxiv.org/abs/2502.09385)|null|
-|**2025-02-13**|**LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won't Fail)**|Junsu Kim et.al.|[2502.09376](http://arxiv.org/abs/2502.09376)|null|
+|**2025-02-14**|**LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won't Fail)**|Junsu Kim et.al.|[2502.09376](http://arxiv.org/abs/2502.09376)|null|
 |**2025-02-13**|**Language Agents as Digital Representatives in Collective Decision-Making**|Daniel Jarrett et.al.|[2502.09369](http://arxiv.org/abs/2502.09369)|null|
 |**2025-02-13**|**ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments**|Youhe Jiang et.al.|[2502.09334](http://arxiv.org/abs/2502.09334)|null|
 |**2025-02-13**|**Beyond English: The Impact of Prompt Translation Strategies across Languages and Tasks in Multilingual LLMs**|Itai Mondshine et.al.|[2502.09331](http://arxiv.org/abs/2502.09331)|null|
@@ -6870,7 +6870,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|**[link](https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl)**|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
 
 ## Text Classification
 
@@ -6886,7 +6886,7 @@
 |**2025-02-13**|**Eidetic Learning: an Efficient and Provable Solution to Catastrophic Forgetting**|Nicholas Dronen et.al.|[2502.09500](http://arxiv.org/abs/2502.09500)|**[link](https://github.com/amazon-science/eideticnet-training)**|
 |**2025-02-13**|**Cracking the Code: Enhancing Development finance understanding with artificial intelligence**|Pierre Beaucoral et.al.|[2502.09495](http://arxiv.org/abs/2502.09495)|null|
 |**2025-02-13**|**Foundation Neural-Network Quantum States**|Riccardo Rende et.al.|[2502.09488](http://arxiv.org/abs/2502.09488)|null|
-|**2025-02-13**|**Learning to Predict Global Atrial Fibrillation Dynamics from Sparse Measurements**|Alexander Jenkins et.al.|[2502.09473](http://arxiv.org/abs/2502.09473)|null|
+|**2025-02-14**|**Learning to Predict Global Atrial Fibrillation Dynamics from Sparse Measurements**|Alexander Jenkins et.al.|[2502.09473](http://arxiv.org/abs/2502.09473)|null|
 |**2025-02-13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|Chenxiang Ma et.al.|[2502.09449](http://arxiv.org/abs/2502.09449)|null|
 |**2025-02-13**|**A Differentiable Rank-Based Objective For Better Feature Learning**|Krunoslav Lehman Pavasovic et.al.|[2502.09445](http://arxiv.org/abs/2502.09445)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
@@ -6904,7 +6904,7 @@
 |**2025-02-13**|**When do neural networks learn world models?**|Tianren Zhang et.al.|[2502.09297](http://arxiv.org/abs/2502.09297)|null|
 |**2025-02-13**|**An Uncertainty Principle for Linear Recurrent Neural Networks**|Alexandre François et.al.|[2502.09287](http://arxiv.org/abs/2502.09287)|null|
 |**2025-02-13**|**FE-LWS: Refined Image-Text Representations via Decoder Stacking and Fused Encodings for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2502.09282](http://arxiv.org/abs/2502.09282)|null|
-|**2025-02-13**|**LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection**|Wenlun Zhang et.al.|[2502.09271](http://arxiv.org/abs/2502.09271)|null|
+|**2025-02-14**|**LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection**|Wenlun Zhang et.al.|[2502.09271](http://arxiv.org/abs/2502.09271)|null|
 |**2025-02-13**|**Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence**|Yuankai Luo et.al.|[2502.09263](http://arxiv.org/abs/2502.09263)|**[link](https://github.com/LUOyk1999/tunedGNN-G)**|
 |**2025-02-13**|**On the Importance of Embedding Norms in Self-Supervised Learning**|Andrew Draganov et.al.|[2502.09252](http://arxiv.org/abs/2502.09252)|null|
 |**2025-02-13**|**The quest for new materials: the network theory and machine learning perspectives**|Jacopo Moi et.al.|[2502.09250](http://arxiv.org/abs/2502.09250)|null|
@@ -12692,7 +12692,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -12715,12 +12715,12 @@
 |**2025-02-13**|**Hope vs. Hate: Understanding User Interactions with LGBTQ+ News Content in Mainstream US News Media through the Lens of Hope Speech**|Jonathan Pofcher et.al.|[2502.09004](http://arxiv.org/abs/2502.09004)|null|
 |**2025-02-13**|**RLSA-PFL: Robust Lightweight Secure Aggregation with Model Inconsistency Detection in Privacy-Preserving Federated Learning**|Nazatul H. Sultan et.al.|[2502.08989](http://arxiv.org/abs/2502.08989)|null|
 |**2025-02-13**|**Few is More: Task-Efficient Skill-Discovery for Multi-Task Offline Multi-Agent Reinforcement Learning**|Xun Wang et.al.|[2502.08985](http://arxiv.org/abs/2502.08985)|null|
-|**2025-02-13**|**Analysis of Off-Policy $n$ -Step TD-Learning with Linear Function Approximation**|Han-Dong Lim et.al.|[2502.08941](http://arxiv.org/abs/2502.08941)|null|
+|**2025-02-14**|**Analysis of Off-Policy $n$ -Step TD-Learning with Linear Function Approximation**|Han-Dong Lim et.al.|[2502.08941](http://arxiv.org/abs/2502.08941)|null|
 |**2025-02-13**|**Reevaluating Policy Gradient Methods for Imperfect-Information Games**|Max Rudolph et.al.|[2502.08938](http://arxiv.org/abs/2502.08938)|null|
 |**2025-02-13**|**AutoLike: Auditing Social Media Recommendations through User Interactions**|Hieu Le et.al.|[2502.08933](http://arxiv.org/abs/2502.08933)|null|
 |**2025-02-13**|**Exploring Emotion-Sensitive LLM-Based Conversational AI**|Antonin Brun et.al.|[2502.08920](http://arxiv.org/abs/2502.08920)|null|
 |**2025-02-13**|**Reinforced Large Language Model is a formal theorem prover**|Zhiling Luo et.al.|[2502.08908](http://arxiv.org/abs/2502.08908)|null|
-|**2025-02-13**|**Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks**|Zijian Huang et.al.|[2502.08865](http://arxiv.org/abs/2502.08865)|null|
+|**2025-02-14**|**Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks**|Zijian Huang et.al.|[2502.08865](http://arxiv.org/abs/2502.08865)|null|
 |**2025-02-12**|**A Survey on Data-Centric AI: Tabular Learning from Reinforcement Learning and Generative AI Perspective**|Wangyang Ying et.al.|[2502.08828](http://arxiv.org/abs/2502.08828)|null|
 |**2025-02-12**|**A Framework to Develop and Validate RL-Based Obstacle-Aware UAV Positioning Algorithms**|Kamran Shafafi et.al.|[2502.08787](http://arxiv.org/abs/2502.08787)|null|
 |**2025-02-12**|**Contextual bandits with entropy-based human feedback**|Raihan Seraj et.al.|[2502.08759](http://arxiv.org/abs/2502.08759)|null|
@@ -12744,7 +12744,7 @@
 |**2025-02-12**|**Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance**|Lingfei Qian et.al.|[2502.08127](http://arxiv.org/abs/2502.08127)|null|
 |**2025-02-12**|**Provably Robust Federated Reinforcement Learning**|Minghong Fang et.al.|[2502.08123](http://arxiv.org/abs/2502.08123)|null|
 |**2025-02-12**|**Generative AI-Enhanced Cooperative MEC of UAVs and Ground Stations for Unmanned Surface Vehicles**|Jiahao You et.al.|[2502.08119](http://arxiv.org/abs/2502.08119)|null|
-|**2025-02-12**|**COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping**|Jun Yamada et.al.|[2502.08054](http://arxiv.org/abs/2502.08054)|null|
+|**2025-02-14**|**COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping**|Jun Yamada et.al.|[2502.08054](http://arxiv.org/abs/2502.08054)|null|
 |**2025-02-12**|**WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation**|Henry Hengyuan Zhao et.al.|[2502.08047](http://arxiv.org/abs/2502.08047)|null|
 |**2025-02-11**|**Model Selection for Off-policy Evaluation: New Algorithms and Experimental Protocol**|Pai Liu et.al.|[2502.08021](http://arxiv.org/abs/2502.08021)|null|
 |**2025-02-11**|**Welzijn.AI: A Conversational AI System for Monitoring Mental Well-being and a Use Case for Responsible AI Development**|Bram van Dijk et.al.|[2502.07983](http://arxiv.org/abs/2502.07983)|null|
@@ -15503,7 +15503,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -15528,7 +15528,7 @@
 |**2025-02-13**|**SQuARE: Sequential Question Answering Reasoning Engine for Enhanced Chain-of-Thought in Large Language Models**|Daniel Fleischer et.al.|[2502.09390](http://arxiv.org/abs/2502.09390)|null|
 |**2025-02-13**|**Truth Knows No Language: Evaluating Truthfulness Beyond English**|Blanca Calvo Figueras et.al.|[2502.09387](http://arxiv.org/abs/2502.09387)|null|
 |**2025-02-13**|**APT-LLM: Embedding-Based Anomaly Detection of Cyber Advanced Persistent Threats Using Large Language Models**|Sidahmed Benabderrahmane et.al.|[2502.09385](http://arxiv.org/abs/2502.09385)|null|
-|**2025-02-13**|**LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won't Fail)**|Junsu Kim et.al.|[2502.09376](http://arxiv.org/abs/2502.09376)|null|
+|**2025-02-14**|**LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won't Fail)**|Junsu Kim et.al.|[2502.09376](http://arxiv.org/abs/2502.09376)|null|
 |**2025-02-13**|**Language Agents as Digital Representatives in Collective Decision-Making**|Daniel Jarrett et.al.|[2502.09369](http://arxiv.org/abs/2502.09369)|null|
 |**2025-02-13**|**ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments**|Youhe Jiang et.al.|[2502.09334](http://arxiv.org/abs/2502.09334)|null|
 |**2025-02-13**|**Beyond English: The Impact of Prompt Translation Strategies across Languages and Tasks in Multilingual LLMs**|Itai Mondshine et.al.|[2502.09331](http://arxiv.org/abs/2502.09331)|null|
@@ -21884,5 +21884,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
 
