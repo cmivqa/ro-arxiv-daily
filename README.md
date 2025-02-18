@@ -1,4 +1,4 @@
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -60,7 +60,7 @@
 |**2025-02-14**|**V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models**|Hsu-kuang Chiu et.al.|[2502.09980](http://arxiv.org/abs/2502.09980)|null|
 |**2025-02-14**|**LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing**|Kuan Li et.al.|[2502.09977](http://arxiv.org/abs/2502.09977)|null|
 |**2025-02-14**|**Has My System Prompt Been Used? Large Language Model Prompt Membership Inference**|Roman Levin et.al.|[2502.09974](http://arxiv.org/abs/2502.09974)|null|
-|**2025-02-14**|**Data Valuation using Neural Networks for Efficient Instruction Fine-Tuning**|Ishika Agarwal et.al.|[2502.09969](http://arxiv.org/abs/2502.09969)|null|
+|**2025-02-14**|**Data Valuation using Neural Networks for Efficient Instruction Fine-Tuning**|Ishika Agarwal et.al.|[2502.09969](http://arxiv.org/abs/2502.09969)|**[link](https://github.com/agarwalishika/NN-CIFT)**|
 |**2025-02-14**|**KGGen: Extracting Knowledge Graphs from Plain Text with Language Models**|Belinda Mo et.al.|[2502.09956](http://arxiv.org/abs/2502.09956)|null|
 |**2025-02-14**|**Analyzing Patient Daily Movement Behavior Dynamics Using Two-Stage Encoding Model**|Jin Cui et.al.|[2502.09947](http://arxiv.org/abs/2502.09947)|null|
 |**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622](http://arxiv.org/abs/2502.09622)|null|
@@ -6920,7 +6920,7 @@
 |**2024-09-14**|**Symbolic Regression with a Learned Concept Library**|Arya Grayeli et.al.|[2409.09359](http://arxiv.org/abs/2409.09359)|**[link](https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl)**|
 |**2024-09-14**|**Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration with Improved Intelligibility**|Xiaoyu Liu et.al.|[2409.09357](http://arxiv.org/abs/2409.09357)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## Text Classification
 
@@ -6952,7 +6952,7 @@
 |**2025-02-14**|**Heterogeneous Resource Allocation with Multi-task Learning for Wireless Networks**|Nikos A. Mitsiou et.al.|[2502.10027](http://arxiv.org/abs/2502.10027)|null|
 |**2025-02-14**|**InterGridNet: An Electric Network Frequency Approach for Audio Source Location Classification Using Convolutional Neural Networks**|Christos Korgialas et.al.|[2502.10011](http://arxiv.org/abs/2502.10011)|null|
 |**2025-02-14**|**Discovering Polynomial and Quadratic Structure in Nonlinear Ordinary Differential Equations**|Boris Kramer et.al.|[2502.10005](http://arxiv.org/abs/2502.10005)|null|
-|**2025-02-14**|**Data Valuation using Neural Networks for Efficient Instruction Fine-Tuning**|Ishika Agarwal et.al.|[2502.09969](http://arxiv.org/abs/2502.09969)|null|
+|**2025-02-14**|**Data Valuation using Neural Networks for Efficient Instruction Fine-Tuning**|Ishika Agarwal et.al.|[2502.09969](http://arxiv.org/abs/2502.09969)|**[link](https://github.com/agarwalishika/NN-CIFT)**|
 |**2025-02-14**|**On Space Folds of ReLU Neural Networks**|Michal Lewandowski et.al.|[2502.09954](http://arxiv.org/abs/2502.09954)|null|
 |**2025-02-14**|**Using MRNet to Predict Lunar Rock Categories Detected by Chang'e 5 Probe**|Jin Cui et.al.|[2502.09952](http://arxiv.org/abs/2502.09952)|null|
 |**2025-02-14**|**The Blind Men and the Elephant: Mapping Interdisciplinarity in Research on Decentralized Autonomous Organizations**|Giorgia Sampò et.al.|[2502.09949](http://arxiv.org/abs/2502.09949)|null|
@@ -12792,7 +12792,7 @@
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## Dialog Systems
 
@@ -15626,7 +15626,7 @@
 |**2024-09-11**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
 |**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## Multimodal LLM
 
@@ -22057,5 +22057,5 @@
 |**2024-09-13**|**AIPO: Improving Training Objective for Iterative Preference Optimization**|Yaojie Shen et.al.|[2409.08845](http://arxiv.org/abs/2409.08845)|**[link](https://github.com/bytedance/aipo)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
